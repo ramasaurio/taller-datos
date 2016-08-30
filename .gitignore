@@ -5,6 +5,6 @@
 *.prefs
 *.pyc
 /*/.idea
-
+.idea/
 /*/test
 *.pkl
