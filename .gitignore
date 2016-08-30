@@ -1,0 +1,10 @@
+/.metadata/
+*.project
+*.pydevproject
+*.prefs
+*.prefs
+*.pyc
+/*/.idea
+
+/*/test
+*.pkl
