@@ -6,5 +6,5 @@
 *.pyc
 /*/.idea
 .idea/
-/*/test
+/otros
 *.pkl
