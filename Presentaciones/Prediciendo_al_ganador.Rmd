@@ -1,0 +1,64 @@
+---
+title: |
+     | ¿Quién gana? 
+     | Predicción de resultados de ligas de fútbol europeas
+author: "Ismael Gómez  / Cristóbal Montt / Felipe Ramírez"
+date: "8 de septiembre de 2016"
+output: beamer_presentation
+---
+
+## Objetivo
+
+Predecir el resultado de partidos de fútbol.
+
+Estamos evaluando dos posibilidades:
+
+- Predecir el resultado del partido, tiene una salida con tres posibles resultados: gana local / empate / gana visita.
+
+y/o
+
+- Predecir número de goles de equipo local y visita.
+
+## Dataset
+
+"European Soccer Database" disponible en <https://www.kaggle.com/hugomathien/soccer>. 
+
+Dataset que cuenta con datos de más de 25000 partidos y más de 10000 jugadores de 11 países europeos, con las temporadas entre 2008/2009 y 2015/2016, correspondientes a las siguientes ligas:
+
+\tiny
+```{r echo = FALSE, warning=FALSE, message = FALSE}
+library(RSQLite)
+library(dplyr)
+con <- dbConnect(SQLite(), dbname=paste0(getwd(),"/ppt/database.sqlite"))
+player       <- tbl_df(dbGetQuery(con,"SELECT * FROM player"))
+player_stats <- tbl_df(dbGetQuery(con,"SELECT * FROM player_stats"))
+Match        <- tbl_df(dbGetQuery(con,"SELECT * FROM Match"))
+Team         <- tbl_df(dbGetQuery(con,"SELECT * FROM Team"))
+Country      <- tbl_df(dbGetQuery(con,"SELECT * FROM Country"))
+League       <- tbl_df(dbGetQuery(con,"SELECT * FROM League"))
+SQLite       <- tbl_df(dbGetQuery(con,"SELECT * FROM sqlite_sequence"))
+
+League$name
+```
+
+
+## Entidades
+
+\tiny
+```{r echo =FALSE, warning=FALSE}
+
+entidades <- c("Partido","" ,"", "", "", "", "", "","", "", "", "Equipo"," ", "Liga", "", "País", "Jugador", "", "", "", "Características Jugador", "", "", "", "", "", "")
+atributos <- c(c("id", "Fecha", "Temporada", "tiros al arco", "faltas", "% posesión", "corners", "tiros libres", "equipo local", "equipo visita", "jugadores"), 
+               c("nombre", "liga"), 
+               c("nombre", "id país"), 
+               c("nombre"), 
+               c("nombre", "edad", "altura", "peso"), 
+               c("nombre", "puntaje promedio", "finiquito", "velocidad", "cabezazo", "agilidad", "control de balón"))
+
+entidades_atributos <- cbind(entidades, atributos)
+
+library(knitr)
+kable(entidades_atributos)
+
+
+```
