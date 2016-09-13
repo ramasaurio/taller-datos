@@ -6,6 +6,7 @@
 *.pyc
 /*/.idea
 .idea/
+/Dataset
 /otros
 /ppt
 *.pkl
