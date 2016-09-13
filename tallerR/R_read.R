@@ -26,7 +26,14 @@ Country      <- tbl_df(dbGetQuery(con,"SELECT * FROM Country"))
 League       <- tbl_df(dbGetQuery(con,"SELECT * FROM League"))
 SQLite       <- tbl_df(dbGetQuery(con,"SELECT * FROM sqlite_sequence"))
 
-a<-tbl_df(dbGetQuery(con,"SELECT player_name, birthday, height, weight FROM player join player_stats on 
-                     player.player_api_id = player_stats.player_api_id where player_name like 'Alexis Sanchez' GROUP BY player_name"))
+consulta = 
+"SELECT player_name, height, weight, overall_rating, potential, finishing
+FROM player
+JOIN player_stats
+ON player.player_api_id = player_stats.player_api_id
+WHERE player_name like 'Alexis Sanchez'
+GROUP BY player_name"
+
+a<-tbl_df(dbGetQuery(con,consulta))
 
 # Este c?digo lo saqu? del sitio Kaggle. Hay un ejemplo de como calcular el promedio de FIFA rating para cada equipo en cada partido
