@@ -31,9 +31,14 @@ consulta =
 FROM player
 JOIN player_stats
 ON player.player_api_id = player_stats.player_api_id
-WHERE player_name like 'Alexis Sanchez'
+WHERE player_name like '%ingham%'
 GROUP BY player_name"
 
 a<-tbl_df(dbGetQuery(con,consulta))
-
+tail(player)
+tail(player_stats)
+player_stat_final <- tbl_df(dbGetQuery(con, "SELECT DISTINCT player_fifa_api_id FROM player_stats"))
+player_stat_final
 # Este c?digo lo saqu? del sitio Kaggle. Hay un ejemplo de como calcular el promedio de FIFA rating para cada equipo en cada partido
+write.table(player, file="players.csv", sep=",", row.names=FALSE)
+
