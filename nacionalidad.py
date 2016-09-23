@@ -5,23 +5,25 @@ from player import Player
 
 def run():
 
-    # Todos los jugadores de dbpedia que nacieron después de 1967
-    # y que han jugado en clubes de España, Italia, Alemania o Inglaterra
-    players = getPlayers('Dataset/Nacionalidades/england-players.csv')
-    players.extend(getPlayers('Dataset/Nacionalidades/italy-players.csv'))
-    players.extend(getPlayers('Dataset/Nacionalidades/germany-players.csv'))
-    players.extend(getPlayers('Dataset/Nacionalidades/spain-players.csv'))
-    print(len(players))
+    # # Todos los jugadores de dbpedia que nacieron después de 1967
+    # # y que han jugado en clubes de España, Italia, Alemania o Inglaterra
+    # players = getPlayers('Dataset/Nacionalidades/england-players.csv')
+    # players.extend(getPlayers('Dataset/Nacionalidades/italy-players.csv'))
+    # players.extend(getPlayers('Dataset/Nacionalidades/germany-players.csv'))
+    # players.extend(getPlayers('Dataset/Nacionalidades/spain-players.csv'))
+    # print(len(players))
+    #
+    # # Todos los jugadores con distintos nombres completos
+    # playersByName = {}
+    # for player in players:
+    #     if player.fullname not in playersByName:
+    #         playersByName[player.fullname] = player
+    #     elif ',' not in player.name:
+    #         playersByName[player.fullname] = player
+    # print(len(playersByName))
 
-    # Todos los jugadores con distintos nombres completos
-    playersByName = {}
-    for player in players:
-        if player.fullname not in playersByName:
-            playersByName[player.fullname] = player
-        elif ',' not in player.name:
-            playersByName[player.fullname] = player
-            # print(player.name, player.fullname)
-    print(len(playersByName))
+    playersFifa = getPlayersFifa('Dataset/Nacionalidades/players.csv', ',')
+    print(len(playersFifa))
 
 
 def test():
@@ -102,20 +104,24 @@ def getPlayers(path, sep=';'):
     for line in infile:
         try:
             name, fullname, country, bday = line.replace('\n', '').replace('\r', '').replace(', Jr', ' Jr').split(sep)
-
-            # Para manejar nombre con comas
-            if ',' in name:
-                auxname = name.split(',')
-                if len(auxname) == 2:
-                    name = auxname[1][1:] + ' ' + auxname[0]
-
-            # Para manejar los casos en que no esté el nombre o el nombre completo
-            if fullname == '-':
-                fullname = name
-            if name == '-':
-                name = fullname
-
             players.append(Player(name, fullname, country, bday))
+        except ValueError:
+            print(line)
+
+    infile.close()
+    return players
+
+
+# "id", "player_api_id", "player_name"       , "player_fifa_api_id", "birthday"           ,"height","weight"
+#  1  , 505942         , "Aaron Appindangoye", 218353              , "1992-02-29 00:00:00",182.88  ,187
+
+def getPlayersFifa(path, sep=','):
+    infile = open(path, mode='r', encoding='utf-8')
+    infile.readline()
+    players = []
+    for line in infile:
+        try:
+            _, idapi, name, idapififa, bday, _, _ = line.replace('\n', '').replace('\r', '').split(sep)
         except ValueError:
             print(line)
 
@@ -125,5 +131,3 @@ def getPlayers(path, sep=';'):
 
 if __name__ == '__main__':
     run()
-
-

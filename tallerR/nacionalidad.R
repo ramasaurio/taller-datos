@@ -12,3 +12,4 @@ nac = nacimiento[order(nacimiento$birthday),]
 nrow(nac)
 head(nac)
 tail(nac)
+player[42,]
