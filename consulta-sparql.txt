@@ -1,0 +1,50 @@
+PREFIX yago: <http://dbpedia.org/class/yago/>
+
+SELECT ?Name ?Team ?Country WHERE {
+   
+   ?Player dbp:fullname ?Name .
+   ?Team rdf:type yago:FootballClubsInEngland .   
+   ?Player dbp:currentclub ?Team .
+   ?City dbo:country ?Country .
+   ?Player dbo:birthPlace ?City .
+
+}
+
+## ?Team rdf:type yago:FootballClubsInEngland
+## se puede reemplazar por :    ?Team dct:subject dbc:Football_clubs_in_Spain .  
+
+
+PREFIX schema: <http://schema.org/>
+PREFIX yago: <http://dbpedia.org/class/yago/>
+
+SELECT DISTINCT ?Name ?Country ?Date WHERE {
+   
+   ?Player dbp:fullname ?Name .
+   ?Team rdf:type yago:FootballClubsInItaly .   
+   ?Player dbp:clubs ?Team .
+   ?City dbo:country ?Country .
+   ?Player dbo:birthPlace ?City .
+   ?Player dbo:birthDate ?Date .
+   FILTER(?Date > "1966-01-01"^^xsd:dateTime) .
+
+}
+ORDER BY ?Date
+
+## CON ESTA QUERY LAS HAGO TODAS!
+PREFIX schema: <http://schema.org/>
+PREFIX yago: <http://dbpedia.org/class/yago/>
+
+SELECT DISTINCT "-" ?Name2 ?Country ?Date WHERE {
+   ?Player dbp:fullname ?Name2 .
+   #?Player dbp:name ?Name .
+   #OPTIONAL { ?Player dbp:fullname ?Name2 . }
+   ?Team rdf:type yago:FootballClubsInGermany .   
+   ?Player dbp:clubs ?Team .
+   ?City dbo:country ?Country .
+   ?Player dbo:birthPlace ?City .
+   ?Player dbo:birthDate ?Date .
+   FILTER(?Date > "1968-01-01"^^xsd:dateTime) .
+
+}
+#GROUP BY ?Name
+ORDER BY ?Date
