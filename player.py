@@ -21,15 +21,15 @@ class Player(object):
         self.country = country
 
         if len(bday) == 10:
-            self.byear = bday[0:4]
-            self.bmonth = bday[5:7]
-            self.bday = bday[8:10]
+            self.byear = int(bday[0:4])
+            self.bmonth = int(bday[5:7])
+            self.bday = int(bday[8:10])
         elif len(bday) == 7:
             self.byear = None
-            self.bmonth = bday[2:4]
-            self.bday = bday[5:7]
+            self.bmonth = int(bday[2:4])
+            self.bday = int(bday[5:7])
         elif len(bday) == 4:
-            self.byear = bday
+            self.byear = int(bday)
             self.bmonth = None
             self.bday = None
 

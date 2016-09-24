@@ -9,8 +9,11 @@ def run():
     players = getPlayers('Dataset/Nacionalidades/england-players.csv')
     players.extend(getPlayers('Dataset/Nacionalidades/england-players2.csv'))
     players.extend(getPlayers('Dataset/Nacionalidades/italy-players.csv'))
+    players.extend(getPlayers('Dataset/Nacionalidades/italy-players2.csv'))
     players.extend(getPlayers('Dataset/Nacionalidades/germany-players.csv'))
+    players.extend(getPlayers('Dataset/Nacionalidades/germany-players2.csv'))
     players.extend(getPlayers('Dataset/Nacionalidades/spain-players.csv'))
+    players.extend(getPlayers('Dataset/Nacionalidades/spain-players2.csv'))
 
     # Todos los jugadores con distintos nombres completos
     playersByName = {}
@@ -30,17 +33,35 @@ def run():
     playersFifa = [player for player in allPlayersFifa if player.idapi in playerIds]
     print('playersFifa', len(playersFifa))
 
-    # Comienza el matcheo
+    # contadores para los match
     counter = 0
     counter2 = 0
+
     playernocountry = []
     for fplayer in playersFifa:
         words = fplayer.name.split(' ')
         for playername in playersByName:
             if not hasattr(fplayer, 'country'):
                 if all([word in playername for word in words]):
+
+                    # se verifica que la fecha de nacimiento sea la misma
+                    potp = playersByName[playername]
+
+                    if potp.byear is not None:
+                        if potp.byear != fplayer.byear:
+                            continue
+                    if potp.bmonth is not None:
+                        if potp.bmonth != fplayer.bmonth:
+                            continue
+                    if potp.bday is not None:
+                        if potp.bday != fplayer.bday:
+                            continue
+
+                    # se le asigna la propiedad country a los jugadores
                     fplayer.country = playersByName[playername].country
                     counter += 1
+
+        # jugadores que no tuvieron match
         if not hasattr(fplayer, 'country'):
             counter2 += 1
             playernocountry.append(fplayer)
