@@ -5,6 +5,7 @@ class Player(object):
 
         # Para manejar nombre con comas
         if ',' in name:
+            name = name.lower()
             auxname = name.split(',')
             if len(auxname) == 2:
                 name = auxname[1][1:] + ' ' + auxname[0]
@@ -15,8 +16,8 @@ class Player(object):
         if name == '-':
             name = fullname
 
-        self.name = name
-        self.fullname = fullname
+        self.name = cleanWeirdLetters(name)
+        self.fullname = cleanWeirdLetters(fullname)
         self.country = country
 
         if len(bday) == 10:
@@ -36,8 +37,31 @@ class Player(object):
 class FifaPlayer(object):
 
     def __init__(self, idapi=None, name=None, idapififa=None, bday=None):
-        self.idapi = idapi
-        self.idapififa = idapififa
-        self.name = name.replace('"', '')
-        if len(bday) != 21:
-            print(bday)
+        self.idapi = int(idapi)
+        self.idapififa = int(idapififa)
+        self.name = name.replace('"', '').lower()
+        self.byear = int(bday[0:4])
+        self.bmonth = int(bday[5:7])
+        self.bday = int(bday[8:10])
+
+
+def cleanWeirdLetters(name):
+
+    name = name.lower()
+    name.replace(', jr', ' jr')
+    name = name.replace('á', 'a').replace('ā', 'a').replace('å', 'a').replace('ä', 'a').replace('â', 'a')
+    name = name.replace('à', 'a').replace('ã', 'a').replace('ă', 'a').replace('ą', 'a')
+    name = name.replace('é', 'e').replace('è', 'e').replace('ê', 'e').replace('ę', 'e')
+    name = name.replace('ě', 'e').replace('ё', 'e').replace('ë', 'e').replace('ė', 'e')
+    name = name.replace('í', 'i').replace('ì', 'i').replace('ï', 'i').replace('î', 'i').replace('õ', 'o')
+    name = name.replace('ó', 'o').replace('ò', 'o').replace('ö', 'o').replace('ô', 'o').replace('ő', 'o')
+    name = name.replace('ú', 'u').replace('ù', 'u').replace('ü', 'u').replace('û', 'u').replace('ū', 'u')
+    name = name.replace('č', 'c').replace('ć', 'c').replace('ç', 'c')
+    name = name.replace('š', 's').replace('ş', 's').replace('ś', 's').replace('ș', 's')
+    name = name.replace('ž', 'z').replace('ż', 'z').replace('ź', 'z')
+    name = name.replace('ń', 'n').replace('ņ', 'n').replace('ň', 'n')
+    name = name.replace('ý', 'y')
+    name = name.replace('ğ', 'g')
+    name = name.replace('ř', 'r').replace('/', '')
+    name = name.replace("'", "").replace('’', '').replace(',', '').replace('–', '-')
+    return name
