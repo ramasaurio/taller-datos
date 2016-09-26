@@ -72,6 +72,22 @@ def run():
     for player in playernocountry:
         print(player.name)
 
+    writeFifaPlayers('jugadores-con-pain.csv', [p for p in playersFifa if hasattr(p, 'country')])
+
+
+def writeFifaPlayers(path, playersFifa):
+
+    fwriter = open(path, 'w')
+    fwriter.write('id,name,country,age\n')
+
+    for player in playersFifa:
+        line = player.idapi, player.name, player.country, player.age
+        lineskel = '%d,%s,%s,%i\n'
+        fwriter.write(lineskel % line)
+        fwriter.flush()
+
+    fwriter.close()
+
 
 def test():
     englandplayers = getPlayers('Dataset/Nacionalidades/england-teams.csv')

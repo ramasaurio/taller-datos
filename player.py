@@ -44,6 +44,18 @@ class FifaPlayer(object):
         self.bmonth = int(bday[5:7])
         self.bday = int(bday[8:10])
 
+        years = 2016 - self.byear - 1
+        months = 9 - self.bmonth
+        days = 29 - self.bday
+
+        if months > 0:
+            years += 1
+        elif months == 0:
+            if days > 0:
+                years += 1
+
+        self.age = years
+
 
 def cleanWeirdLetters(name):
 

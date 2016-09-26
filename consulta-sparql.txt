@@ -38,7 +38,7 @@ SELECT DISTINCT "-" ?Name2 ?Country ?Date WHERE {
    ?Player dbp:fullname ?Name2 .
    #?Player dbp:name ?Name .
    #OPTIONAL { ?Player dbp:fullname ?Name2 . }
-   ?Team rdf:type yago:FootballClubsInGermany .   
+   ?Team rdf:type yago:PremierLeagueClubs .   
    ?Player dbp:clubs ?Team .
    ?City dbo:country ?Country .
    ?Player dbo:birthPlace ?City .
@@ -48,3 +48,24 @@ SELECT DISTINCT "-" ?Name2 ?Country ?Date WHERE {
 }
 #GROUP BY ?Name
 ORDER BY ?Date
+
+total players: 18593
+total fifa players: 11060
+players Ids: 4952
+playersFifa 4952
+3341
+1611
+
+total players: 20678
+total fifa players: 11060
+players Ids: 4952
+playersFifa 4952
+3877
+1075
+
+total players: 20678
+total fifa players: 11060
+players Ids: 4952
+playersFifa 4952
+3574
+1378
