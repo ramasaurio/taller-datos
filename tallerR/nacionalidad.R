@@ -14,6 +14,25 @@ match <- tbl_df(dbGetQuery(con,"SELECT * FROM Match"))
 league = tbl_df(dbGetQuery(con,"SELECT * FROM League"))
 
 leaguematches = match[(match$league_id == 1729 | match$league_id == 7775 | match$league_id == 10223 | match$league_id == 21484),]
+
+premiermatches = match[match$league_id == 1729,]
+bundesmatches = match[match$league_id == 7775,]
+serieamatches = match[match$league_id == 10223,]
+spainmatches = match[match$league_id == 21484,]
+
+premierplayers = premiermatches[,56:77]
+bundesplayers = bundesmatches[,56:77]
+serieaplayers = serieamatches[,56:77]
+spainplayers = spainmatches[,56:77]
+
+write.table(premierplayers, file="premierplayers.csv", sep=",", row.names=FALSE)
+write.table(bundesplayers, file="bundesplayers.csv", sep=",", row.names=FALSE)
+write.table(serieaplayers, file="serieaplayers.csv", sep=",", row.names=FALSE)
+write.table(spainplayers, file="spainplayers.csv", sep=",", row.names=FALSE)
+
+
+head(premierplayers)
+
 names(leaguematches)
 leaguematches[1:2,]
 head(leaguematches)

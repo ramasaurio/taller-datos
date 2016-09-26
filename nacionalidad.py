@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from player import Player, FifaPlayer
+import math
 
 
 def run():
@@ -14,6 +15,10 @@ def run():
     players.extend(getPlayers('Dataset/Nacionalidades/germany-players2.csv'))
     players.extend(getPlayers('Dataset/Nacionalidades/spain-players.csv'))
     players.extend(getPlayers('Dataset/Nacionalidades/spain-players2.csv'))
+    players.extend(getPlayers('Dataset/Nacionalidades/bundesliga_players.csv'))
+    players.extend(getPlayers('Dataset/Nacionalidades/serieA_players.csv'))
+    players.extend(getPlayers('Dataset/Nacionalidades/premierleague_players.csv'))
+    players.extend(getPlayers('Dataset/Nacionalidades/laliga_players.csv'))
 
     # Todos los jugadores con distintos nombres completos
     playersByName = {}
@@ -27,62 +32,92 @@ def run():
     allPlayersFifa = getPlayersFifa('Dataset/Nacionalidades/players.csv', ',')
     print('total fifa players:', len(allPlayersFifa))
 
-    playerIds = getFifaPlayersInLeagues()
+    # playerIds = getFifaPlayersInLeagues()
+    playerIds = getFifaPlayersByLeagues()
     print('players Ids:', len(playerIds))
-
-    playersFifa = [player for player in allPlayersFifa if player.idapi in playerIds]
+    playersFifa = []
+    for fplayer in allPlayersFifa:
+        if fplayer.idapi in playerIds:
+            prem, bund, serie, spa = playerIds[fplayer.idapi]
+            fplayer.premier = prem
+            fplayer.bundes = bund
+            fplayer.seriea = serie
+            fplayer.spain = spa
+            playersFifa.append(fplayer)
     print('playersFifa', len(playersFifa))
 
     # contadores para los match
     counter = 0
-    counter2 = 0
 
     playernocountry = []
     for fplayer in playersFifa:
+
         words = fplayer.name.split(' ')
+        tocayoplayers = []
         for playername in playersByName:
-            if not hasattr(fplayer, 'country'):
-                if all([word in playername for word in words]):
+            # if not hasattr(fplayer, 'country'):
+            if all([word in playername for word in words]):
 
-                    # se verifica que la fecha de nacimiento sea la misma
-                    potp = playersByName[playername]
+                # se verifica que la fecha de nacimiento sea la misma
+                potp = playersByName[playername]
+                days = 0
+                if potp.byear is not None:
+                    days += (potp.byear - fplayer.byear) * 365
+                if potp.bmonth is not None:
+                    days += (potp.bmonth - fplayer.bmonth) * 30
+                if potp.bday is not None:
+                    days += potp.bday - fplayer.bday
+                tocayoplayers.append((potp, math.fabs(days)))
+                # potp = playersByName[playername]
+                #
+                # if potp.byear is not None:
+                #     if potp.byear != fplayer.byear:
+                #         continue
+                # if potp.bmonth is not None:
+                #     if potp.bmonth != fplayer.bmonth:
+                #         continue
+                # if potp.bday is not None:
+                #     if potp.bday != fplayer.bday:
+                #         continue
+                # se le asigna la propiedad country a los jugadores
+                # fplayer.country = potp.country
+                # counter += 1
+        # if fplayer.name == 'carlos carmona':
+        #     print(len(tocayoplayers))
+        #     for p, days in tocayoplayers:
+        #         print('nombre:', p.fullname)
+        #         print('pais:', p.country)
+        #         print('fecha nac:', p.byear, p.bmonth, p.bday)
+        #         print('dias de diff:', days)
+        #         print('\n')
+        #     print('\n')
 
-                    if potp.byear is not None:
-                        if potp.byear != fplayer.byear:
-                            continue
-                    if potp.bmonth is not None:
-                        if potp.bmonth != fplayer.bmonth:
-                            continue
-                    if potp.bday is not None:
-                        if potp.bday != fplayer.bday:
-                            continue
-
-                    # se le asigna la propiedad country a los jugadores
-                    fplayer.country = playersByName[playername].country
-                    counter += 1
+        if len(tocayoplayers) > 0:
+            tocayoplayers = sorted(tocayoplayers, key=lambda pl: pl[1])
+            fplayer.country = tocayoplayers[0][0].country
+            counter += 1
 
         # jugadores que no tuvieron match
         if not hasattr(fplayer, 'country'):
-            counter2 += 1
             playernocountry.append(fplayer)
             # print(fplayer.name)
 
     print(counter)
-    print(counter2)
+    print(len(playernocountry))
     for player in playernocountry:
         print(player.name)
 
-    writeFifaPlayers('jugadores-con-pain.csv', [p for p in playersFifa if hasattr(p, 'country')])
+    writeFifaPlayers('jugadores-con-pais3.csv', [p for p in playersFifa if hasattr(p, 'country')])
 
 
 def writeFifaPlayers(path, playersFifa):
 
     fwriter = open(path, 'w')
-    fwriter.write('id,name,country,age\n')
+    fwriter.write('id,name,country,age,premier,bundes,seriea,spain\n')
+    lineskel = '%d,%s,%s,%i,%d,%d,%d,%d\n'
 
     for player in playersFifa:
-        line = player.idapi, player.name, player.country, player.age
-        lineskel = '%d,%s,%s,%i\n'
+        line = player.idapi, player.name, player.country, player.age, player.premier, player.bundes, player.seriea, player.spain
         fwriter.write(lineskel % line)
         fwriter.flush()
 
@@ -166,10 +201,78 @@ def getFifaPlayersInLeagues():
     try:
         infile = open('Dataset/player_ids_in_leagues.csv', 'r')
         for line in infile:
-            players = players.union([int(line.replace('\n', ''))])
+            players.add(int(line.replace('\n', '')))
 
     except FileNotFoundError:
         players = writeFifaPlayersInLeagues()
+
+    return players
+
+
+def getFifaPlayersByLeagues():
+
+    players = {}
+
+    try:
+        infile = open('Dataset/players_by_league.csv', 'r')
+        infile.readline()
+        for line in infile:
+            pid, premier, bundes, seriea, spain = line.replace('\n', '').split(',')
+            players[int(pid)] = int(premier), int(bundes), int(seriea), int(spain)
+        infile.close()
+
+    except FileNotFoundError:
+        players = writeFifaPlayersByLeagues()
+
+    return players
+
+
+def writeFifaPlayersByLeagues():
+    """
+    lee los id de los jugadores de los partidos de las ligas y escribe en un archivo los distintos IDs
+    :return: conjunto con los distintos IDs de los jugadores de los partidos
+    """
+
+    playerIds = {}
+
+    premierpath = 'tallerR/premierplayers.csv'
+    bundespath = 'tallerR/bundesplayers.csv'
+    serieapath = 'tallerR/serieaplayers.csv'
+    spainpath = 'tallerR/spainplayers.csv'
+    paths = [premierpath, bundespath, serieapath, spainpath]
+    leagues = ['premier', 'bundes', 'seriea', 'spain']
+
+    for path, league in zip(paths, leagues):
+
+        infile = open(path, 'r')
+        infile.readline()
+
+        for line in infile:
+            ids = line.replace('\n', '').split(',')
+            for pid in ids:
+                if pid != 'NA':
+                    if pid in playerIds:
+                        playerIds[pid].add(league)
+                    else:
+                        playerIds[pid] = {league}
+        infile.close()
+
+    outfile = open('Dataset/players_by_league.csv', 'w')
+    outfile.write('id,premier,bundes,seriea,spain\n')
+    lineskel = '%d,%d,%d,%d,%d\n'
+    players = {}
+
+    for pid in playerIds:
+        player = playerIds[pid]
+        prem = 1 if 'premier' in player else 0
+        bund = 1 if 'bundes' in player else 0
+        serie = 1 if 'seriea' in player else 0
+        spain = 1 if 'spain' in player else 0
+        line = int(pid), prem, bund, serie, spain
+        outfile.write(lineskel % line)
+        outfile.flush()
+        players[pid] = prem, bund, serie, spain
+    outfile.close()
 
     return players
 
@@ -217,8 +320,6 @@ def getPlayers(path, sep=';'):
     return players
 
 
-# "id", "player_api_id", "player_name"       , "player_fifa_api_id", "birthday"           ,"height","weight"
-#  1  , 505942         , "Aaron Appindangoye", 218353              , "1992-02-29 00:00:00",182.88  ,187
 def getPlayersFifa(path, sep=','):
     infile = open(path, mode='r', encoding='utf-8')
     infile.readline()
@@ -272,8 +373,3 @@ def checkWeirdLetters(path, sep=';'):
 
 if __name__ == '__main__':
     run()
-
-    # checkWeirdLetters('Dataset/Nacionalidades/england-players.csv')
-    # checkWeirdLetters('Dataset/Nacionalidades/italy-players.csv')
-    # checkWeirdLetters('Dataset/Nacionalidades/germany-players.csv')
-    # checkWeirdLetters('Dataset/Nacionalidades/spain-players.csv')

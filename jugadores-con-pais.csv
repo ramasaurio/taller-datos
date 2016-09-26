@@ -8,7 +8,6 @@ id,name,country,age
 23499,aaron wilbraham,United_Kingdom,36
 167027,abdelaziz barrada,France,27
 128456,abdelhamid el kaoutari,France,26
-42664,abdelkader ghezzal,France,31
 67334,abdoul karim yoda,France,27
 39562,abdoulay konko,France,32
 40005,abdoulaye faye,Senegal,38
@@ -40,7 +39,7 @@ id,name,country,age
 36774,adam szalai,Hungary,28
 71359,adam vass,Hungary,28
 47394,adel taarabt,Morocco,27
-155738,adem ljajic,Socialist_Federal_Republic_of_Yugoslavia,24
+155738,adem ljajic,Serbia,24
 37249,adil chihi,Germany,28
 77741,adil rami,France,30
 131409,adlene guedioura,France,30
@@ -55,7 +54,6 @@ id,name,country,age
 571685,adrian marin,Spain,19
 112976,adrian nikci,Bosnia_and_Herzegovina,26
 50345,adrian ramos,Colombia,30
-323385,adrian ricardo centurion,Argentina,23
 42431,adrian ricchiuti,Argentina,38
 183482,adrian sardinero corpa,Spain,25
 168047,adrian stoian,Romania,25
@@ -117,12 +115,12 @@ id,name,country,age
 282470,alejandro pozuelo,Spain,25
 167094,aleksandar ignjovski,Serbia,25
 16351,aleksandar kolarov,Serbia,30
-37515,aleksandar lukovic,Socialist_Federal_Republic_of_Yugoslavia,33
+37515,aleksandar lukovic,Serbia,33
 351860,aleksandar mitrovic,Serbia,22
 280638,aleksandar pantic,Serbia,24
 278866,aleksandar stevanovic,Germany,24
 156534,aleksandar tonev,Bulgaria,26
-208852,aleksandar trajkovski,Republic_of_Macedonia,24
+208852,aleksandar trajkovski,Macedonia,24
 27476,aleksandar vasoski,Macedonia,36
 395154,alen halilovic,Croatia,20
 191081,alen stevanovic,Switzerland,25
@@ -153,7 +151,6 @@ id,name,country,age
 41762,alessio scarpi,Italy,43
 24469,alex baptiste,United_Kingdom,30
 39204,alex calderoni,Italy,40
-447488,alex ferrari,Italy,22
 282274,alex kacaniklic,Sweden,25
 39566,alex manninger,Austria,39
 119079,alex mccarthy,United_Kingdom,26
@@ -161,7 +158,6 @@ id,name,country,age
 49709,alex pearce,United_Kingdom,27
 41136,alex pinardi,Italy,36
 157865,alex sandro,Brazil,25
-34650,alex silva,Brazil,31
 23678,alex song,Cameroon,29
 26564,alex,Brazil,34
 27306,alexander baumjohann,Germany,29
@@ -175,7 +171,6 @@ id,name,country,age
 27478,alexander meier,Germany,33
 192504,alexander merkel,Kazakhstan,24
 248437,alexander schwolow,Germany,24
-71524,alexander stephan,Germany,30
 40100,alexander tettey,Ghana,30
 265727,alexandre coeff,France,24
 33840,alexandre geijo,Switzerland,34
@@ -183,11 +178,10 @@ id,name,country,age
 42306,alexandros tzorvas,Greece,34
 298923,alexandru maxim,Romania,26
 281019,alexis rolin,Uruguay,27
-50047,alexis sanchez,Chile,27
 37479,alexis,Spain,31
 27667,alfonso de lucia,Italy,32
 629594,alfonso pedraza,Spain,20
-317156,alfred duncan,Ghana,23
+317156,alfred duncan,Spain,23
 239946,alfredo morales,Germany,26
 256727,alhassane bangoura,Guinea,24
 41718,alhassane keita,Guinea,33
@@ -199,7 +193,6 @@ id,name,country,age
 25816,almen abdi,Kosovo,29
 174093,almog cohen,Israel,28
 39978,alou diarra,France,35
-299653,alvaro ampuero,Peru,24
 46211,alvaro anton,Spain,32
 37442,alvaro arbeloa,Spain,33
 201916,alvaro arroyo,Spain,28
@@ -211,27 +204,21 @@ id,name,country,age
 523390,alvaro medran,Spain,22
 213501,alvaro morata,Spain,23
 75310,alvaro negredo,Spain,31
-100033,alvaro pereira,Uruguay,30
 33586,alvaro rubio,Spain,37
 282467,alvaro vadillo,Spain,22
 213489,alvaro vazquez,Spain,25
 93484,aly cissokho,France,29
-668307,amadou diawara,Guinea,19
 38827,amauri,Brazil,36
 35636,amdy faye,Senegal,39
 244840,amidu salifu,Ghana,24
 309505,amin younes,Germany,23
 156105,amine linganzi,Algeria,26
-108524,ammar jemal,Tunisia,29
-127857,amr zaki,Egypt,33
 213814,anaitz arbilla,Spain,29
 164676,ander herrera,Spain,27
 150323,ander iturraspe,Spain,27
 33021,ander murillo,Spain,33
-127209,anders christiansen,Denmark,26
 145561,anderson,Brazil,28
 40961,anderson,Brazil,28
-71055,andi lila,Albania,30
 33025,andoni iraola,Spain,34
 95955,andre ayew,France,26
 38504,andre bikey,Cameroon,31
@@ -271,7 +258,6 @@ id,name,country,age
 27676,andrea pisanu,Italy,34
 57124,andrea poli,Italy,26
 24493,andrea raggi,Italy,32
-41878,andrea rossi,Italy,29
 150464,andrea seculin,Italy,26
 364164,andrea tabanelli,Italy,26
 24457,andrea zanchetta,Italy,41
@@ -305,7 +291,6 @@ id,name,country,age
 308236,andrew wooten,Germany,26
 3520,andrey arshavin,Russia,35
 38367,andrija delibasic,Montenegro,35
-31996,andriy shevchenko,Soviet_Union,39
 166422,andros townsend,United_Kingdom,25
 432950,angel correa,Argentina,21
 46509,angel di maria,Argentina,28
@@ -322,7 +307,6 @@ id,name,country,age
 17836,angelo,Brazil,35
 33850,angelos basinas,Greece,40
 38810,angelos charisteas,Greece,36
-27155,anis ben-hatira,West_Germany,28
 202343,anselmo,Brazil,27
 265725,ante rebic,Croatia,23
 71619,anthony annan,Ghana,30
@@ -330,7 +314,6 @@ id,name,country,age
 202562,anthony knockaert,France,24
 413557,anthony martial,France,20
 24162,anthony mcmahon,United_Kingdom,30
-71605,anthony modeste,France,28
 47194,anthony pilkington,United_Kingdom,28
 32579,anthony reveillere,France,36
 38368,anthony vanden borre,Democratic_Republic_of_the_Congo,28
@@ -351,7 +334,6 @@ id,name,country,age
 34413,antonio da silva,Brazil,38
 299374,antonio di gaudio,Italy,27
 27734,antonio di natale,Italy,38
-33644,antonio doblas,Spain,36
 212772,antonio donnarumma,Italy,26
 37499,antonio filippini,Italy,43
 41542,antonio floro flores,Italy,33
@@ -374,7 +356,6 @@ id,name,country,age
 186975,apostolos vellios,Greece,24
 70255,aquivaldo mosquera,Colombia,35
 182776,archimede morleo,Italy,33
-112656,ariel borysiuk,Poland,25
 38362,ariel ibagaza,Argentina,39
 149584,ariel nahuelpan,Argentina,28
 38263,aristide bance,Ivory_Coast,32
@@ -385,14 +366,13 @@ id,name,country,age
 30834,arjen robben,Netherlands,32
 277460,arkadiusz milik,Poland,22
 301023,armando izzo,Italy,24
-107502,armin bacinovic,Socialist_Federal_Republic_of_Yugoslavia,26
+107502,armin bacinovic,Slovenia,26
 30819,arne friedrich,Germany,37
 34400,arnold bruggink,Netherlands,39
 26324,arnold mvuemba,France,31
 172388,aron johannsson,United_States,25
 30922,arouna kone,Ivory_Coast,32
 38842,arthur boka,Ivory_Coast,33
-79982,artjoms rudnevs,Latvia,28
 30974,artur boruc,Poland,36
 69008,artur sobiech,Poland,26
 30266,artur wichniarek,Poland,39
@@ -430,7 +410,6 @@ id,name,country,age
 150641,baltasar rigo,Spain,31
 27733,barreto,Brazil,31
 161415,barry bannan,United_Kingdom,26
-24978,barry ferguson,United_Kingdom,38
 25551,bartholomew ogbeche,Nigeria,31
 155256,bartosz salamon,Poland,25
 104045,bas dost,Netherlands,27
@@ -448,9 +427,7 @@ id,name,country,age
 22991,ben watson,United_Kingdom,31
 36147,benedikt fernandez,Germany,31
 35875,benedikt pliquett,Germany,31
-435683,benedikt saller,Germany,24
 232253,benik afobe,United_Kingdom,23
-681383,benjamin henrichs,Germany,19
 36518,benjamin kessel,Germany,28
 192920,benjamin stambouli,France,26
 40006,benoit assou-ekotto,France,32
@@ -461,11 +438,10 @@ id,name,country,age
 215168,bernd leno,Germany,24
 39842,bernd nehrig,Germany,30
 303059,bertrand traore,Burkina_Faso,21
-40274,birkir bjarnason,Iceland,28
 291620,bjarne thoelke,Germany,24
-30940,blerim dzemaili,Socialist_Federal_Republic_of_Yugoslavia,30
+30940,blerim dzemaili,Macedonia,30
 197910,bo-kyung kim,South_Korea,26
-58499,bojan jokic,Socialist_Federal_Republic_of_Yugoslavia,30
+58499,bojan jokic,Slovenia,30
 96643,bojan krkic,Spain,26
 46030,bolatti,Argentina,31
 435684,boris radunovic,Serbia,20
@@ -476,8 +452,7 @@ id,name,country,age
 410424,borja lopez,Spain,22
 38433,borja valero,Spain,31
 102623,borja viguera,Spain,29
-40601,bosko jankovic,Socialist_Federal_Republic_of_Yugoslavia,32
-26223,bostjan cesar,Socialist_Federal_Republic_of_Yugoslavia,34
+40601,bosko jankovic,Serbia,32
 35996,boubacar sanogo,Ivory_Coast,33
 24116,boudewijn zenden,Netherlands,40
 30380,brad friedel,United_States,45
@@ -513,7 +488,6 @@ id,name,country,age
 38229,bryan ruiz,Costa_Rica,31
 177083,burak kaplan,Germany,26
 42221,cagdas atan,Turkey,36
-80564,caio,Brazil,30
 150922,caiuby,Brazil,28
 23563,caleb folan,United_Kingdom,33
 172841,callum mcmanaman,England,25
@@ -530,14 +504,12 @@ id,name,country,age
 23984,carlo cudicini,Italy,43
 166648,carlos bacca,Colombia,30
 102912,carlos calvo,Spain,31
-195717,carlos carbonero,Colombia,26
 17299,carlos carmona,Spain,29
 49940,carlos carmona,Chile,29
 574654,carlos castro,Spain,21
 282471,carlos clerc,Spain,24
 33863,carlos cuellar,Spain,35
 37754,carlos diogo,Uruguay,33
-78990,carlos eduardo,Brazil,29
 30954,carlos edwards,Trinidad_and_Tobago,37
 516854,carlos fernandez,Spain,20
 74404,carlos garcia,Spain,32
@@ -548,18 +520,16 @@ id,name,country,age
 74721,carlos lorens bellvis,Spain,31
 30752,carlos marchena,Spain,37
 102620,carlos martinez,Spain,30
-18923,carlos matheu,Spain,31
+18923,carlos matheu,Argentina,31
 38136,carlos reina aranda,Spain,36
 34479,carlos salcido,Mexico,36
 56972,carlos sanchez,Colombia,30
 38817,carlos tevez,Argentina,32
 183440,carlos tomas,Spain,28
-27785,carlos valdez,Uruguay,33
 75342,carlos vela,Mexico,27
 518240,carlos vigaray,Spain,22
 106309,carlos zambrano,Peru,27
 38004,carmelo gonzalez,Spain,33
-27548,carsten cullmann,Germany,40
 35881,carsten rothenbach,Germany,36
 282276,cauley woodrow,Hertfordshire,21
 201939,cedric bakambu,France,25
@@ -644,14 +614,11 @@ id,name,country,age
 31092,chu-young park,South_Korea,31
 130670,chung-yong lee,South_Korea,28
 161414,ciaran clark,United_Kingdom,27
-31244,cicero,Brazil,32
 40203,ciprian marica,Romania,30
 103218,ciprian tatarusanu,Romania,30
 39713,ciro polito,Italy,37
-41852,claiton dos santos,Brazil,32
 26096,clarence seedorf,Suriname,40
 23349,clarke carlisle,United_Kingdom,36
-41862,claudio bellucci,Italy,41
 37421,claudio bravo,Chile,33
 41890,claudio marchisio,Italy,30
 18853,claudio morel,Paraguay,38
@@ -703,7 +670,6 @@ id,name,country,age
 30906,cristian zaccardo,Italy,34
 24970,cristian zapata,Colombia,29
 27701,cristian zenoni,Italy,39
-239350,cristiano biraghi,Italy,24
 39229,cristiano del grosso,Italy,33
 38762,cristiano doni,Italy,43
 25337,cristiano lucarelli,Italy,40
@@ -755,7 +721,6 @@ id,name,country,age
 177720,daniel ginczek,Germany,25
 38759,daniel graham,United_Kingdom,31
 33778,daniel guiza,Spain,36
-30919,daniel gygax,Switzerland,35
 29303,daniel haas,Germany,33
 24138,daniel halfar,Germany,28
 39843,daniel imhof,Switzerland,38
@@ -768,7 +733,7 @@ id,name,country,age
 114664,daniel pavlovic,Switzerland,28
 522576,daniel pinillos,Spain,23
 295060,daniel potts,United_Kingdom,22
-43158,daniel pudil,Czechoslovakia,31
+43158,daniel pudil,Czech_Republic,31
 97734,daniel schwaab,Germany,28
 51553,daniel sturridge,United_Kingdom,27
 33085,daniel van buyten,Belgium,38
@@ -803,10 +768,9 @@ id,name,country,age
 38432,dante,Brazil,32
 39304,dario dainelli,Italy,37
 361946,dario del fabro,Italy,21
-39732,dario knezevic,Socialist_Federal_Republic_of_Yugoslavia,34
-47155,dario vidosic,Croatia,29
+39732,dario knezevic,Croatia,34
 30977,dariusz dudka,Poland,32
-119014,darko lazovic,Socialist_Federal_Republic_of_Yugoslavia,26
+119014,darko lazovic,Serbia,26
 609733,darnell furlong,United_Kingdom,20
 23949,darren bent,United_Kingdom,32
 24148,darren fletcher,United_Kingdom,32
@@ -818,7 +782,6 @@ id,name,country,age
 30666,david albelda,Spain,39
 39699,david baiocco,Italy,41
 41294,david barral,Spain,33
-30612,david beckham,United_Kingdom,41
 35983,david carney,Australia,32
 479217,david costas,Spain,21
 187189,david davis,United_Kingdom,25
@@ -869,7 +832,6 @@ id,name,country,age
 201617,davide bertoncini,Italy,25
 39222,davide biondini,Italy,33
 39203,davide bombardini,Italy,42
-612755,davide calabria,Italy,19
 41811,davide carrus,Italy,37
 39435,davide di gennaro,Italy,28
 183076,davide gavazzi,Italy,30
@@ -887,11 +849,10 @@ id,name,country,age
 34437,dean marney,United_Kingdom,32
 24411,dean whitehead,Oxfordshire,34
 23605,dean windass,United_Kingdom,47
-410359,declan john,United_Kingdom,21
 127712,declan rudd,United_Kingdom,25
 191616,dedryck boyata,Belgium,25
 496054,dejan drazic,Serbia,21
-161662,dejan lazarevic,Socialist_Federal_Republic_of_Yugoslavia,26
+161662,dejan lazarevic,Slovenia,26
 179009,dejan lekic,Serbia,31
 114268,dejan lovren,Bosnia_and_Herzegovina,27
 363333,dele alli,United_Kingdom,20
@@ -899,7 +860,6 @@ id,name,country,age
 35411,demba ba,France,31
 39297,denilson,Brazil,28
 359197,denis cheryshev,Russia,25
-160196,denis stracqualursi,Argentina,28
 396884,denis streker,Germany,25
 282281,denis suarez,Spain,22
 26994,deniz dogan,Germany,36
@@ -935,18 +895,14 @@ id,name,country,age
 38460,diego forlan,Uruguay,37
 56678,diego godin,Uruguay,30
 27514,diego klimowicz,Argentina,42
-429988,diego laxalt,Uruguay,23
 420568,diego llorente,Spain,23
 41466,diego lopez,Spain,34
 42168,diego lugano,Uruguay,35
 24412,diego luis breijo lopez,Uruguay,42
 2752,diego mainz,Spain,33
 30549,diego milito,Argentina,37
-184132,diego novaretti,Argentina,31
-26214,diego perez,Uruguay,36
 101422,diego perotti,Argentina,28
 37416,diego rivas,Spain,36
-56593,diego rodriguez,Uruguay,30
 167069,diego seoane perez,Spain,28
 31235,diego,Brazil,31
 34299,dietmar hamann,Germany,43
@@ -955,7 +911,7 @@ id,name,country,age
 261609,dimitri foulquier,France,23
 25496,dimitri payet,France,29
 39163,dimitrios eleftheropoulos,Greece,40
-42325,dimitrios papadopoulos,Uzbek_Soviet_Socialist_Republic,34
+42325,dimitrios papadopoulos,Uzbekistan,34
 10491,diniyar bilyaletdinov,Russia,31
 8932,dino drpic,Croatia,35
 242783,diogo figueiras,Portugal,25
@@ -970,13 +926,11 @@ id,name,country,age
 41882,domenico criscito,Italy,29
 42691,domenico maietta,Italy,34
 74435,domingo cisma,Spain,34
-36934,dominic maroh,Germany,29
 213061,dominik kaiser,Germany,28
 303905,dominik kohr,Germany,22
 27437,dominik reinhardt,Germany,31
 35818,dominik schmidt,Germany,29
 27485,dominik stroh-engel,Germany,30
-303800,dominique heintz,Germany,23
 96598,dominique malonga,France,27
 32942,don cowie,United_Kingdom,33
 39351,doni,Brazil,36
@@ -990,14 +944,12 @@ id,name,country,age
 21853,dudley campbell,United_Kingdom,34
 75445,duje cop,Croatia,26
 520230,duncan watmore,United_Kingdom,22
-30983,dusan basta,Socialist_Federal_Republic_of_Yugoslavia,32
-22824,dusan svento,Slovakia,31
+30983,dusan basta,Serbia,32
 94267,dusan tadic,Serbia,27
 75467,dusan vasiljevic,Serbia,34
 26368,dusko tosic,Serbia,31
 116555,duvan zapata,Colombia,25
 42703,dwight tiendalli,Suriname,30
-19310,dyego rocha coelho,Brazil,33
 369859,eddy israfilov,Spain,24
 107417,eden hazard,Belgium,25
 268394,edenilson,Brazil,26
@@ -1008,7 +960,6 @@ id,name,country,age
 179491,edgar prib,Russia,26
 15403,edin dzeko,Bosnia_and_Herzegovina,30
 49677,edinson cavani,Uruguay,29
-37390,edmond kapllani,Albania,34
 362121,edoardo goldaniga,Italy,22
 26489,edson braafheid,Suriname,33
 74757,edu albacar,Spain,36
@@ -1034,7 +985,6 @@ id,name,country,age
 215804,elias kachunga,Germany,24
 171992,elias,Brazil,31
 11758,eliseu,Portugal,32
-22313,elkin soto,Colombia,36
 46344,elliot grandin,France,28
 96456,elliott bennett,United_Kingdom,27
 67349,elsad zverotic,Montenegro,29
@@ -1086,21 +1036,16 @@ id,name,country,age
 574200,eric bertrand bailly,Ivory_Coast,22
 361315,eric dier,United_Kingdom,22
 95082,eric maxim choupo-moting,Germany,27
-335606,erick pulgar,Chile,22
 30805,erik edman,Sweden,37
-21123,erik friberg,Sweden,30
 27843,erik huseklepp,Norway,32
-36050,erik jendrisek,Czechoslovakia,29
 411616,erik moran,Spain,25
 26461,erik nevland,Norway,38
 37194,erik pieters,Netherlands,28
-39638,erjon bogdani,Albania,39
 177942,ermin bicakcic,Bosnia_and_Herzegovina,26
 183331,ernesto galan,Spain,30
 97789,eros pisano,Italy,29
 12005,ersen martin,Germany,37
-38828,ervin skela,Albania,39
-45413,ervin zukanovic,Socialist_Federal_Republic_of_Yugoslavia,29
+45413,ervin zukanovic,Bosnia_and_Herzegovina,29
 42971,erwin hoffer,Austria,29
 80555,esparza jokin arcaya,Spain,28
 30930,esteban cambiasso,Argentina,36
@@ -1108,24 +1053,20 @@ id,name,country,age
 21785,esteban solari,Argentina,36
 33731,esteban,Spain,41
 41365,etienne capoue,France,28
-150747,etrit berisha,Socialist_Federal_Republic_of_Yugoslavia,27
+150747,etrit berisha,Kosovo,27
 27420,eugen polanski,Poland,30
 27661,eugenio corini,Italy,46
 162885,eugenio lamanna,Italy,27
 38999,euzebiusz smolarek,Poland,35
 108568,ever banega,Argentina,28
 38577,ewerthon,Brazil,35
-118730,eyong enoh,Cameroon,30
 290411,ezekiel fryers,United_Kingdom,24
-199916,ezequiel adrian cirigliano,Argentina,24
-42901,ezequiel alejo carboni,Argentina,37
 37581,ezequiel garay,Argentina,29
 18925,ezequiel lavezzi,Argentina,31
 25753,ezequiel luna,Argentina,29
 26959,fabian boll,Germany,37
 78324,fabian delph,United_Kingdom,26
 30251,fabian ernst,Germany,37
-95228,fabian frei,Switzerland,27
 114963,fabian giefer,Germany,26
 310355,fabian holland,Germany,26
 37357,fabian johnson,Germany,28
@@ -1148,11 +1089,9 @@ id,name,country,age
 26956,fabio morena,Germany,36
 33337,fabio simplicio,Brazil,37
 150176,fabio,Brazil,26
-34045,fabrice ehret,Switzerland,37
 35532,fabrice muamba,The_Democratic_Republic_Of_Congo,28
 363363,fabrice olinga,Cameroon,20
 30929,fabricio coloccini,Argentina,34
-166872,fabricio,Brazil,26
 22283,fabrizio cacciatore,Italy,29
 39397,fabrizio grillo,Italy,29
 32747,fabrizio miccoli,Italy,37
@@ -1170,7 +1109,6 @@ id,name,country,age
 24622,federico balzaretti,Italy,34
 414245,federico bernardeschi,Italy,22
 244816,federico ceccherini,Italy,24
-438507,federico di francesco,Italy,22
 181921,federico dionisi,Italy,29
 95509,federico fazio,Argentina,29
 165709,federico macheda,Italy,25
@@ -1180,7 +1118,6 @@ id,name,country,age
 41497,federico peluso,Italy,32
 309539,federico ricci,Italy,22
 251384,federico viviani,Italy,24
-213744,felice natalino,Italy,24
 230190,felipe anderson,Brazil,23
 41622,felipe caicedo,Ecuador,28
 127370,felipe mattioni rohde,Brazil,27
@@ -1197,7 +1134,6 @@ id,name,country,age
 42017,ferdinando sforzini,Italy,31
 253410,ferhan hasani,Macedonia,26
 38035,fernandez aitor tornavaca,Spain,40
-36154,fernando belluschi,Argentina,33
 39198,fernando damian tissone,Argentina,30
 18814,fernando gago,Argentina,30
 33030,fernando llorente,Spain,31
@@ -1206,7 +1142,6 @@ id,name,country,age
 33848,fernando navarro,Spain,34
 11555,fernando soriano,Spain,37
 30853,fernando torres,Spain,32
-183547,fernando uribe,Colombia,28
 37491,fernando varela,Spain,37
 175646,fernando,Brazil,24
 24612,fernando,Spain,37
@@ -1249,15 +1184,12 @@ id,name,country,age
 41243,francesco antonioli,Italy,47
 181920,francesco bardi,Italy,24
 41437,francesco bega,Italy,41
-27558,francesco benussi,Italy,34
 40656,francesco bolzoni,Italy,27
 155254,francesco caputo,Italy,29
 39557,francesco cozza,Italy,42
 41841,francesco della rocca,Italy,29
 364108,francesco fedato,Italy,23
-239256,francesco grandolfo,Italy,24
 41694,francesco lodi,Italy,32
-73034,francesco lunardini,Italy,31
 74034,francesco magnanelli,Italy,31
 39298,francesco marianini,Italy,37
 27680,francesco modesto,Italy,34
@@ -1292,18 +1224,15 @@ id,name,country,age
 212644,franco signorelli,Venezuela,25
 270774,franco vazquez,Argentina,27
 178802,franco zuculini,Argentina,26
-150007,francois affolter,Switzerland,25
 30252,frank baumann,Germany,40
 35607,frank fahrenhorst,Germany,39
 30631,frank lampard,United_Kingdom,38
 181229,frank nouble,United_Kingdom,25
 25524,frank rost,Germany,43
-69833,frantisek rajtoral,Czech_Republic,30
 95336,fraser forster,Kingdom_of_England,28
 23069,frazer richardson,United_Kingdom,33
 33989,frederic kanoute,France,39
 26347,frederic piquionne,France,37
-41199,fredy guarin,Colombia,30
 23264,gabriel agbonlahor,United_Kingdom,29
 30670,gabriel heinze,Argentina,38
 30891,gabriel milito,Argentina,36
@@ -1356,11 +1285,9 @@ id,name,country,age
 42042,gennaro iezzo,Italy,43
 39273,gennaro sardo,Italy,37
 214972,geoffrey kondogbia,France,23
-104389,geoffrey mujangi bia,The_Democratic_Republic_Of_Congo,27
 32304,george boyd,United_Kingdom,30
 45588,george friend,Devon,28
 43259,george mccartney,United_Kingdom,35
-501940,george puscas,Romania,20
 189910,george thorne,United_Kingdom,23
 108038,georginio wijnaldum,Netherlands,25
 25997,georgios karagounis,Greece,39
@@ -1421,7 +1348,7 @@ id,name,country,age
 41376,giuseppe de feudis,Italy,33
 244835,giuseppe de luca,Italy,24
 32752,giuseppe favalli,Italy,44
-42393,giuseppe gemiti,West_Germany,35
+42393,giuseppe gemiti,Germany,35
 39706,giuseppe mascara,Italy,37
 183039,giuseppe rizzo,Italy,25
 38699,giuseppe rossi,United_States,29
@@ -1437,7 +1364,6 @@ id,name,country,age
 16300,gojko kacar,Serbia,29
 25818,gokhan inler,Switzerland,32
 164385,gokhan tore,Germany,24
-23947,goncalo brandao,Portugal,29
 37273,gonzalo bergessio,Argentina,32
 213922,gonzalo castellani,Argentina,29
 27427,gonzalo castro,Germany,29
@@ -1447,7 +1373,6 @@ id,name,country,age
 49885,gonzalo jara,Chile,31
 38458,gonzalo rodriguez,Argentina,32
 25597,goran pandev,Republic_of_Macedonia,33
-39091,goran popov,Republic_of_Macedonia,31
 38526,gorka brit,Spain,38
 33764,gorka iraizoz moreno,Spain,35
 38546,gorka larrea garcia,Spain,32
@@ -1478,7 +1403,6 @@ id,name,country,age
 282460,guillermo,Spain,23
 33753,gustavo adolfo munua,Uruguay,38
 18673,gustavo cabral,Argentina,30
-500602,gustavo campanharo,Brazil,24
 31490,gustavo franchin schiavolin,Brazil,34
 30668,guy demel,France,35
 41930,gyorgy garics,Hungary,32
@@ -1497,7 +1421,7 @@ id,name,country,age
 155129,harry arter,United_Kingdom,26
 194165,harry kane,United_Kingdom,23
 39735,haruna babangida,Nigeria,33
-27287,hasan salihamidzic,Socialist_Federal_Republic_of_Yugoslavia,39
+27287,hasan salihamidzic,Bosnia_and_Herzegovina,39
 40004,hassan yebda,France,32
 26163,hatem ben arfa,France,29
 427438,hector bellerin,Spain,21
@@ -1519,7 +1443,6 @@ id,name,country,age
 24841,henri camara,Senegal,39
 73167,henrik mkhitaryan,Armenia,27
 128037,henrique,Brazil,29
-56654,henry gimenez,Uruguay,30
 26348,herita ilunga,The_Democratic_Republic_Of_Congo,34
 113627,hernan dario bernardello,Argentina,30
 18501,hernan pellerano,Argentina,32
@@ -1550,10 +1473,8 @@ id,name,country,age
 26434,ibrahim afellay,Netherlands,30
 46265,ibrahim sissoko,Ivory_Coast,24
 189922,ibrahima balde,Senegal,27
-362115,ibrahima mbaye,Senegal,21
 23284,ibrahima sonko,Senegal,35
 58351,ibrahima traore,France,28
-40962,ibson,Brazil,32
 94289,idir ouali,France,28
 179410,idrissa gana gueye,Senegal,27
 112758,ignacio camacho,Spain,26
@@ -1564,7 +1485,7 @@ id,name,country,age
 242418,ignasi miquel,Spain,24
 39555,ignazio abate,Italy,29
 306296,igor bubnjic,Croatia,24
-39488,igor budan,Socialist_Federal_Republic_of_Yugoslavia,36
+39488,igor budan,Croatia,36
 25957,igor de camargo,Brazil,33
 37408,igor gabilondo,Spain,37
 112204,igor martinez,Spain,27
@@ -1575,30 +1496,23 @@ id,name,country,age
 37242,ilan,Brazil,36
 355363,ilir azemi,Kosovo,24
 46289,imanol agirretxe,Spain,29
-177688,innocent emeghara,Nigeria,27
 27481,ioannis amanatidis,Greece,34
 188054,ioannis fetfatzidis,Greece,25
 96620,ion velez,Spain,31
 4902,iriney,Brazil,35
 36071,isaac boakye,Ghana,34
 213702,isaac cuenca,Spain,25
-409812,isaac donkor,Ghana,21
-95574,isaac vorsah,Ghana,28
 191315,isco,Spain,24
-182106,ishak belfodil,Algeria,24
 27267,ishmael miller,United_Kingdom,29
 239965,isma lopez,Spain,26
 258873,issa cissokho,France,31
-157369,itay shechter,Israel,29
 75194,ivan alonso,Uruguay,37
 97234,ivan bolado,Spain,27
-22984,ivan cordoba,Colombia,40
 33630,ivan cuellar,Spain,32
-108956,ivan fatic,Socialist_Federal_Republic_of_Yugoslavia,28
 188517,ivan gonzalez,Spain,28
 75395,ivan hernandez,Spain,36
-41757,ivan juric,Socialist_Federal_Republic_of_Yugoslavia,41
-106294,ivan kelava,Socialist_Federal_Republic_of_Yugoslavia,28
+41757,ivan juric,Croatia,41
+106294,ivan kelava,Croatia,28
 30753,ivan klasnic,Germany,36
 287691,ivan lopez,Spain,23
 80497,ivan marcano,Spain,29
@@ -1608,16 +1522,14 @@ id,name,country,age
 27677,ivan pelizzoli,Italy,35
 2857,ivan perez,Spain,30
 163670,ivan perisic,Croatia,27
-164033,ivan pillud,Argentina,30
 195190,ivan piris,Paraguay,27
-15732,ivan radovanovic,Socialist_Federal_Republic_of_Yugoslavia,28
+15732,ivan radovanovic,Serbia,28
 25773,ivan rakitic,Switzerland,28
 167057,ivan santini,Croatia,27
-128852,ivan strinic,Socialist_Federal_Republic_of_Yugoslavia,29
+128852,ivan strinic,Croatia,29
 32745,ivica banovic,Croatia,36
 30866,ivica dragutinovic,Serbia,40
-39734,ivica iliev,Socialist_Federal_Republic_of_Yugoslavia,36
-30764,ivica olic,Socialist_Federal_Republic_of_Yugoslavia,37
+39734,ivica iliev,Serbia,36
 39847,ivo ilicevic,Germany,29
 177475,izet hajrovic,Switzerland,25
 201888,ja-cheol koo,South_Korea,27
@@ -1639,7 +1551,6 @@ id,name,country,age
 74689,jaime,Spain,35
 287231,jairo,Spain,23
 289159,jak alnwick,Kingdom_of_England,23
-281158,jakub swierczok,Poland,23
 279489,jamaal lascelles,United_Kingdom,22
 24001,james beattie,Lancashire,38
 24751,james collins,United_Kingdom,33
@@ -1663,7 +1574,6 @@ id,name,country,age
 114650,jan moravek,Czech_Republic,26
 177126,jan oblak,Slovenia,23
 30949,jan polak,Czech_Republic,35
-45189,jan rajnoch,Czech_Republic,34
 27352,jan rosenthal,Germany,30
 39840,jan schlaudraff,Germany,33
 43211,jan simak,Czech_Republic,37
@@ -1674,8 +1584,8 @@ id,name,country,age
 278823,janek sternberg,Germany,23
 205893,jannik vestergaard,Denmark,24
 24104,jaroslav drobny,Czech_Republic,36
-30907,jaroslav plasil,Czechoslovakia,34
-210932,jasmin kurtic,Socialist_Federal_Republic_of_Yugoslavia,27
+30907,jaroslav plasil,Czech_Republic,34
+210932,jasmin kurtic,Slovenia,27
 33948,jason brown,United_Kingdom,34
 38857,jason euell,United_Kingdom,39
 24663,jason koumas,United_Kingdom,37
@@ -1709,11 +1619,9 @@ id,name,country,age
 33775,javier paredes,Spain,34
 129391,javier pastore,Argentina,27
 27436,javier pinola,Argentina,33
-37497,javier portillo,Spain,34
 173389,javier ros,Spain,26
 37576,javier saviola,Argentina,34
 30279,javier venta,Spain,40
-30460,javier zanetti,Argentina,43
 31011,jawhar mnari,Tunisia,39
 35338,jay bothroyd,United_Kingdom,34
 109491,jay rodriguez,Lancashire,27
@@ -1745,7 +1653,6 @@ id,name,country,age
 26403,jeremy mathieu,France,32
 33782,jeremy menez,France,29
 17703,jeremy perbet,France,31
-443966,jeremy toljan,Germany,22
 39990,jeremy toulalan,France,33
 31989,jermaine beckford,United_Kingdom,32
 30818,jermaine jenas,United_Kingdom,33
@@ -1767,11 +1674,9 @@ id,name,country,age
 291425,jhon cordoba,Colombia,23
 30802,ji-sung park,South_Korea,35
 36093,jiayi shao,China,36
-117432,jiloan hamad,Azerbaijan,25
 26330,jimmy briand,France,31
 33421,jimmy kebe,France,32
 309496,jin-su kim,South_Korea,24
-43138,jiri bilek,Czech_Republic,32
 33582,jiri jarosik,Czech_Republic,38
 30821,jiri stajner,Czech_Republic,40
 23785,jlloyd samuel,Trinidad_and_Tobago,35
@@ -1802,10 +1707,7 @@ id,name,country,age
 237542,johannes geis,Germany,23
 40985,johannes van den bergh,Germany,29
 278831,john anthony brooks,Germany,23
-24130,john arne riise,Norway,36
-26165,john carew,Norway,37
 130298,john guidetti,Sweden,24
-30885,john mensah,Ghana,33
 40602,john ruddy,England,29
 263653,john stones,United_Kingdom,22
 30627,john terry,United_Kingdom,35
@@ -1821,8 +1723,6 @@ id,name,country,age
 191140,jonas ramalho,Spain,23
 39122,jonas,Brazil,32
 40686,jonathan biabiany,France,28
-18848,jonathan bottinelli,Argentina,32
-113792,jonathan cristaldo,Argentina,27
 24123,jonathan de guzman,Canada,29
 469700,jonathan glao tah,Germany,20
 24664,jonathan greening,United_Kingdom,37
@@ -1871,7 +1771,6 @@ id,name,country,age
 2983,jorge molina,Spain,34
 287353,jorge orti,Spain,23
 213482,jorge pulido,Spain,25
-171338,jorge teixeira,Portugal,30
 37787,joris mathijsen,Netherlands,36
 45418,jos hooiveld,Netherlands,33
 38148,jose angel crespo,Spain,29
@@ -1931,7 +1830,6 @@ id,name,country,age
 298940,josip radosevic,Croatia,22
 30693,josip simunic,Australia,38
 427893,jozabed,Spain,25
-140988,jozsef varga,Hungary,28
 37469,juan albin,Uruguay,30
 38398,juan arango,Venezuela,36
 282691,juan bernat,Spain,23
@@ -1949,14 +1847,11 @@ id,name,country,age
 41468,juan mata,Spain,28
 25735,juan pablo carrizo,Argentina,32
 75195,juan pablo,Spain,38
-207617,juan quintero,Colombia,23
 190452,juan rafael fuentes,Spain,26
 37449,juan rodriguez,Spain,34
 33634,juan valera,Spain,31
 39719,juan vargas,Peru,32
-197352,juan,Brazil,25
 41023,juan,Brazil,37
-66633,jukka raitala,Finland,28
 59595,julian baumgartlinger,Austria,28
 516846,julian brandt,Germany,20
 33758,julian de guzman,Canada,35
@@ -1969,7 +1864,6 @@ id,name,country,age
 36771,julian schuster,Germany,31
 22998,julian speroni,Argentina,37
 521421,julian weigl,Germany,21
-278857,julian-maurice derstroff,Germany,24
 282680,julian,Spain,25
 33990,julien escude,France,37
 36394,julien faubert,France,33
@@ -1978,12 +1872,10 @@ id,name,country,age
 163843,julio cesar,Brazil,30
 30989,julio cesar,Brazil,37
 39401,julio sergio,Brazil,37
-420720,jung-bin park,South_Korea,22
-38863,junichi inamoto,Japan,37
 51841,junior diaz,Costa_Rica,33
 160496,junior stanislas,United_Kingdom,26
 19908,junmin hao,China,29
-72518,juraj kucka,Czechoslovakia,29
+72518,juraj kucka,Slovakia,29
 23144,jurgen colin,Netherlands,35
 118713,jurgen prutsch,Austria,27
 38178,juri judt,Kazakhstan,30
@@ -1993,13 +1885,10 @@ id,name,country,age
 441164,kaan ayhan,Germany,21
 112035,kagisho dikgacoi,South_Africa,31
 29316,kai herdling,Germany,32
-26098,kakha kaladze,Soviet_Union,38
 210428,kalidou koulibaly,France,25
 43329,kalu uche,Nigeria,33
 97489,kamel ghilas,France,32
 150670,kamil glik,Poland,28
-12371,kamil kopunek,Czechoslovakia,32
-27630,kamil vacek,Czechoslovakia,29
 105535,kamil wilczek,Poland,28
 26066,kamil zayatte,Guinea,31
 208230,karim bellarabi,Germany,26
@@ -2016,7 +1905,7 @@ id,name,country,age
 69675,kei ansu kamara,Sierra_Leone,32
 170599,keirrison,Brazil,27
 38711,keith andrews,Republic_of_Ireland,36
-77704,keith fahey,Republic_of_Ireland,33
+77704,keith fahey,United_Kingdom,33
 23736,keith southern,United_Kingdom,35
 78507,keith treacy,Republic_of_Ireland,28
 643709,kelechi iheanacho,Nigeria,19
@@ -2042,17 +1931,14 @@ id,name,country,age
 299886,kevin lasagna,Italy,24
 350472,kevin mbabu,Switzerland,21
 28109,kevin mcdonald,United_Kingdom,27
-39810,kevin mckenna,Canada,36
 31963,kevin mcnaughton,United_Kingdom,34
 26151,kevin mirallas,Belgium,28
 114492,kevin pezzoni,Germany,27
 37552,kevin phillips,Hertfordshire,43
 289817,kevin stewart,United_Kingdom,23
 114558,kevin strootman,Netherlands,26
-159882,kevin theophile-catherine,France,26
 145550,kevin trapp,Germany,26
 167589,kevin vogt,Germany,25
-212893,kevin volland,Germany,24
 264221,kevin wimmer,Austria,23
 27335,kevin-prince boateng,Germany,29
 51949,keylor navas,Costa_Rica,29
@@ -2066,13 +1952,11 @@ id,name,country,age
 429265,kingsley coman,France,20
 20196,kisho yano,Japan,32
 36784,klaas jan huntelaar,Netherlands,33
-206182,knowledge musona,Zimbabwe,26
 170322,koen casteels,Belgium,24
 96617,koikili campo,Spain,35
 30831,kolo toure,Ivory_Coast,35
 11242,konstantin engel,Kazakhstan,28
 115670,konstantin rausch,Russia,26
-209430,konstantinos fortounis,Greece,23
 161683,konstantinos manolas,Greece,25
 36257,konstantinos mitroglou,Greece,28
 282182,konstantinos stafylidis,Greece,22
@@ -2100,8 +1984,6 @@ id,name,country,age
 24789,lazaros christodoulopoulos,Greece,29
 183500,leandro bacuna,Netherlands,25
 22337,leandro castan,Brazil,29
-38729,leandro cufre,Argentina,38
-237606,leandro daniel paredes,Argentina,22
 41329,leandro greco,Italy,30
 39569,leandro rinaudo,Italy,33
 30354,ledley king,United_Kingdom,35
@@ -2116,18 +1998,14 @@ id,name,country,age
 141814,lennart hartmann,Germany,25
 196489,lennart thy,Germany,24
 358127,leo baptistao,Brazil,24
-147726,leon balogun,West_Germany,28
 23115,leon barnett,United_Kingdom,30
 35454,leon best,United_Kingdom,30
 34214,leon cort,United_Kingdom,37
 343748,leon goretzka,Germany,21
-35125,leon jessen,Denmark,30
 24006,leon osman,United_Kingdom,35
-139822,leonard kweuke,Centre_Region_(Cameroon),29
 260470,leonardo bittencourt,Germany,22
 181997,leonardo blanchard,Italy,28
 24235,leonardo bonucci,Italy,29
-620523,leonardo fontanesi,Italy,20
 30664,leonardo franco,Argentina,39
 42396,leonardo martin miglionico,Uruguay,36
 231176,leonardo pavoletti,Italy,27
@@ -2157,7 +2035,6 @@ id,name,country,age
 39987,loic remy,France,29
 150480,lora,Spain,29
 112476,lorenzo ariaudo,Italy,27
-192079,lorenzo crisetig,Italy,23
 42715,lorenzo davids,Suriname,30
 25587,lorenzo de silvestri,Italy,28
 22355,lorenzo del prete,Italy,30
@@ -2201,7 +2078,6 @@ id,name,country,age
 173427,lucas alfonso orban,Argentina,27
 18576,lucas barrios,Argentina,31
 38393,lucas biglia,Argentina,30
-210111,lucas digne,France,23
 452269,lucas evangelista,Brazil,21
 504606,lucas hernandez,France,20
 95327,lucas leiva,Brazil,29
@@ -2221,7 +2097,6 @@ id,name,country,age
 27700,luigi sala,Italy,42
 163255,luigi sepe,Italy,25
 41350,luigi vitale,Italy,28
-190522,luis advincula,Peru,26
 198566,luis alberto,Spain,24
 30734,luis boa morte,Portugal,39
 34106,luis fabiano,Brazil,35
@@ -2237,7 +2112,7 @@ id,name,country,age
 237602,luka krajnc,Slovenia,22
 31097,luka modric,Croatia,31
 176831,lukas hinterseer,Austria,25
-22832,lukas jarolim,Czechoslovakia,40
+22832,lukas jarolim,Czech_Republic,40
 27568,lukas jutkiewicz,United_Kingdom,27
 37335,lukas kruse,Germany,33
 32118,lukas podolski,Poland,31
@@ -2282,12 +2157,10 @@ id,name,country,age
 192574,manuel giandonato,Italy,24
 178800,manuel gulde,Germany,25
 49866,manuel iturra,Chile,32
-210276,manuel lanzini,Argentina,23
 37970,manuel lara martinez,Spain,36
 27299,manuel neuer,Germany,30
 295200,manuel onwu,Spain,28
 33756,manuel pablo,Spain,40
-103882,manuel pamic,Socialist_Federal_Republic_of_Yugoslavia,30
 24536,manuel pasqual,Italy,34
 282723,manuel pucciarelli,Italy,25
 36343,manuel salz,Germany,31
@@ -2325,11 +2198,8 @@ id,name,country,age
 41242,marcello castellini,Italy,43
 96532,marcello gazzola,Italy,31
 282278,marcello trotta,Italy,23
-206508,marcelo brozovic,Croatia,23
 49847,marcelo diaz,Chile,29
-68436,marcelo estigarribia,Paraguay,29
 27301,marcelo jose bordon,Brazil,40
-96481,marcelo moreno,Bolivia,29
 20325,marcelo silva,Uruguay,27
 24624,marcelo zalayeta,Uruguay,37
 28467,marcelo,Brazil,28
@@ -2340,11 +2210,9 @@ id,name,country,age
 498033,marco asensio,Spain,20
 41958,marco bernacci,Italy,32
 39447,marco borriello,Italy,34
-155273,marco calderoni,Italy,27
 25628,marco caligiuri,Germany,32
 215723,marco capuano,Italy,24
 31938,marco cassetti,Italy,39
-202650,marco crimi,Italy,26
 109338,marco davide faraoni,Italy,24
 38943,marco di loreto,Italy,42
 32749,marco di vaio,Italy,40
@@ -2364,14 +2232,11 @@ id,name,country,age
 27475,marco russ,Germany,31
 29340,marco sailer,Germany,30
 478391,marco sangalli,Spain,24
-165952,marco silvestri,Italy,25
 212630,marco sportiello,Italy,24
 27615,marco storari,Italy,39
 149909,marco terrazzino,Germany,25
 41640,marco zambelli,Italy,31
 196169,marcos alonso,Spain,25
-113976,marcos antonio,Brazil,33
-74410,marcos de paula,Brazil,32
 183184,marcos gullon,Spain,27
 30958,marcos senna,Brazil,40
 75306,marcos tebar,Spain,30
@@ -2379,8 +2244,8 @@ id,name,country,age
 155268,marcus diniz,Brazil,29
 119273,marcus olsson,Sweden,28
 25922,marek cech,Slovakia,33
-41658,marek hamsik,Czechoslovakia,29
-30870,marek jankulovski,Czechoslovakia,39
+41658,marek hamsik,Slovakia,29
+30870,marek jankulovski,Czech_Republic,39
 27440,marek mintal,Slovakia,39
 75579,marian kelemen,Slovakia,36
 423631,marian sarr,Germany,21
@@ -2395,14 +2260,13 @@ id,name,country,age
 37427,mario alvarez,Spain,34
 108808,mario balotelli,Italy,26
 102619,mario bermejo,Spain,37
-33082,mario cvitanovic,Socialist_Federal_Republic_of_Yugoslavia,41
+33082,mario cvitanovic,Croatia,41
 37380,mario eggimann,Switzerland,35
 97865,mario fernandez cuesta,Spain,28
 39559,mario frick,Switzerland,42
 183185,mario gaspar,Spain,25
 67306,mario gavranovic,Switzerland,26
 27326,mario gomez,Germany,31
-75447,mario mandzukic,Croatia,30
 102374,mario martinez,Spain,31
 34987,mario melchiot,Netherlands,39
 446266,mario pasalic,Germany,21
@@ -2411,10 +2275,9 @@ id,name,country,age
 36379,mario vrancic,Croatia,27
 26315,mario yepes,Colombia,40
 282420,marios oikonomou,Greece,23
-70440,marius alexe,Romania,26
 39837,marius ebbers,Germany,38
 434259,marius gersbeck,Germany,21
-41667,marius stankevicius,Lithuanian_Soviet_Socialist_Republic,35
+41667,marius stankevicius,Lithuania,35
 5440,marjan petkovic,Germany,37
 34540,mark bresciano,Australia,36
 200864,mark cullen,United_Kingdom,24
@@ -2424,12 +2287,11 @@ id,name,country,age
 22988,mark hudson,United_Kingdom,34
 37169,mark noble,United_Kingdom,29
 30633,mark schwarzer,Australia,43
-212819,mark uth,Germany,25
 30623,mark viduka,Australia,40
 102622,markel bergara,Spain,30
 110148,marko arnautovic,Austria,27
 30698,marko babic,Croatia,35
-358759,marko bakic,Serbia_and_Montenegro,22
+358759,marko bakic,Montenegro,22
 206242,marko livaja,Croatia,23
 71353,marko marin,Bosnia_and_Herzegovina,27
 36788,marko pantelic,Serbia,38
@@ -2453,7 +2315,6 @@ id,name,country,age
 413155,martin angha,Switzerland,22
 26784,martin bergvold,Denmark,32
 96616,martin caceres,Uruguay,29
-30459,martin demichelis,Argentina,35
 69864,martin fenin,Czech_Republic,29
 27234,martin harnik,Germany,29
 30715,martin jiranek,Czech_Republic,37
@@ -2461,7 +2322,6 @@ id,name,country,age
 275328,martin kobylanski,Germany,22
 38188,martin lanig,Germany,32
 25644,martin latka,Czech_Republic,32
-43280,martin laursen,Denmark,39
 213688,martin montoya,Spain,25
 25667,martin olsson,Sweden,28
 23370,martin paterson,United_Kingdom,29
@@ -2472,7 +2332,7 @@ id,name,country,age
 24527,marton fulop,Hungary,33
 109434,martyn waghorn,United_Kingdom,26
 269666,marvin bakalorz,Germany,27
-27411,marvin compper,West_Germany,31
+27411,marvin compper,Germany,31
 343757,marvin ducksch,Germany,22
 28108,marvin emnes,Netherlands,28
 530858,marvin friedrich,Germany,20
@@ -2497,20 +2357,17 @@ id,name,country,age
 96646,massimo volta,Italy,29
 41458,massimo zenildo zappino,Brazil,35
 34582,mate bilic,Croatia,35
-11049,matej krajcik,Czechoslovakia,38
 196308,matej vydra,Czech_Republic,24
 239219,mateo kovacic,Austria,22
 113672,mateo pablo musacchio,Argentina,26
 159452,mateo pavlovic,Bosnia_and_Herzegovina,26
 185644,mathew ryan,Australia,24
-198400,mathias abero,Uruguay,26
 27447,mathias hain,Germany,43
 71788,mathias ranegie,Sweden,32
 37322,mathias schober,Germany,40
 26154,mathieu debuchy,France,31
 23688,mathieu flamini,France,32
 120428,mathis bolly,Norway,25
-202790,matias aguirregaray,Brazil,27
 120221,matias cabrera,Uruguay,30
 30434,matias concha,Sweden,36
 182765,matias ezequiel schelotto,Argentina,27
@@ -2527,11 +2384,9 @@ id,name,country,age
 538112,matt targett,United_Kingdom,21
 279820,matteo bianchetti,Italy,23
 39376,matteo brighi,Italy,35
-42005,matteo centurioni,Italy,42
 182715,matteo ciofani,Italy,28
 27668,matteo contini,Italy,36
 46820,matteo darmian,Italy,26
-448321,matteo fedele,Switzerland,24
 31214,matteo ferrari,Algeria,36
 41322,matteo gianello,Italy,40
 415113,matteo mancosu,Italy,31
@@ -2544,16 +2399,13 @@ id,name,country,age
 173408,matthew james,United_Kingdom,25
 183715,matthew lowton,United_Kingdom,27
 127133,matthew phillips,United_Kingdom,25
-49585,matthew spiranovic,Australia,28
 24372,matthew taylor,United_Kingdom,34
 23818,matthew upson,United_Kingdom,37
 303912,matthias ginter,Germany,22
-59582,matthias jaissle,Germany,28
 36086,matthias lehmann,Germany,33
 240348,matthias ostrzolek,Germany,26
 182893,matthias zimmermann,Germany,24
 27320,matthieu delpierre,France,35
-67300,matti lund nielsen,Denmark,28
 39422,mattia cassani,Italy,33
 288613,mattia de sciglio,Italy,23
 154249,mattia destro,Italy,25
@@ -2570,7 +2422,6 @@ id,name,country,age
 26253,mauro cetto,Argentina,34
 113311,mauro dos santos,Argentina,27
 32750,mauro esposito,Italy,37
-206711,mauro goicoechea,Uruguay,28
 282770,mauro icardi,Argentina,23
 111741,mauro vigorito,Italy,26
 18506,mauro zarate,Argentina,29
@@ -2581,7 +2432,6 @@ id,name,country,age
 33640,maxi lopez,Argentina,32
 29587,maxi moralez,Argentina,29
 33632,maxi rodriguez,Argentina,35
-166575,maxime lestienne,Belgium,24
 298915,maximilian arnold,Germany,22
 602523,maximilian eggestein,Germany,19
 29356,maximilian nicu,Germany,33
@@ -2589,7 +2439,6 @@ id,name,country,age
 34304,maxwell,Brazil,35
 72665,maya yoshida,Japan,28
 46241,mbaye niang,France,21
-40428,mcdonald mariga,Kenya,29
 39185,medina fabiano,Brazil,34
 301234,mehdi abeid,France,24
 42173,mehmet aurelio,Brazil,38
@@ -2600,7 +2449,6 @@ id,name,country,age
 303824,memphis depay,Netherlands,22
 9079,mensur mujdza,Croatia,32
 28435,mergim mavraj,Germany,30
-136516,mervan celik,Sweden,26
 26374,mevlut erdinc,France,29
 24208,micah richards,United_Kingdom,28
 42502,michael agazzi,Italy,32
@@ -2615,10 +2463,8 @@ id,name,country,age
 43252,michael duff,United_Kingdom,38
 30675,michael essien,Ghana,33
 36060,michael fink,Germany,34
-26778,michael gravgaard,Denmark,38
 198316,michael gregoritsch,Austria,22
 282292,michael harriman,United_Kingdom,23
-464500,michael heinloth,Germany,24
 26886,michael jakobsen,Denmark,30
 290410,michael keane,United_Kingdom,23
 32148,michael kightly,United_Kingdom,30
@@ -2627,7 +2473,6 @@ id,name,country,age
 34698,michael lumb,Denmark,28
 29673,michael mancienne,United_Kingdom,28
 37387,michael mutzel,Germany,37
-187109,michael ortega,Colombia,25
 30619,michael owen,United_Kingdom,36
 70288,michael parkhurst,United_States,32
 200630,michael pereira,France,28
@@ -2638,7 +2483,6 @@ id,name,country,age
 34275,michael turner,United_Kingdom,32
 158545,michail antonio,United_Kingdom,26
 43210,michal kadlec,Czech_Republic,31
-20401,michel bastos,Brazil,33
 92532,michel morganella,Switzerland,27
 37193,michel vorm,Netherlands,32
 150316,michel,Brazil,26
@@ -2659,13 +2503,11 @@ id,name,country,age
 41469,miguel nieto,Spain,30
 38449,miguel pallardo,Spain,30
 41470,miguel torres,Spain,30
-40608,miguel veloso,Portugal,30
 34007,miguel,Portugal,36
 80229,miiko albornoz,Sweden,25
 448859,mijat gacinovic,Bosnia_and_Herzegovina,21
 42308,mikael antonsson,Sweden,35
 23819,mikael forssell,Germany,35
-200601,mikael ishak,Sweden,23
 30616,mikael silvestre,France,39
 37042,mike frantz,Germany,29
 30854,mike hanke,Germany,32
@@ -2676,27 +2518,23 @@ id,name,country,age
 33961,mikel labaka,Spain,36
 43375,mikel rico,Spain,31
 182224,mikel san jose,Spain,27
-141699,milan badelj,Socialist_Federal_Republic_of_Yugoslavia,27
-37262,milan jovanovic,Serbia,35
-140963,milan milanovic,Socialist_Federal_Republic_of_Yugoslavia,25
+141699,milan badelj,Croatia,27
+140963,milan milanovic,Kosovo,25
 43223,milan petrzela,Czech_Republic,33
 16230,milan smiljanic,Sweden,29
-38848,milivoje novakovic,Slovenia,37
 27500,milorad pekovic,Montenegro,39
-26285,milos dimitrijevic,Socialist_Federal_Republic_of_Yugoslavia,32
 387727,milos jojic,Serbia,24
-31314,milos krasic,Socialist_Federal_Republic_of_Yugoslavia,31
+31314,milos krasic,Kosovo,31
 515333,milos veljkovic,Switzerland,21
-113757,milton joel caraglio,Argentina,27
 33336,mimoun azaouagh,Morocco,33
-96398,miralem pjanic,Socialist_Federal_Republic_of_Yugoslavia,26
+96398,miralem pjanic,Bosnia_and_Herzegovina,26
 113902,mirko boland,Germany,29
 71350,mirko eramo,Italy,27
 415500,mirko gori,Italy,23
 39539,mirko pieri,Italy,38
 41341,mirko savini,Italy,37
 41688,mirko valdifiori,Italy,30
-38717,mirko vucinic,Socialist_Federal_Republic_of_Yugoslavia,32
+38717,mirko vucinic,Montenegro,32
 114211,miro varvodic,Croatia,27
 27510,miroslav karhan,Slovakia,40
 30638,miroslav klose,Poland,38
@@ -2710,7 +2548,7 @@ id,name,country,age
 91560,modibo maiga,Mali,29
 147733,mohamed amsif,Germany,27
 40015,mohamed diame,France,29
-541556,mohamed fares,Italy,20
+541556,mohamed fares,France,20
 601592,mohamed gouaida,France,23
 24132,mohamed lamine sissoko,France,31
 39580,mohamed sarr,Senegal,32
@@ -2731,19 +2569,15 @@ id,name,country,age
 58362,moses lamidi,Nigeria,28
 26354,mouhamadou dabo,Senegal,29
 35497,mounir el hamdaoui,Netherlands,32
-41332,mounir obbadi,France,33
 509148,moussa dembele,France,20
-275122,moussa konate,Senegal,23
 195414,moussa kone,Ivory_Coast,26
 94550,moussa sissoko,France,27
-71651,mu kanazaki,Japan,27
 212866,muhamed besic,Germany,24
 522579,munir el haddadi,Spain,21
 37996,mustapha riga,Ghana,34
 43310,nabil baha,France,35
 500520,nabil bentaleb,France,21
 46621,nabil el zhar,France,30
-614449,nadiem amiri,Germany,19
 40987,nadir belhadj,France,34
 28480,naldo,Brazil,34
 37154,nando rafael,Angola,32
@@ -2758,16 +2592,13 @@ id,name,country,age
 29571,neal eardley,United_Kingdom,27
 102356,neil taylor,United_Kingdom,27
 31718,nelson haedo valdez,Paraguay,32
-50055,nelson rivas,Colombia,33
 31303,nelson,Cape_Verde,33
 115067,nemanja matic,Serbia,28
 425985,nemanja radoja,Serbia,23
 30865,nemanja vidic,Serbia,34
-121044,nenad krsticic,Socialist_Federal_Republic_of_Yugoslavia,26
+121044,nenad krsticic,Serbia,26
 31317,nenad milijas,Serbia,33
 39711,nery castillo,Mexico,32
-164319,neto,Portugal,28
-176186,neto,Brazil,27
 202108,neuton,Brazil,26
 71399,neven subotic,Bosnia_and_Herzegovina,27
 181998,niccolo giannetti,Italy,25
@@ -2789,13 +2620,11 @@ id,name,country,age
 41405,nicola ravaglia,Italy,27
 57123,nicola rigoni,Italy,25
 195199,nicola sansone,Germany,25
-41831,nicola strambelli,Italy,28
 39211,nicola ventola,Italy,38
-40865,nicolae dica,Socialist_Republic_of_Romania,36
+40865,nicolae dica,Romania,36
 41306,nicolas amodio,Uruguay,33
 37804,nicolas anelka,France,37
 30928,nicolas burdisso,Argentina,35
-259507,nicolas castillo,Chile,23
 18880,nicolas federico spolli,Argentina,33
 362194,nicolas lopez,Uruguay,22
 155297,nicolas martin gorobsov,Argentina,26
@@ -2804,20 +2633,18 @@ id,name,country,age
 38385,nicolas pareja,Argentina,32
 40544,nicolas plestan,France,35
 68404,nicolas viola,Italy,26
-282774,nicolas,Brazil,28
 541820,nicolo barella,Italy,19
 73841,nicolo cherubin,Italy,29
 30598,nigel de jong,Netherlands,31
 37477,nihat kahveci,Turkey,36
-31294,niki zimling,Denmark,31
 8922,nikica jelavic,Bosnia_and_Herzegovina,31
 106369,nikita rukavytsya,Ukraine,29
 425962,niklas stark,Germany,21
 36000,niko bungert,Germany,29
 38820,niko kranjcar,Croatia,32
-118879,nikola gulan,Socialist_Federal_Republic_of_Yugoslavia,27
+118879,nikola gulan,Serbia,27
 21613,nikola kalinic,Croatia,28
-253088,nikola maksimovic,Serbia_and_Montenegro,24
+253088,nikola maksimovic,Serbia,24
 95904,nikola petkovic,Serbia,30
 38567,nikola zigic,Serbia,36
 36806,nikolce noveski,Macedonia,37
@@ -2827,7 +2654,7 @@ id,name,country,age
 107920,nils petersen,Germany,27
 41016,nivaldo,Brazil,36
 24630,noe pamarot,France,37
-291655,norbert gyomber,Czechoslovakia,24
+291655,norbert gyomber,Slovakia,24
 36326,norman theuerkauf,Germany,29
 30857,nuno valente,Portugal,42
 27365,nuri sahin,Germany,28
@@ -2835,14 +2662,11 @@ id,name,country,age
 24446,nyron nosworthy,United_Kingdom,35
 37799,obafemi martins,Nigeria,31
 101419,odion ighalo,Nigeria,27
-177891,odise roshi,Albania,25
 304355,odisseas vlachodimos,Germany,22
 317717,ogenyi onazi,Nigeria,23
 30692,oguchi onyewu,United_States,34
 101590,oier olazabal,Spain,27
 72542,oier,Spain,30
-229844,ola john,Liberia,24
-39139,ola toivonen,Sweden,30
 36253,olcay sahan,Germany,29
 29276,oliver barth,Germany,36
 178778,oliver baumann,Germany,26
@@ -2908,7 +2732,6 @@ id,name,country,age
 30509,pablo zabaleta,Argentina,31
 197514,pajtim kasami,Switzerland,24
 27336,pal dardai,Hungary,40
-39450,panagiotis kone,Albania,29
 110378,panagiotis tachtsidis,Greece,25
 41129,paolo acerbis,Italy,35
 39696,paolo bianco,Italy,39
@@ -2943,7 +2766,6 @@ id,name,country,age
 27472,patrick ochs,Germany,32
 30255,patrick owomoyela,Germany,36
 36390,patrick paauwe,Netherlands,40
-278865,patrick rakovsky,Germany,23
 180330,patrick van aanholt,Netherlands,26
 34942,patrick vieira,Senegal,40
 141082,patrick ziegler,Germany,26
@@ -2953,7 +2775,6 @@ id,name,country,age
 30256,paul freier,Poland,37
 24781,paul konchesky,United_Kingdom,35
 40132,paul mcshane,Republic_of_Ireland,30
-173509,paul papp,Romania,26
 248453,paul pogba,France,23
 23453,paul rachubka,United_States,35
 30622,paul robinson,United_Kingdom,36
@@ -2965,20 +2786,15 @@ id,name,country,age
 31103,paulo da silva,Paraguay,36
 325916,paulo dybala,Argentina,22
 278285,paulo gazzaniga,Argentina,24
-212156,pavel kaderabek,Czech_Republic,24
 10950,pavel krmas,Czech_Republic,36
-30725,pavel nedved,Czechoslovakia,44
+30725,pavel nedved,Czech_Republic,44
 41244,pavel pogrebnyak,Russia,32
-176682,pavol bajza,Czechoslovakia,25
-72448,pavol farkas,Czechoslovakia,31
 291635,pedro bigas,Spain,26
 150769,pedro botelho,Brazil,26
 680031,pedro chirivella,Spain,19
-6824,pedro kamata,Angola,35
 75192,pedro leon,Spain,29
 37597,pedro lopez,Spain,32
 163919,pedro mba obiang,Spain,24
-154264,pedro mendes,Switzerland,25
 50473,pedro morales,Chile,31
 40668,pedro mosquera,Spain,28
 35638,pedro munitis,Spain,41
@@ -2990,7 +2806,6 @@ id,name,country,age
 172901,peniel kokou mlapa,Togo,25
 40108,per ciljan skjelbred,Norway,29
 35606,per mertesacker,Germany,31
-40093,per nilsson,Sweden,34
 39487,perparim hetemaj,Kosovo,29
 193202,petar sliskovic,Bosnia_and_Herzegovina,25
 30830,peter crouch,United_Kingdom,35
@@ -3020,7 +2835,6 @@ id,name,country,age
 135247,philipp zulechner,Austria,26
 184536,philippe coutinho,Brazil,24
 30890,philippe senderos,Switzerland,31
-553849,pierluigi gollini,Italy,21
 171472,pierre bengtsson,Sweden,28
 27120,pierre de wit,Germany,29
 25574,pierre webo,Cameroon,34
@@ -3029,7 +2843,6 @@ id,name,country,age
 193530,pierre-michel lasogga,Germany,24
 37216,piet velthuizen,Netherlands,29
 33414,pietro accardi,Italy,34
-39522,pietro marino,Italy,29
 281762,pietro terracciano,Italy,26
 39106,piotr trochowski,Poland,32
 362212,piotr zielinski,Poland,22
@@ -3037,7 +2850,6 @@ id,name,country,age
 174031,pontus jansson,Sweden,25
 585352,pozo,Spain,20
 164190,predrag stevanovic,Germany,25
-30358,prince tagoe,Ghana,29
 23779,quincy owusu-abeyie,Netherlands,30
 22543,radamel falcao,Colombia,30
 438456,rade krunic,Bosnia_and_Herzegovina,22
@@ -3053,7 +2865,6 @@ id,name,country,age
 19285,rafael marques,Brazil,33
 30740,rafael marquez,Mexico,37
 211118,rafael martins,Brazil,27
-20342,rafael santos,Brazil,31
 127374,rafael toloi,Brazil,25
 30840,rafael van der vaart,Netherlands,33
 105828,rafael,Brazil,34
@@ -3098,14 +2909,11 @@ id,name,country,age
 33817,reginaldo,Brazil,33
 200515,reinhold yabo,Germany,24
 199834,remy cabella,France,26
-121960,renan,Brazil,30
 19435,renan,Brazil,31
 34681,renato augusto,Brazil,28
 27424,rene adler,Germany,31
 170667,rene krhin,Slovenia,26
 32597,reto ziegler,Switzerland,30
-57082,ribair rodriguez,Uruguay,28
-50189,ricardo alvarez,Argentina,28
 34183,ricardo faty,France,30
 38755,ricardo fuller,Jamaica,36
 23937,ricardo gardner,Jamaica,38
@@ -3121,7 +2929,6 @@ id,name,country,age
 42511,riccardo allegretti,Italy,38
 104744,riccardo cazzola,Italy,30
 41488,riccardo colombo,Italy,33
-414854,riccardo gagliolo,Italy,26
 288591,riccardo improta,Italy,22
 42437,riccardo meggiorini,Italy,31
 24507,riccardo montolivo,Italy,31
@@ -3139,7 +2946,6 @@ id,name,country,age
 39225,rickie lambert,United_Kingdom,34
 116750,ricky van wolfswinkel,Netherlands,27
 462004,rico strieder,Germany,24
-95225,rinaldo cruzado,Peru,32
 30620,rio ferdinand,United_Kingdom,37
 67850,ritchie de laet,Belgium,27
 278343,riyad mahrez,France,25
@@ -3205,7 +3011,6 @@ id,name,country,age
 570431,rolando aarons,Jamaica,20
 27690,rolando bianchi,Italy,33
 577911,rolando mandragora,Italy,19
-31300,rolando,Cape_Verde,31
 92024,rolf feltscher,Switzerland,25
 94009,romain bregerie,France,30
 32570,roman bednar,Czech_Republic,33
@@ -3253,7 +3058,6 @@ id,name,country,age
 30915,ryan babel,Netherlands,29
 72417,ryan bennett,United_Kingdom,26
 46010,ryan bertrand,United_Kingdom,27
-42594,ryan donk,Netherlands,30
 23036,ryan france,United_Kingdom,35
 24154,ryan giggs,United_Kingdom,42
 40695,ryan shawcross,United_Kingdom,28
@@ -3282,14 +3086,13 @@ id,name,country,age
 192807,samba diakite,France,27
 38364,sami allagui,Germany,30
 42346,sami khedira,Germany,29
-42422,samir handanovic,Socialist_Federal_Republic_of_Yugoslavia,32
+42422,samir handanovic,Slovenia,32
 26181,samir nasri,France,29
-41045,samir ujkani,Socialist_Federal_Republic_of_Yugoslavia,28
+41045,samir ujkani,Kosovo,28
 543312,samu,Spain,22
 562062,samuel castillejo,Spain,21
 34430,samuel ricketts,Buckinghamshire,34
 184520,samuel souprayen,France,27
-195589,samuele longo,Italy,24
 128870,sandro laurindo da silva,Brazil,32
 477615,sandro ramirez,Spain,21
 162680,sandro sirigu,Germany,27
@@ -3301,9 +3104,6 @@ id,name,country,age
 33641,santiago ezquerro,Spain,39
 196205,santiago garcia,Argentina,28
 18945,santiago gentiletti,Argentina,31
-199833,saphir taider,France,24
-147717,sascha bigalke,West_Germany,26
-36181,sascha burchert,East_Germany,26
 37151,sascha dum,Germany,30
 31290,sascha riether,Germany,33
 213712,saul berjon,Spain,30
@@ -3342,17 +3142,15 @@ id,name,country,age
 39731,sebastiano siviglia,Italy,43
 26209,sebastien bassong,France,30
 38795,sebastien pocognoli,Belgium,29
-26244,sebastien puygrenier,France,34
 33812,sebastien squillaci,France,36
 36011,sejad salihovic,Bosnia_and_Herzegovina,31
 29622,selim teber,Germany,35
-66890,senad lulic,Socialist_Federal_Republic_of_Yugoslavia,30
+66890,senad lulic,Bosnia_and_Herzegovina,30
 74772,sendoa,Spain,40
 121093,sercan sararer,Germany,26
 36146,serdar tasci,Germany,29
 26221,serge gakpe,France,29
 385437,serge gnabry,Germany,21
-40383,sergei kornilenko,Belarus,33
 463301,sergej milinkovic-savic,Spain,21
 282472,sergi darder,Spain,22
 193224,sergi enrich,Spain,26
@@ -3378,7 +3176,6 @@ id,name,country,age
 75206,sergio ortega,Spain,35
 102630,sergio pelegrin,Spain,37
 24448,sergio pellissier,Italy,37
-39834,sergio pinto,Portugal,35
 30962,sergio ramos,Spain,30
 37443,sergio rodri,Spain,32
 109060,sergio romero,Argentina,29
@@ -3401,7 +3198,6 @@ id,name,country,age
 24224,shay given,Ireland,40
 36289,shelton martis,Kingdom_of_the_Netherlands,33
 144993,shinji kagawa,Japan,27
-20694,shinji okazaki,Japan,30
 184999,shkodran mustafi,Germany,24
 24225,shola ameobi,Nigeria,34
 33929,sidi yaya keita,Mali,31
@@ -3431,9 +3227,8 @@ id,name,country,age
 39206,simone loria,Italy,39
 27685,simone missiroli,Italy,30
 42645,simone padoin,Italy,32
-362114,simone pasa,Italy,22
 39232,simone pepe,Italy,33
-30747,simone perrotta,England,39
+30747,simone perrotta,United_Kingdom,39
 37522,simone pesce,Italy,34
 111739,simone romagnoli,Italy,26
 423223,simone scuffet,Italy,20
@@ -3450,16 +3245,12 @@ id,name,country,age
 23839,sone aluko,United_Kingdom,27
 212814,sonny kittel,Germany,23
 39032,sotirios kyrgiakos,Greece,37
-58485,sotiris ninis,Albania,26
 34654,souleymane bamba,France,31
 362110,souleymane doukara,France,24
 40923,stanislav angelov,Bulgaria,38
-22707,stanislav manolev,Bulgaria,30
-12246,stanislav sestak,Czechoslovakia,33
 38802,steed malbranque,Belgium,36
 38647,stefan aigner,Germany,29
 31318,stefan babovic,Montenegro,29
-193901,stefan bell,Germany,25
 38672,stefan buck,Germany,36
 43341,stefan daniel radu,Romania,29
 188555,stefan de vrij,Netherlands,24
@@ -3471,7 +3262,7 @@ id,name,country,age
 38190,stefan reisinger,Germany,35
 268261,stefan ristovski,Macedonia,24
 178955,stefan savic,Montenegro,25
-183548,stefan scepovic,Socialist_Federal_Republic_of_Yugoslavia,26
+183548,stefan scepovic,Serbia,26
 243493,stefan thesker,Germany,25
 29631,stefano celozzi,Germany,27
 22386,stefano ferrario,Italy,31
@@ -3502,7 +3293,6 @@ id,name,country,age
 33138,stephen ward,Republic_of_Ireland,31
 24136,stephen warnock,United_Kingdom,34
 92666,stevan jovetic,Montenegro,26
-25948,steve gohouri,Ivory_Coast,35
 37166,steve morison,United_Kingdom,33
 23283,steve sidwell,United_Kingdom,33
 23307,steve simonsen,United_Kingdom,37
@@ -3519,7 +3309,6 @@ id,name,country,age
 24228,steven taylor,United_Kingdom,30
 25411,steven thompson,United_Kingdom,37
 32616,steven whittaker,United_Kingdom,32
-140819,steven zuber,Switzerland,25
 30892,stewart downing,United_Kingdom,32
 38609,stiliyan petrov,Bulgaria,37
 401343,stipe perica,Croatia,21
@@ -3527,7 +3316,6 @@ id,name,country,age
 254241,stole dimitrievski,Macedonia,22
 24190,stuart parnaby,United_Kingdom,34
 23793,stuart taylor,United_Kingdom,35
-667790,suat serdar,Germany,19
 534484,success isaac,Nigeria,20
 245530,suk-young yun,South_Korea,26
 208208,suleyman koc,Germany,27
@@ -3541,14 +3329,11 @@ id,name,country,age
 34433,sylvan ebanks-blake,United_Kingdom,30
 39045,szabolcs huszti,Hungary,33
 97762,takashi inui,Japan,28
-166653,takashi usami,Japan,24
 23939,tal ben haim,Israel,34
 36132,tamas hajnal,Hungary,35
 11576,tamir cohen,Israel,32
 484906,tana,Spain,26
-27866,tarik elyounoussi,Morocco,28
 25541,taye taiwo,Nigeria,31
-66578,teemu pukki,Finland,26
 466132,theo bongonda,Belgium,20
 31013,theo walcott,United_Kingdom,27
 107588,theodor gebre selassie,Czech_Republic,29
@@ -3565,11 +3350,9 @@ id,name,country,age
 179791,thomas heurtaux,France,28
 30628,thomas hitzlsperger,Germany,34
 212714,thomas ince,United_Kingdom,24
-27255,thomas kessler,Germany,30
 38167,thomas kleine,Germany,38
 36878,thomas kraft,Germany,28
 41869,thomas manfredini,Italy,36
-41098,thomas mangani,France,29
 355362,thomas pledl,Germany,22
 26005,thomas vermaelen,Belgium,30
 36007,thorben marx,Germany,35
@@ -3587,11 +3370,9 @@ id,name,country,age
 37326,tim sebastian,Germany,32
 27313,tim wiese,Germany,34
 178206,timm klose,Germany,28
-26440,timmy simons,Belgium,39
 514301,timo baumgartl,Germany,20
 97752,timo gebhart,Germany,27
 30703,timo hildebrand,Germany,37
-212815,timo horn,Germany,23
 42898,timo ochs,Germany,34
 141115,timo perthel,Germany,27
 39796,timo rost,Germany,38
@@ -3604,7 +3385,6 @@ id,name,country,age
 27566,tiziano polenghi,Italy,38
 141114,tobias kempe,Germany,27
 36380,tobias levels,Germany,29
-536579,tobias pachonik,Germany,21
 27452,tobias rau,Germany,34
 37678,tobias sippel,Germany,28
 303914,tobias strobl,Germany,26
@@ -3623,12 +3403,11 @@ id,name,country,age
 193978,tomas pina,Spain,28
 52243,tomas rincon,Venezuela,28
 31435,tomas rosicky,Czech_Republic,35
-30689,tomas ujfalusi,Czechoslovakia,38
+30689,tomas ujfalusi,Czech_Republic,38
 35906,tomasz kuszczak,Poland,34
 39769,tommaso berni,Italy,33
 25598,tommaso rocchi,Italy,39
 39901,tommy bechmann,Denmark,34
-96539,tomoaki makino,Japan,29
 95078,toni kroos,Germany,26
 74213,toni moral,Spain,35
 143442,toni sunjic,Bosnia_and_Herzegovina,27
@@ -3645,12 +3424,11 @@ id,name,country,age
 204169,uffe bech,Denmark,23
 190604,ugo gabrieli,Italy,27
 41931,umit korkmaz,Austria,31
-42184,umit ozat,Turkey,39
 47421,unai alba,Spain,38
 571623,unai bustinza,Spain,24
 571615,unai lopez,Spain,20
 30603,urby emanuelson,Netherlands,30
-184770,uros cosic,Serbia_and_Montenegro,23
+184770,uros cosic,Serbia,23
 33027,ustaritz,Spain,33
 158257,vaclav kadlec,Czech_Republic,24
 207542,vaclav pilar,Czech_Republic,27
@@ -3665,7 +3443,7 @@ id,name,country,age
 282438,valerio verre,Italy,22
 501569,valmir sulejmani,Germany,20
 30966,valon behrami,Kosovo,31
-36121,valter birsa,Socialist_Federal_Republic_of_Yugoslavia,30
+36121,valter birsa,Slovenia,30
 445907,varela,Spain,21
 163918,vasco regini,Italy,26
 36084,vedad ibisevic,Bosnia_and_Herzegovina,32
@@ -3688,7 +3466,6 @@ id,name,country,age
 107930,victor sanchez mata,Spain,29
 32657,victor valdes,Spain,34
 166676,victor wanyama,Kenya,25
-181911,vid belec,Slovenia,26
 39027,vincent kompany,Belgium,30
 299370,vincent laurini,France,27
 33650,vincent pericard,Cameroon,33
@@ -3700,13 +3477,12 @@ id,name,country,age
 42581,vincenzo italiano,Germany,38
 114746,vincenzo rennella,France,27
 209405,virgil van dijk,Netherlands,25
-39496,vitali kutuzov,Soviet_Union,36
+39496,vitali kutuzov,Belarus,36
 37233,vito mannone,Italy,28
 177837,vlad chiriches,Romania,26
 36091,vlad munteanu,Romania,35
 196311,vladimir darida,Czech_Republic,26
-72371,vladimir koman,Ukrainian_Soviet_Socialist_Republic,27
-33439,vladimir stojkovic,Serbia,33
+72371,vladimir koman,Ukraine,27
 163199,vladimir weiss,Slovakia,26
 261653,vladlen yurchenko,Ukraine,22
 109652,vurnon anita,Kingdom_of_the_Netherlands,27
@@ -3725,7 +3501,6 @@ id,name,country,age
 38831,wayne routledge,England,31
 41707,weligton,Brazil,37
 202220,wellington silva,Brazil,23
-121957,wellington,Brazil,28
 487867,wendell,Brazil,23
 30362,wes brown,United_Kingdom,36
 23571,wes morgan,United_Kingdom,32
@@ -3744,7 +3519,6 @@ id,name,country,age
 71466,william vainqueur,France,27
 94086,willian,Brazil,28
 56600,willians,Brazil,30
-267992,wilson kamavuaka,Germany,26
 97988,wilson palacios,Honduras,32
 169718,wojciech szczesny,Poland,26
 40992,wolfgang hesl,Germany,30
@@ -3762,7 +3536,6 @@ id,name,country,age
 179793,yacouba sylla,France,25
 41618,yann sommer,Switzerland,27
 160194,yannick bolasie,France,27
-450976,yannick gerhardt,Germany,22
 148832,yannick sagbo,France,28
 192921,yaya sanogo,France,23
 36615,yaya toure,Ivory_Coast,33
@@ -3773,21 +3546,18 @@ id,name,country,age
 26160,yohan cabaye,France,30
 157859,yohan mollo,France,27
 108461,yohandry orozco,Venezuela,25
-459499,yoshinori muto,Japan,24
 26108,younes kaboul,France,30
 414794,young-pyo lee,South_Korea,39
 161291,youssef el arabi,France,29
 80295,yuri berchiche,Spain,26
 40825,yuri zhirkov,Russia,33
-166449,yuya osako,Japan,26
 97488,yves hadley desmarets,France,37
 432463,zakaria bakkali,Belgium,20
 238786,zakarya bergdich,France,27
 119351,zavon hines,Jamaica,27
 30861,zdenek grygera,Czech_Republic,36
-33823,zdenek pospech,Czech_Republic,37
 25772,zdravko kuzmanovic,Switzerland,29
-157284,zeljko brkic,Socialist_Federal_Republic_of_Yugoslavia,30
+157284,zeljko brkic,Serbia,30
 30850,zeljko kalac,Australia,43
 290868,zhi-gin lam,Germany,25
 27305,zlatan bajramovic,Germany,37
@@ -3802,4 +3572,4 @@ id,name,country,age
 36491,zsolt low,Hungary,37
 35506,zurab khizanishvili,Georgia,34
 39902,zvjezdan misimovic,Germany,34
-39494,zlatko dedic,Socialist_Federal_Republic_of_Yugoslavia,31
+39494,zlatko dedic,Bosnia_and_Herzegovina,31

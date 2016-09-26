@@ -49,6 +49,63 @@ SELECT DISTINCT "-" ?Name2 ?Country ?Date WHERE {
 #GROUP BY ?Name
 ORDER BY ?Date
 
+
+PREFIX schema: <http://schema.org/>
+PREFIX yago: <http://dbpedia.org/class/yago/>
+PREFIX  dct: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT "-" ?Name2 ?Country ?Date WHERE {
+   ?Player dbp:fullname ?Name2 .
+   #?Player dbp:name ?Name .
+   #OPTIONAL { ?Player dbp:fullname ?Name2 . }
+   ?Player dct:subject dbc:Serie_A_players .
+   ?City dbo:country ?Country .
+   ?Player dbo:birthPlace ?City .
+   ?Player dbo:birthDate ?Date .
+   FILTER(?Date > "1968-01-01"^^xsd:dateTime) .
+
+}
+#GROUP BY ?Name
+ORDER BY ?Date
+
+PREFIX schema: <http://schema.org/>
+PREFIX yago: <http://dbpedia.org/class/yago/>
+
+SELECT DISTINCT "-" ?Name2 ?Country ?Date WHERE {
+   ?Player dbp:fullname ?Name2 .
+   #?Player dbp:name ?Name .
+   #OPTIONAL { ?Player dbp:fullname ?Name2 . }
+   ?Team dbo:league dbr:Serie_A
+   ?Player dbp:clubs ?Team .
+   ?City dbo:country ?Country .
+   ?Player dbo:birthPlace ?City .
+   ?Player dbo:birthDate ?Date .
+   FILTER(?Date > "1968-01-01"^^xsd:dateTime) .
+
+}
+#GROUP BY ?Name
+ORDER BY ?Date
+
+# CUANDO NO HAY CIUDAD, SE BUSCA DIRECTAMENTE POR PAÍS
+PREFIX schema: <http://schema.org/>
+PREFIX yago: <http://dbpedia.org/class/yago/>
+PREFIX  dct: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT "-" ?Name2 ?Country ?Date WHERE {
+   ?Player dbp:fullname ?Name2 .
+   #?Player dbp:name ?Name .
+   #OPTIONAL { ?Player dbp:fullname ?Name2 . }
+   ?Player dct:subject dbc:Serie_A_players .
+   ?Country rdf:type schema:Country .
+   ?Player dbo:birthPlace ?Country .
+   ?Player dbo:birthDate ?Date .
+   FILTER(?Date > "1968-01-01"^^xsd:dateTime) .
+
+}
+#GROUP BY ?Name
+ORDER BY ?Date
+
+
 total players: 18593
 total fifa players: 11060
 players Ids: 4952
@@ -69,3 +126,24 @@ players Ids: 4952
 playersFifa 4952
 3574
 1378
+
+total players: 21324
+total fifa players: 11060
+players Ids: 4952
+playersFifa 4952
+3803
+1149
+
+total players: 21324
+total fifa players: 11060
+players Ids: 4952
+playersFifa 4952
+4094
+858
+
+total players: 21363
+total fifa players: 11060
+players Ids: 4952
+playersFifa 4952
+4101
+851
