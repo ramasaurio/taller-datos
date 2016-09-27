@@ -36,7 +36,8 @@ class Player(object):
 
 class FifaPlayer(object):
 
-    def __init__(self, idapi=None, name=None, idapififa=None, bday=None):
+    def __init__(self, idapi=None, name=None, idapififa=None, bday=None, country=None, premier=None,
+                 bundes=None, seriea=None, spain=None, age=None):
         self.idapi = int(idapi)
         self.idapififa = int(idapififa)
         self.name = name.replace('"', '').lower()
@@ -44,17 +45,27 @@ class FifaPlayer(object):
         self.bmonth = int(bday[5:7])
         self.bday = int(bday[8:10])
 
-        years = 2016 - self.byear - 1
-        months = 9 - self.bmonth
-        days = 29 - self.bday
+        if age is None:
+            years = 2016 - self.byear - 1
+            months = 9 - self.bmonth
+            days = 29 - self.bday
 
-        if months > 0:
-            years += 1
-        elif months == 0:
-            if days > 0:
+            if months > 0:
                 years += 1
+            elif months == 0:
+                if days > 0:
+                    years += 1
 
-        self.age = years
+            self.age = years
+        else:
+            self.age = age
+
+        if country is not None:
+            self.country = country
+            self.premier = premier
+            self.bundes = bundes
+            self.seriea = seriea
+            self.spain = spain
 
 
 def cleanWeirdLetters(name):

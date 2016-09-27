@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 from player import Player, FifaPlayer
+from country import Country
 import math
 
 
-def run():
+def assignCountry():
 
     # Todos los jugadores de dbpedia que nacieron después de 1967
     # y que han jugado en clubes de España, Italia, Alemania o Inglaterra
@@ -68,46 +69,22 @@ def run():
                 if potp.bday is not None:
                     days += potp.bday - fplayer.bday
                 tocayoplayers.append((potp, math.fabs(days)))
-                # potp = playersByName[playername]
-                #
-                # if potp.byear is not None:
-                #     if potp.byear != fplayer.byear:
-                #         continue
-                # if potp.bmonth is not None:
-                #     if potp.bmonth != fplayer.bmonth:
-                #         continue
-                # if potp.bday is not None:
-                #     if potp.bday != fplayer.bday:
-                #         continue
-                # se le asigna la propiedad country a los jugadores
-                # fplayer.country = potp.country
-                # counter += 1
-        # if fplayer.name == 'carlos carmona':
-        #     print(len(tocayoplayers))
-        #     for p, days in tocayoplayers:
-        #         print('nombre:', p.fullname)
-        #         print('pais:', p.country)
-        #         print('fecha nac:', p.byear, p.bmonth, p.bday)
-        #         print('dias de diff:', days)
-        #         print('\n')
-        #     print('\n')
 
         if len(tocayoplayers) > 0:
             tocayoplayers = sorted(tocayoplayers, key=lambda pl: pl[1])
-            fplayer.country = tocayoplayers[0][0].country
+            fplayer.country = tocayoplayers[0][0].country.replace('_', ' ')
             counter += 1
 
         # jugadores que no tuvieron match
         if not hasattr(fplayer, 'country'):
             playernocountry.append(fplayer)
-            # print(fplayer.name)
 
     print(counter)
     print(len(playernocountry))
     for player in playernocountry:
         print(player.name)
 
-    writeFifaPlayers('jugadores-con-pais3.csv', [p for p in playersFifa if hasattr(p, 'country')])
+    writeFifaPlayers('jugadores-con-pais.csv', [p for p in playersFifa if hasattr(p, 'country')])
 
 
 def writeFifaPlayers(path, playersFifa):
@@ -277,6 +254,35 @@ def writeFifaPlayersByLeagues():
     return players
 
 
+def matchCountryCoords(players):
+
+    infile = open('Dataset/countries.csv', 'r')
+    infile.readline()
+    countries = []
+
+    for line in infile:
+        values = line.replace('\n', '').split(',')
+        country = Country(values)
+        countries.append(country)
+
+    for player in players:
+        country = player.country
+        country = country.replace('_', '')
+
+
+def readFullPlayers():
+
+    infile = open('jugadores_con_pais.csv', 'r')
+    infile.readline()
+    players = []
+
+    for line in infile:
+        idapi, name, country, age, premier, bundes, seriea, spain = line.replace('\n', '').split(',')
+        players.append(FifaPlayer(idapi=idapi, name=name, country=country, age=age, premier=premier, bundes=bundes,
+                                  seriea=seriea, spain=spain))
+
+    return players
+
 def writeFifaPlayersInLeagues():
     """
     lee los id de los jugadores de los partidos de las ligas y escribe en un archivo los distintos IDs
@@ -372,4 +378,7 @@ def checkWeirdLetters(path, sep=';'):
     infile.close()
 
 if __name__ == '__main__':
-    run()
+    assignCountry()
+
+    readFullPlayers()
+    matchCountryCoords(players)

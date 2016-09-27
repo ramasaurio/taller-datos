@@ -1,11 +1,11 @@
 id,name,country,age,premier,bundes,seriea,spain
 30572,aaron galindo,Mexico,34,0,1,0,0
-23780,aaron hughes,United Kingdom,36,1,0,0,0
+23780,aaron hughes,United_Kingdom,36,1,0,0,0
 27316,aaron hunt,Germany,30,0,1,0,0
-30895,aaron lennon,United Kingdom,29,1,0,0,0
-23889,aaron mokoena,South Africa,35,1,0,0,0
-75489,aaron ramsey,United Kingdom,25,1,0,0,0
-23499,aaron wilbraham,United Kingdom,36,1,0,0,0
+30895,aaron lennon,United_Kingdom,29,1,0,0,0
+23889,aaron mokoena,South_Africa,35,1,0,0,0
+75489,aaron ramsey,United_Kingdom,25,1,0,0,0
+23499,aaron wilbraham,United_Kingdom,36,1,0,0,0
 167027,abdelaziz barrada,France,27,0,0,0,1
 128456,abdelhamid el kaoutari,France,26,0,0,1,0
 42664,abdelkader ghezzal,France,31,0,0,1,1
@@ -24,27 +24,27 @@ id,name,country,age,premier,bundes,seriea,spain
 213695,abraham minero,Spain,30,0,0,0,1
 33715,abraham paz cruz,Spain,37,0,0,0,1
 41489,achille coser,Italy,34,0,0,1,0
-25571,achille emana,Centre Region (Cameroon),34,0,0,0,1
+25571,achille emana,Centre_Region_(Cameroon),34,0,0,0,1
 293235,achraf lazaar,Morocco,24,0,0,1,0
 41749,adailton,Brazil,39,0,0,1,0
-519835,adam armstrong,United Kingdom,19,1,0,0,0
+519835,adam armstrong,United_Kingdom,19,1,0,0,0
 27534,adam bodzek,Poland,31,0,1,0,0
 157303,adam bogdan,Hungary,29,1,0,0,0
-23133,adam drury,United Kingdom,38,1,0,0,0
+23133,adam drury,United_Kingdom,38,1,0,0,0
 38617,adam federici,Australia,31,1,0,0,0
-281079,adam henley,United States,22,1,0,0,0
-89240,adam hlousek,Czech Republic,27,0,1,0,0
-24159,adam johnson,United Kingdom,29,1,0,0,0
+281079,adam henley,United_States,22,1,0,0,0
+89240,adam hlousek,Czech_Republic,27,0,1,0,0
+24159,adam johnson,United_Kingdom,29,1,0,0,0
 37234,adam lallana,Hertfordshire,28,1,0,0,0
-24952,adam le fondre,United Kingdom,29,1,0,0,0
+24952,adam le fondre,United_Kingdom,29,1,0,0,0
 500502,adam masina,Morocco,22,0,0,1,0
 12245,adam nemec,Slovakia,31,0,1,0,0
 73078,adam pinter,Hungary,28,0,0,0,1
-160447,adam smith,United Kingdom,25,1,0,0,0
+160447,adam smith,United_Kingdom,25,1,0,0,0
 36774,adam szalai,Hungary,28,0,1,0,0
 71359,adam vass,Hungary,28,0,0,1,0
 47394,adel taarabt,Morocco,27,1,0,1,0
-155738,adem ljajic,Socialist Federal Republic of Yugoslavia,24,0,0,1,0
+155738,adem ljajic,Socialist_Federal_Republic_of_Yugoslavia,24,0,0,1,0
 37249,adil chihi,Germany,28,0,1,0,0
 77741,adil rami,France,30,0,0,1,1
 131409,adlene guedioura,France,30,1,0,0,0
@@ -58,13 +58,13 @@ id,name,country,age,premier,bundes,seriea,spain
 45744,adrian lopez,Spain,28,0,0,0,1
 571685,adrian marin,Spain,19,0,0,0,1
 39311,adrian mutu,Romania,37,0,0,1,0
-112976,adrian nikci,Bosnia and Herzegovina,26,0,1,0,0
+112976,adrian nikci,Bosnia_and_Herzegovina,26,0,1,0,0
 50345,adrian ramos,Colombia,30,0,1,0,0
 323385,adrian ricardo centurion,Argentina,23,0,0,1,0
 42431,adrian ricchiuti,Argentina,38,0,0,1,0
 183482,adrian sardinero corpa,Spain,25,0,0,0,1
 168047,adrian stoian,Romania,25,0,0,1,0
-169756,adrian,United Kingdom,29,1,0,0,1
+169756,adrian,United_Kingdom,29,1,0,0,1
 39190,adriano ferreira pinto,Brazil,36,0,0,1,0
 38122,adriano russo,Italy,29,0,0,1,0
 121923,adriano,Brazil,34,0,0,0,1
@@ -77,16 +77,16 @@ id,name,country,age,premier,bundes,seriea,spain
 119305,agon mehmeti,Kosovo,26,0,0,1,0
 41399,ahmed apimah barusso,Ghana,31,0,0,1,0
 297556,ahmed hegazy,Egypt,25,0,0,1,0
-32448,aiden mcgeady,United Kingdom,30,1,0,0,0
+32448,aiden mcgeady,United_Kingdom,30,1,0,0,0
 34319,aimo stefano diana,Italy,38,0,0,1,0
 33993,aitor ocio,Spain,39,0,0,0,1
 24160,aiyegbeni yakubu,Nigeria,33,1,0,0,0
 243127,akaki gogia,Georgia,24,0,1,0,0
 23163,akos buzsaky,Hungary,34,1,0,0,0
 34268,alain nef,Switzerland,34,0,0,0,1
-32870,alan hutton,United Kingdom,31,1,0,0,1
-30248,alan smith,United Kingdom,35,1,0,0,0
-23881,alan tate,United Kingdom,34,1,0,0,0
+32870,alan hutton,United_Kingdom,31,1,0,0,1
+30248,alan smith,United_Kingdom,35,1,0,0,0
+23881,alan tate,United_Kingdom,34,1,0,0,0
 289250,alassane tambe,France,24,0,0,1,0
 94883,alban meha,Kosovo,30,0,1,0,0
 37503,albano benjamin bizzarri,Argentina,38,0,0,1,0
@@ -127,12 +127,12 @@ id,name,country,age,premier,bundes,seriea,spain
 282470,alejandro pozuelo,Spain,25,1,0,0,1
 167094,aleksandar ignjovski,Serbia,25,0,1,0,0
 16351,aleksandar kolarov,Serbia,30,1,0,1,0
-37515,aleksandar lukovic,Socialist Federal Republic of Yugoslavia,33,0,0,1,0
+37515,aleksandar lukovic,Socialist_Federal_Republic_of_Yugoslavia,33,0,0,1,0
 351860,aleksandar mitrovic,Serbia,22,1,0,0,0
 280638,aleksandar pantic,Serbia,24,0,0,0,1
 278866,aleksandar stevanovic,Germany,24,0,1,0,0
 156534,aleksandar tonev,Bulgaria,26,1,0,1,0
-208852,aleksandar trajkovski,Republic of Macedonia,24,0,0,1,0
+208852,aleksandar trajkovski,Republic_of_Macedonia,24,0,0,1,0
 27476,aleksandar vasoski,Macedonia,36,0,1,0,0
 395154,alen halilovic,Croatia,20,0,0,0,1
 191081,alen stevanovic,Switzerland,25,0,0,1,0
@@ -162,16 +162,16 @@ id,name,country,age,premier,bundes,seriea,spain
 39197,alessio manzoni,Italy,29,0,0,1,0
 362195,alessio romagnoli,Italy,21,0,0,1,0
 41762,alessio scarpi,Italy,43,0,0,1,0
-24469,alex baptiste,United Kingdom,30,1,0,0,0
+24469,alex baptiste,United_Kingdom,30,1,0,0,0
 39204,alex calderoni,Italy,40,0,0,1,0
 213500,alex fernandez,Uruguay,23,0,0,0,1
 447488,alex ferrari,Italy,22,0,0,1,0
 282274,alex kacaniklic,Sweden,25,1,0,0,0
 39566,alex manninger,Austria,39,0,1,1,0
 264293,alex martinez,Venezuela,26,0,0,0,1
-119079,alex mccarthy,United Kingdom,26,1,0,0,0
-196386,alex oxlade-chamberlain,United Kingdom,23,1,0,0,0
-49709,alex pearce,United Kingdom,27,1,0,0,0
+119079,alex mccarthy,United_Kingdom,26,1,0,0,0
+196386,alex oxlade-chamberlain,United_Kingdom,23,1,0,0,0
+49709,alex pearce,United_Kingdom,27,1,0,0,0
 41136,alex pinardi,Italy,36,0,0,1,0
 157865,alex sandro,Brazil,25,0,0,1,0
 34650,alex silva,Brazil,31,0,1,0,0
@@ -207,7 +207,7 @@ id,name,country,age,premier,bundes,seriea,spain
 476771,ali adnan,Iraq,22,0,0,1,0
 25156,ali al-habsi,Oman,34,1,0,0,0
 169752,aljaz struna,Slovenia,26,0,0,1,0
-32496,allan mcgregor,United Kingdom,34,1,0,0,0
+32496,allan mcgregor,United_Kingdom,34,1,0,0,0
 213809,allan nyom,France,28,1,0,0,1
 188652,allan,Australia,25,0,0,1,0
 25816,almen abdi,Kosovo,29,1,0,1,0
@@ -262,7 +262,7 @@ id,name,country,age,premier,bundes,seriea,spain
 251244,andre ramalho silva,Brazil,24,0,1,0,0
 164238,andre santos,Brazil,27,0,0,0,1
 78541,andre santos,Brazil,33,1,0,0,0
-265918,andre wisdom,United Kingdom,23,1,0,0,0
+265918,andre wisdom,United_Kingdom,23,1,0,0,0
 39744,andrea ardito,Italy,39,0,0,1,0
 30902,andrea barzagli,Italy,35,0,1,1,0
 309726,andrea belotti,Italy,22,0,0,1,0
@@ -315,20 +315,20 @@ id,name,country,age,premier,bundes,seriea,spain
 33986,andres palop,Spain,42,0,0,0,1
 172948,andreu fontas,Spain,26,0,0,0,1
 74744,andreu mayoral,Spain,33,0,0,0,1
-23528,andrew crofts,United Kingdom,32,1,0,0,0
-23022,andrew dawson,United Kingdom,37,1,0,0,0
-31907,andrew johnson,United Kingdom,35,1,0,0,0
-23866,andrew keogh,Republic of Ireland,30,1,0,0,0
-17866,andrew reid,Republic of Ireland,34,1,0,0,0
-357880,andrew robertson,United Kingdom,22,1,0,0,0
+23528,andrew crofts,United_Kingdom,32,1,0,0,0
+23022,andrew dawson,United_Kingdom,37,1,0,0,0
+31907,andrew johnson,United_Kingdom,35,1,0,0,0
+23866,andrew keogh,Republic_of_Ireland,30,1,0,0,0
+17866,andrew reid,Republic_of_Ireland,34,1,0,0,0
+357880,andrew robertson,United_Kingdom,22,1,0,0,0
 37369,andrew sinkala,Zambia,37,0,1,0,0
-23629,andrew surman,South Africa,30,1,0,0,0
-24161,andrew taylor,United Kingdom,30,1,0,0,0
+23629,andrew surman,South_Africa,30,1,0,0,0
+24161,andrew taylor,United_Kingdom,30,1,0,0,0
 308236,andrew wooten,Germany,26,0,1,0,0
 3520,andrey arshavin,Russia,35,1,0,0,0
 38367,andrija delibasic,Montenegro,35,0,0,0,1
-31996,andriy shevchenko,Soviet Union,39,0,0,1,0
-166422,andros townsend,United Kingdom,25,1,0,0,0
+31996,andriy shevchenko,Soviet_Union,39,0,0,1,0
+166422,andros townsend,United_Kingdom,25,1,0,0,0
 432950,angel correa,Argentina,21,0,0,0,1
 46509,angel di maria,Argentina,28,1,0,0,1
 33762,angel javier arizmendi,Spain,32,0,0,0,1
@@ -345,24 +345,24 @@ id,name,country,age,premier,bundes,seriea,spain
 17836,angelo,Brazil,35,0,0,1,0
 33850,angelos basinas,Greece,40,1,0,0,0
 38810,angelos charisteas,Greece,36,0,1,0,0
-27155,anis ben-hatira,West Germany,28,0,1,0,0
+27155,anis ben-hatira,West_Germany,28,0,1,0,0
 202343,anselmo,Brazil,27,0,0,1,0
 265725,ante rebic,Croatia,23,0,0,1,0
 170660,ante vukusic,Croatia,25,0,0,1,0
 71619,anthony annan,Ghana,30,0,1,0,1
-24509,anthony gardner,United Kingdom,36,1,0,0,0
+24509,anthony gardner,United_Kingdom,36,1,0,0,0
 202562,anthony knockaert,France,24,1,0,0,0
 413557,anthony martial,France,20,1,0,0,0
-24162,anthony mcmahon,United Kingdom,30,1,0,0,0
+24162,anthony mcmahon,United_Kingdom,30,1,0,0,0
 71605,anthony modeste,France,28,1,1,0,0
-47194,anthony pilkington,United Kingdom,28,1,0,0,0
+47194,anthony pilkington,United_Kingdom,28,1,0,0,0
 32579,anthony reveillere,France,36,1,0,1,0
-38368,anthony vanden borre,Democratic Republic of the Congo,28,1,0,1,0
+38368,anthony vanden borre,Democratic_Republic_of_the_Congo,28,1,0,1,0
 42582,antimo iunco,Italy,32,0,0,1,0
 184138,antoine griezmann,France,25,0,0,0,1
 11736,antolin alcaraz,Paraguay,34,1,0,0,1
-24740,anton ferdinand,United Kingdom,31,1,0,0,0
-16678,anton putsila,Orsha Raion,29,0,1,0,0
+24740,anton ferdinand,United_Kingdom,31,1,0,0,0
+16678,anton putsila,Orsha_Raion,29,0,1,0,0
 40648,antonio adan,Spain,29,0,0,1,1
 150731,antonio amaya,Spain,33,0,0,0,1
 41769,antonio balzano,Italy,30,0,0,1,0
@@ -403,43 +403,43 @@ id,name,country,age,premier,bundes,seriea,spain
 112656,ariel borysiuk,Poland,25,0,1,0,0
 38362,ariel ibagaza,Argentina,39,0,0,0,1
 149584,ariel nahuelpan,Argentina,28,0,0,0,1
-38263,aristide bance,Ivory Coast,32,0,1,0,0
+38263,aristide bance,Ivory_Coast,32,0,1,0,0
 33028,aritz aduriz,Spain,35,0,0,0,1
 607148,aritz elustondo,Spain,22,0,0,0,1
 75331,aritz lopez garai,Spain,35,0,0,0,1
-37496,ariza makukula,The Democratic Republic Of Congo,35,1,0,0,0
+37496,ariza makukula,The_Democratic_Republic_Of_Congo,35,1,0,0,0
 30834,arjen robben,Netherlands,32,0,1,0,1
 277460,arkadiusz milik,Poland,22,0,1,0,0
 63520,armand traore,France,26,1,0,1,0
 301023,armando izzo,Italy,24,0,0,1,0
-107502,armin bacinovic,Socialist Federal Republic of Yugoslavia,26,0,0,1,0
+107502,armin bacinovic,Socialist_Federal_Republic_of_Yugoslavia,26,0,0,1,0
 30819,arne friedrich,Germany,37,0,1,0,0
 34400,arnold bruggink,Netherlands,39,0,1,0,0
 26324,arnold mvuemba,France,31,1,0,0,0
-172388,aron johannsson,United States,25,0,1,0,0
-30922,arouna kone,Ivory Coast,32,1,1,0,1
-38842,arthur boka,Ivory Coast,33,0,1,0,1
+172388,aron johannsson,United_States,25,0,1,0,0
+30922,arouna kone,Ivory_Coast,32,1,1,0,1
+38842,arthur boka,Ivory_Coast,33,0,1,0,1
 79982,artjoms rudnevs,Latvia,28,0,1,0,0
 30974,artur boruc,Poland,36,1,0,1,0
 69008,artur sobiech,Poland,26,0,1,0,0
 30266,artur wichniarek,Poland,39,0,1,0,0
 19344,artur,Brazil,35,0,0,1,0
 49939,arturo vidal,Chile,29,0,1,1,0
-30901,aruna dindane,Ivory Coast,35,1,0,0,0
+30901,aruna dindane,Ivory_Coast,35,1,0,0,0
 41980,asamoah gyan,Ghana,30,1,0,0,0
 27339,ashkan dejagah,Iran,30,1,1,0,0
-107280,ashley barnes,United Kingdom,26,1,0,0,0
-38834,ashley cole,United Kingdom,35,1,0,1,0
-24948,ashley williams,United Kingdom,32,1,0,0,0
-23354,ashley young,United Kingdom,31,1,0,0,0
+107280,ashley barnes,United_Kingdom,26,1,0,0,0
+38834,ashley cole,United_Kingdom,35,1,0,1,0
+24948,ashley williams,United_Kingdom,32,1,0,0,0
+23354,ashley young,United_Kingdom,31,1,0,0,0
 34575,asier del horno,Spain,35,0,0,0,1
 102002,asier goiria,Spain,36,0,0,0,1
 205278,asier illarramendi,Spain,26,0,0,0,1
 33958,asier riesgo,Spain,32,0,0,0,1
-46518,asmir begovic,Bosnia and Herzegovina,29,1,0,0,0
-595586,assane demoya gnoukouri,Ivory Coast,20,0,0,1,0
+46518,asmir begovic,Bosnia_and_Herzegovina,29,1,0,0,0
+595586,assane demoya gnoukouri,Ivory_Coast,20,0,0,1,0
 612212,assane diousse,Senegal,19,0,0,1,0
-36180,assani lukimya-mulongoti,Democratic Republic of the Congo,30,0,1,0,0
+36180,assani lukimya-mulongoti,Democratic_Republic_of_the_Congo,30,0,1,0,0
 200964,athanasios petsos,Germany,25,0,1,0,0
 72813,atsuto uchida,Japan,28,0,1,0,0
 72623,augusto fernandez,Argentina,30,0,0,0,1
@@ -458,8 +458,8 @@ id,name,country,age,premier,bundes,seriea,spain
 488958,balde diao keita,Spain,21,0,0,1,0
 150641,baltasar rigo,Spain,31,0,0,0,1
 27733,barreto,Brazil,31,0,0,1,0
-161415,barry bannan,United Kingdom,26,1,0,0,0
-24978,barry ferguson,United Kingdom,38,1,0,0,0
+161415,barry bannan,United_Kingdom,26,1,0,0,0
+24978,barry ferguson,United_Kingdom,38,1,0,0,0
 25551,bartholomew ogbeche,Nigeria,31,0,0,0,1
 155256,bartosz salamon,Poland,25,0,0,1,0
 104045,bas dost,Netherlands,27,0,1,0,0
@@ -469,18 +469,18 @@ id,name,country,age,premier,bundes,seriea,spain
 30872,bastian schweinsteiger,Germany,32,1,1,0,0
 66929,beg ferati,Kosovo,29,0,1,0,0
 24399,ben alnwick,England,29,1,0,0,0
-155936,ben amos,United Kingdom,26,1,0,0,0
-276121,ben davies,United Kingdom,23,1,0,0,0
+155936,ben amos,United_Kingdom,26,1,0,0,0
+276121,ben davies,United_Kingdom,23,1,0,0,0
 24147,ben foster,Warwickshire,33,1,0,0,0
-45571,ben hamer,United Kingdom,28,1,0,0,0
-240538,ben mee,United Kingdom,27,1,0,0,0
+45571,ben hamer,United_Kingdom,28,1,0,0,0
+240538,ben mee,United_Kingdom,27,1,0,0,0
 47552,ben sahar,Israel,27,0,0,0,1
-40651,ben turner,United Kingdom,28,1,0,0,0
-22991,ben watson,United Kingdom,31,1,0,0,0
+40651,ben turner,United_Kingdom,28,1,0,0,0
+22991,ben watson,United_Kingdom,31,1,0,0,0
 36147,benedikt fernandez,Germany,31,0,1,0,0
 35875,benedikt pliquett,Germany,31,0,1,0,0
 435683,benedikt saller,Germany,24,0,1,0,0
-232253,benik afobe,United Kingdom,23,1,0,0,0
+232253,benik afobe,United_Kingdom,23,1,0,0,0
 681383,benjamin henrichs,Germany,19,0,1,0,0
 36518,benjamin kessel,Germany,28,0,1,0,0
 192920,benjamin stambouli,France,26,1,0,0,0
@@ -491,11 +491,11 @@ id,name,country,age,premier,bundes,seriea,spain
 150764,bernardo,Colombia,27,0,0,0,1
 215168,bernd leno,Germany,24,0,1,0,0
 39842,bernd nehrig,Germany,30,0,1,0,0
-303059,bertrand traore,Burkina Faso,21,1,0,0,0
+303059,bertrand traore,Burkina_Faso,21,1,0,0,0
 40274,birkir bjarnason,Iceland,28,0,0,1,0
 291620,bjarne thoelke,Germany,24,0,1,0,0
-30940,blerim dzemaili,Socialist Federal Republic of Yugoslavia,30,0,0,1,0
-197910,bo-kyung kim,South Korea,26,1,0,0,0
+30940,blerim dzemaili,Socialist_Federal_Republic_of_Yugoslavia,30,0,0,1,0
+197910,bo-kyung kim,South_Korea,26,1,0,0,0
 58499,bojan jokic,Slovenia,30,0,0,1,1
 96643,bojan krkic,Spain,26,1,0,1,1
 46030,bolatti,Argentina,31,0,0,1,0
@@ -508,27 +508,27 @@ id,name,country,age,premier,bundes,seriea,spain
 410424,borja lopez,Spain,22,0,0,0,1
 38433,borja valero,Spain,31,1,0,1,1
 102623,borja viguera,Spain,29,0,0,0,1
-40601,bosko jankovic,Socialist Federal Republic of Yugoslavia,32,0,0,1,0
-26223,bostjan cesar,Socialist Federal Republic of Yugoslavia,34,0,0,1,0
-35996,boubacar sanogo,Ivory Coast,33,0,1,0,0
+40601,bosko jankovic,Socialist_Federal_Republic_of_Yugoslavia,32,0,0,1,0
+26223,bostjan cesar,Socialist_Federal_Republic_of_Yugoslavia,34,0,0,1,0
+35996,boubacar sanogo,Ivory_Coast,33,0,1,0,0
 24116,boudewijn zenden,Netherlands,40,1,0,0,0
-30380,brad friedel,United States,45,1,0,0,0
-69650,brad guzan,United States,32,1,0,0,0
+30380,brad friedel,United_States,45,1,0,0,0
+69650,brad guzan,United_States,32,1,0,0,0
 515338,brad smith,Australia,22,1,0,0,0
-24583,bradley johnson,United Kingdom,29,1,0,0,0
+24583,bradley johnson,United_Kingdom,29,1,0,0,0
 35442,bradley jones,Australia,34,1,0,0,0
-258245,branimir hrgota,Bosnia and Herzegovina,23,0,1,0,0
+258245,branimir hrgota,Bosnia_and_Herzegovina,23,0,1,0,0
 31306,branislav ivanovic,Serbia,32,1,0,0,0
 12454,branko ilic,Slovenia,33,0,0,0,1
-19674,branko jelic,Bosnia and Herzegovina,39,0,1,0,0
+19674,branko jelic,Bosnia_and_Herzegovina,39,0,1,0,0
 38379,braulio,Spain,31,0,0,0,1
 110331,brayan angulo,Colombia,26,0,0,0,1
 281999,brayan perea,Colombia,23,0,0,1,0
-26777,brede hangeland,United States,35,1,0,0,0
+26777,brede hangeland,United_States,35,1,0,0,0
 93041,breno,Brazil,26,0,1,0,0
 30842,brett emerton,Australia,37,1,0,0,0
 30503,brett holman,Australia,32,1,0,0,0
-23299,brett ormerod,United Kingdom,39,1,0,0,0
+23299,brett ormerod,United_Kingdom,39,1,0,0,0
 24788,brian jensen,Denmark,41,1,0,0,0
 115160,brown ideye,Nigeria,27,1,0,0,0
 361322,bruma,Netherlands,21,0,0,0,1
@@ -543,25 +543,25 @@ id,name,country,age,premier,bundes,seriea,spain
 42479,bruno soriano,Spain,32,0,0,0,1
 193937,bruno zuculini,Argentina,23,0,0,0,1
 299799,bryan cristante,Italy,21,0,0,1,0
-193859,bryan oviedo,Costa Rica,26,1,0,0,0
-38229,bryan ruiz,Costa Rica,31,1,0,0,0
+193859,bryan oviedo,Costa_Rica,26,1,0,0,0
+38229,bryan ruiz,Costa_Rica,31,1,0,0,0
 177083,burak kaplan,Germany,26,0,1,0,0
 67008,cabral,Uruguay,27,1,0,1,0
 42221,cagdas atan,Turkey,36,0,1,0,0
 80564,caio,Brazil,30,0,1,0,0
 150922,caiuby,Brazil,28,0,1,0,0
 112205,cala,Spain,26,1,0,0,1
-23563,caleb folan,United Kingdom,33,1,0,0,0
+23563,caleb folan,United_Kingdom,33,1,0,0,0
 172841,callum mcmanaman,England,25,1,0,0,0
-184321,callum wilson,United Kingdom,24,1,0,0,0
-425255,calum chambers,United Kingdom,21,1,0,0,0
-37277,calum davenport,United Kingdom,33,1,0,0,0
-562593,cameron brannagan,United Kingdom,20,1,0,0,0
-31953,cameron jerome,United Kingdom,29,1,0,0,0
+184321,callum wilson,United_Kingdom,24,1,0,0,0
+425255,calum chambers,United_Kingdom,21,1,0,0,0
+37277,calum davenport,United_Kingdom,33,1,0,0,0
+562593,cameron brannagan,United_Kingdom,20,1,0,0,0
+31953,cameron jerome,United_Kingdom,29,1,0,0,0
 37480,cani,Italy,35,0,0,0,1
-23371,carl dickinson,United Kingdom,29,1,0,0,0
+23371,carl dickinson,United_Kingdom,29,1,0,0,0
 36832,carl hoefkens,Belgium,37,1,0,0,0
-214685,carl jenkinson,United Kingdom,24,1,0,0,0
+214685,carl jenkinson,United_Kingdom,24,1,0,0,0
 40721,carl medjani,France,31,0,0,0,1
 358289,carles gil,Spain,23,1,0,0,1
 213694,carles planas,Spain,25,0,0,0,1
@@ -577,7 +577,7 @@ id,name,country,age,premier,bundes,seriea,spain
 33863,carlos cuellar,Spain,35,1,0,0,0
 37754,carlos diogo,Uruguay,33,0,0,0,1
 78990,carlos eduardo,Brazil,29,0,1,0,0
-30954,carlos edwards,Trinidad and Tobago,37,1,0,0,0
+30954,carlos edwards,Trinidad_and_Tobago,37,1,0,0,0
 516854,carlos fernandez,Spain,20,0,0,0,1
 74404,carlos garcia,Spain,32,0,0,0,1
 317822,carlos gruezo,Ecuador,21,0,1,0,0
@@ -598,16 +598,16 @@ id,name,country,age,premier,bundes,seriea,spain
 75342,carlos vela,Mexico,27,1,0,0,1
 518240,carlos vigaray,Spain,22,0,0,0,1
 106309,carlos zambrano,Peru,27,0,1,0,0
-34543,carlton cole,United Kingdom,32,1,0,0,0
+34543,carlton cole,United_Kingdom,32,1,0,0,0
 38004,carmelo gonzalez,Spain,33,0,0,0,1
 27548,carsten cullmann,Germany,40,0,1,0,0
 35881,carsten rothenbach,Germany,36,0,1,0,0
 282276,cauley woodrow,Hertfordshire,21,1,0,0,0
 201939,cedric bakambu,France,25,0,0,0,1
-27512,cedric makiadi,The Democratic Republic Of Congo,32,0,1,0,0
+27512,cedric makiadi,The_Democratic_Republic_Of_Congo,32,0,1,0,0
 160627,cedric soares,Germany,25,1,0,0,0
-187279,cedric,The Democratic Republic Of Congo,24,0,0,0,1
-51953,celso borges,Costa Rica,28,0,0,0,1
+187279,cedric,The_Democratic_Republic_Of_Congo,24,0,0,0,1
+51953,celso borges,Costa_Rica,28,0,0,0,1
 37440,cesar arzo,Spain,30,0,0,0,1
 72541,cesar azpilicueta,Spain,27,1,0,0,1
 33828,cesar navas,Spain,36,0,0,0,1
@@ -619,38 +619,38 @@ id,name,country,age,premier,bundes,seriea,spain
 78314,ceyhun gulselam,Germany,28,0,1,0,0
 92375,cezary wilk,Poland,30,0,0,0,1
 36040,chadli amri,France,31,0,1,0,0
-277761,chancel mbemba,The Democratic Republic Of Congo,22,1,0,0,0
+277761,chancel mbemba,The_Democratic_Republic_Of_Congo,22,1,0,0,0
 209439,charalampos mavrias,Greece,22,1,0,0,0
 50638,charles aranguiz,Chile,27,0,1,0,0
 35882,charles takyi,Ghana,31,0,1,0,0
 213653,charles,Brazil,32,0,0,0,1
-68237,charlie daniels,United Kingdom,30,1,0,0,0
-112119,charlison benschop,Kingdom of the Netherlands,27,0,1,0,0
+68237,charlie daniels,United_Kingdom,30,1,0,0,0
+112119,charlison benschop,Kingdom_of_the_Netherlands,27,0,1,0,0
 27654,chavdar yankov,Bulgaria,32,0,1,0,0
-107216,ched evans,United Kingdom,27,1,0,0,0
+107216,ched evans,United_Kingdom,27,1,0,0,0
 148302,cheikhou kouyate,Senegal,26,1,0,0,0
 74663,chico,Guinea,29,1,0,1,1
 36133,chinedu ede,Germany,29,0,1,0,0
 40176,chinedu obasi,Nigeria,30,0,1,0,0
-43247,chris baird,Northern Ireland,34,1,0,0,0
-113772,chris basham,United Kingdom,28,1,0,0,0
-23257,chris brunt,United Kingdom,31,1,0,0,0
+43247,chris baird,Northern_Ireland,34,1,0,0,0
+113772,chris basham,United_Kingdom,28,1,0,0,0
+23257,chris brunt,United_Kingdom,31,1,0,0,0
 38856,chris eagles,Hertfordshire,30,1,0,0,0
-38067,chris gunter,United Kingdom,27,1,0,0,0
+38067,chris gunter,United_Kingdom,27,1,0,0,0
 110947,chris herd,Australia,27,1,0,0,0
-23431,chris iwelumo,United Kingdom,38,1,0,0,0
+23431,chris iwelumo,United_Kingdom,38,1,0,0,0
 47551,chris katongo,Zambia,34,0,1,0,0
-34421,chris kirkland,United Kingdom,35,1,0,0,0
+34421,chris kirkland,United_Kingdom,35,1,0,0,0
 47555,chris martin,Suffolk,27,1,0,0,0
-21849,chris mccann,Republic of Ireland,29,1,0,0,0
-24163,chris riggott,United Kingdom,36,1,0,0,0
-165823,chris smalling,United Kingdom,26,1,0,0,0
+21849,chris mccann,Republic_of_Ireland,29,1,0,0,0
+24163,chris riggott,United_Kingdom,36,1,0,0,0
+165823,chris smalling,United_Kingdom,26,1,0,0,0
 27471,chris,Brazil,38,0,1,0,0
 34530,christian abbiati,Italy,39,0,0,1,0
 282474,christian alfonso,Spain,27,0,0,0,1
 41861,christian amoroso,Italy,40,0,0,1,0
 242887,christian atsu,Ghana,24,1,0,0,1
-148315,christian benteke,The Democratic Republic Of Congo,25,1,0,0,0
+148315,christian benteke,The_Democratic_Republic_Of_Congo,25,1,0,0,0
 178804,christian clemens,Germany,25,0,1,0,0
 58358,christian dorda,Germany,27,0,1,0,0
 37381,christian eichner,Germany,33,0,1,0,0
@@ -681,13 +681,13 @@ id,name,country,age,premier,bundes,seriea,spain
 30649,christoph metzelder,Germany,35,0,1,0,1
 180126,christoph moritz,Germany,26,0,1,0,0
 30912,christoph spycher,Switzerland,38,0,1,0,0
-32581,christophe berra,United Kingdom,31,1,0,0,0
+32581,christophe berra,United_Kingdom,31,1,0,0,0
 200965,christopher avevor,Germany,24,0,1,0,0
 19020,christopher samba,France,32,1,0,0,0
 50395,christopher schorch,Germany,27,0,1,0,0
-31092,chu-young park,South Korea,31,0,0,0,1
-130670,chung-yong lee,South Korea,28,1,0,0,0
-161414,ciaran clark,United Kingdom,27,1,0,0,0
+31092,chu-young park,South_Korea,31,0,0,0,1
+130670,chung-yong lee,South_Korea,28,1,0,0,0
+161414,ciaran clark,United_Kingdom,27,1,0,0,0
 31244,cicero,Brazil,32,0,1,0,0
 40203,ciprian marica,Romania,30,0,1,0,1
 103218,ciprian tatarusanu,Romania,30,0,0,1,0
@@ -696,7 +696,7 @@ id,name,country,age,premier,bundes,seriea,spain
 39713,ciro polito,Italy,37,0,0,1,0
 41852,claiton dos santos,Brazil,32,0,0,1,0
 26096,clarence seedorf,Suriname,40,0,0,1,0
-23349,clarke carlisle,United Kingdom,36,1,0,0,0
+23349,clarke carlisle,United_Kingdom,36,1,0,0,0
 41862,claudio bellucci,Italy,41,0,0,1,0
 37421,claudio bravo,Chile,33,0,0,0,1
 41890,claudio marchisio,Italy,30,0,0,1,0
@@ -710,31 +710,31 @@ id,name,country,age,premier,bundes,seriea,spain
 307069,cleber,Brazil,25,0,1,0,0
 35989,clemens fritz,Germany,35,0,1,0,0
 118298,clemens walch,Austria,29,0,1,0,0
-23311,clint hill,United Kingdom,37,1,0,0,0
-151063,coke,United Kingdom,29,0,0,0,1
+23311,clint hill,United_Kingdom,37,1,0,0,0
+151063,coke,United_Kingdom,29,0,0,0,1
 37156,collin benjamin,Namibia,38,0,1,0,0
-169721,connor wickham,United Kingdom,23,1,0,0,0
-77727,conor sammon,Republic of Ireland,29,1,0,0,0
-28081,constant djakpa,Ivory Coast,29,0,1,0,0
+169721,connor wickham,United_Kingdom,23,1,0,0,0
+77727,conor sammon,Republic_of_Ireland,29,1,0,0,0
+28081,constant djakpa,Ivory_Coast,29,0,1,0,0
 318535,constantin nica,Romania,23,0,0,1,0
 38581,corona,Spain,35,0,0,0,1
 37473,cosmin contra,Romania,40,0,0,0,1
 103428,costel pantilimon,Romania,29,1,0,0,0
-41073,craig beattie,United Kingdom,32,1,0,0,0
-33781,craig bellamy,United Kingdom,37,1,0,0,0
-40548,craig cathcart,United Kingdom,27,1,0,0,0
-169162,craig dawson,United Kingdom,26,1,0,0,0
-187668,craig eastmond,United Kingdom,25,1,0,0,0
-23034,craig fagan,United Kingdom,33,1,0,0,0
-25075,craig gardner,United Kingdom,29,1,0,0,0
-32562,craig gordon,United Kingdom,33,1,0,0,0
-150596,craig noone,United Kingdom,28,1,0,0,0
+41073,craig beattie,United_Kingdom,32,1,0,0,0
+33781,craig bellamy,United_Kingdom,37,1,0,0,0
+40548,craig cathcart,United_Kingdom,27,1,0,0,0
+169162,craig dawson,United_Kingdom,26,1,0,0,0
+187668,craig eastmond,United_Kingdom,25,1,0,0,0
+23034,craig fagan,United_Kingdom,33,1,0,0,0
+25075,craig gardner,United_Kingdom,29,1,0,0,0
+32562,craig gordon,United_Kingdom,33,1,0,0,0
+150596,craig noone,United_Kingdom,28,1,0,0,0
 25584,cribari,Brazil,36,0,0,1,0
 113695,cristian alvarez,Argentina,30,0,0,0,1
 243608,cristian battocchio,Argentina,24,0,0,1,0
 102628,cristian bustos,Spain,33,0,0,0,1
 27692,cristian chivu,Romania,35,0,0,1,0
-114076,cristian gamboa,Costa Rica,26,1,0,0,0
+114076,cristian gamboa,Costa_Rica,26,1,0,0,0
 500791,cristian herrera,Spain,25,0,0,0,1
 37445,cristian hidalgo,Spain,33,0,0,0,1
 18590,cristian llama,Argentina,30,0,0,1,0
@@ -762,7 +762,7 @@ id,name,country,age,premier,bundes,seriea,spain
 31739,cristiano zanetti,Italy,39,0,0,1,0
 50449,cristobal jorquera,Chile,28,0,0,1,0
 169753,cristobal,Spain,32,0,0,0,1
-24658,curtis davies,United Kingdom,31,1,0,0,0
+24658,curtis davies,United_Kingdom,31,1,0,0,0
 38920,cyril thereau,France,33,0,0,1,0
 161012,daley blind,Netherlands,26,1,0,0,0
 56867,damian escudero,Argentina,29,0,0,0,1
@@ -770,13 +770,13 @@ id,name,country,age,premier,bundes,seriea,spain
 27669,damiano ferronetti,Italy,31,0,0,1,0
 190971,damiano zanon,Italy,33,0,0,1,0
 27732,damiano zenoni,Italy,39,0,0,1,0
-23030,damien delaney,Ireland cricket team,35,1,0,0,0
-34574,damien duff,United Kingdom,37,1,0,0,0
+23030,damien delaney,Ireland_cricket_team,35,1,0,0,0
+34574,damien duff,United_Kingdom,37,1,0,0,0
 172610,damien le tallec,France,26,0,1,0,0
 26345,damien perquis,France,32,0,0,0,1
 40701,damien plessis,France,28,1,0,0,0
 27502,damir vrancic,Croatia,30,0,1,0,0
-46810,dan gosling,United Kingdom,26,1,0,0,0
+46810,dan gosling,United_Kingdom,26,1,0,0,0
 151058,dani benitez,Spain,29,0,0,0,1
 183497,dani castellano,Spain,28,0,0,0,1
 56846,dani estrada,Spain,29,0,0,0,1
@@ -792,7 +792,7 @@ id,name,country,age,premier,bundes,seriea,spain
 212873,daniel batz,Germany,25,0,1,0,0
 37342,daniel brinkmann,Germany,30,0,1,0,0
 94915,daniel brosinski,Germany,28,0,1,0,0
-188058,daniel burn,United Kingdom,24,1,0,0,0
+188058,daniel burn,United_Kingdom,24,1,0,0,0
 188498,daniel caligiuri,Germany,28,0,1,0,0
 282674,daniel carvajal,Spain,24,0,1,0,1
 531629,daniel ceballos,Spain,20,0,0,0,1
@@ -802,11 +802,11 @@ id,name,country,age,premier,bundes,seriea,spain
 37684,daniel de ridder,Netherlands,32,1,0,0,0
 141145,daniel didavi,Germany,26,0,1,0,0
 31299,daniel fernandes,Canada,33,0,1,0,0
-23823,daniel fox,United Kingdom,30,1,0,0,0
-24744,daniel gabbidon,United Kingdom,37,1,0,0,0
+23823,daniel fox,United_Kingdom,30,1,0,0,0
+24744,daniel gabbidon,United_Kingdom,37,1,0,0,0
 196126,daniel gimenez,Spain,33,0,0,0,1
 177720,daniel ginczek,Germany,25,0,1,0,0
-38759,daniel graham,United Kingdom,31,1,0,0,0
+38759,daniel graham,United_Kingdom,31,1,0,0,0
 33778,daniel guiza,Spain,36,0,0,0,1
 30919,daniel gygax,Switzerland,35,0,1,0,0
 29303,daniel haas,Germany,33,0,1,0,0
@@ -820,14 +820,14 @@ id,name,country,age,premier,bundes,seriea,spain
 75307,daniel parejo,Spain,27,0,0,0,1
 114664,daniel pavlovic,Switzerland,28,0,0,1,0
 522576,daniel pinillos,Spain,23,0,0,0,1
-295060,daniel potts,United Kingdom,22,1,0,0,0
+295060,daniel potts,United_Kingdom,22,1,0,0,0
 43158,daniel pudil,Czechoslovakia,31,0,0,1,0
 207118,daniel royer,Austria,26,0,1,0,0
 97734,daniel schwaab,Germany,28,0,1,0,0
-51553,daniel sturridge,United Kingdom,27,1,0,0,0
+51553,daniel sturridge,United_Kingdom,27,1,0,0,0
 39498,daniel tozser,Hungary,31,0,0,1,0
 33085,daniel van buyten,Belgium,38,0,1,0,0
-74169,daniel wass,United States,27,0,0,0,1
+74169,daniel wass,United_States,27,0,0,0,1
 193176,daniel williams,Germany,27,0,1,0,0
 33285,daniel ziebig,Germany,33,0,1,0,0
 195413,daniele baselli,Italy,24,0,0,1,0
@@ -858,23 +858,23 @@ id,name,country,age,premier,bundes,seriea,spain
 208077,danilo,Brazil,25,0,0,0,1
 570432,danilo,Brazil,20,0,0,0,1
 240537,danny da costa,Germany,23,0,1,0,0
-40565,danny guthrie,United Kingdom,29,1,0,0,0
+40565,danny guthrie,United_Kingdom,29,1,0,0,0
 162679,danny latza,Germany,26,0,1,0,0
-254472,danny ward,United Kingdom,23,1,0,0,0
+254472,danny ward,United_Kingdom,23,1,0,0,0
 38432,dante,Brazil,32,0,1,0,0
 39304,dario dainelli,Italy,37,0,0,1,0
 361946,dario del fabro,Italy,21,0,0,1,0
-39732,dario knezevic,Socialist Federal Republic of Yugoslavia,34,0,0,1,0
+39732,dario knezevic,Socialist_Federal_Republic_of_Yugoslavia,34,0,0,1,0
 29529,dario kresic,Croatia,32,0,1,0,0
 47155,dario vidosic,Croatia,29,0,1,0,0
-30340,darius vassell,United Kingdom,36,1,0,0,0
+30340,darius vassell,United_Kingdom,36,1,0,0,0
 30977,dariusz dudka,Poland,32,0,0,0,1
-119014,darko lazovic,Socialist Federal Republic of Yugoslavia,26,0,0,1,0
-609733,darnell furlong,United Kingdom,20,1,0,0,0
-23949,darren bent,United Kingdom,32,1,0,0,0
-24148,darren fletcher,United Kingdom,32,1,0,0,0
-33048,darren pratley,United Kingdom,31,1,0,0,0
-24156,darron gibson,United Kingdom,28,1,0,0,0
+119014,darko lazovic,Socialist_Federal_Republic_of_Yugoslavia,26,0,0,1,0
+609733,darnell furlong,United_Kingdom,20,1,0,0,0
+23949,darren bent,United_Kingdom,32,1,0,0,0
+24148,darren fletcher,United_Kingdom,32,1,0,0,0
+33048,darren pratley,United_Kingdom,31,1,0,0,0
+24156,darron gibson,United_Kingdom,28,1,0,0,0
 289278,darwin machis,Venezuela,23,0,0,0,1
 104482,daryl janmaat,Netherlands,27,1,0,0,0
 18904,david abraham,Argentina,30,0,1,0,1
@@ -882,38 +882,38 @@ id,name,country,age,premier,bundes,seriea,spain
 30666,david albelda,Spain,39,0,0,0,1
 39699,david baiocco,Italy,41,0,0,1,0
 41294,david barral,Spain,33,0,0,0,1
-30612,david beckham,United Kingdom,41,0,0,1,0
+30612,david beckham,United_Kingdom,41,0,0,1,0
 35983,david carney,Australia,32,1,0,0,0
 37470,david cortes,Chile,37,0,0,0,1
 479217,david costas,Spain,21,0,0,0,1
-187189,david davis,United Kingdom,25,1,0,0,0
+187189,david davis,United_Kingdom,25,1,0,0,0
 182917,david de gea,Spain,25,1,0,0,1
 27665,david di michele,Italy,40,1,0,1,0
-30342,david dunn,United Kingdom,36,1,0,0,0
+30342,david dunn,United_Kingdom,36,1,0,0,0
 24234,david edgar,Canada,29,1,0,0,0
-24676,david edwards,United Kingdom,30,1,0,0,0
+24676,david edwards,United_Kingdom,30,1,0,0,0
 25070,david fox,Staffordshire,32,1,0,0,0
 38468,david fuster torrijos,Spain,34,0,0,0,1
 33767,david garcia,Spain,35,0,0,0,1
 74991,david garcia,Spain,34,0,0,0,1
 37498,david generelo,Spain,34,0,0,0,1
-32465,david goodwillie,United Kingdom,27,1,0,0,0
+32465,david goodwillie,United_Kingdom,27,1,0,0,0
 610668,david ivan,Slovakia,21,0,0,1,0
 36286,david james,Hertfordshire,46,1,0,0,0
-30749,david jarolim,Czech Republic,37,0,1,0,0
-25415,david jones,United Kingdom,31,1,0,0,0
+30749,david jarolim,Czech_Republic,37,0,1,0,0
+25415,david jones,United_Kingdom,31,1,0,0,0
 246218,david junca,Spain,22,0,0,0,1
 553597,david kinsombi,Germany,20,0,1,0,0
 108572,david lomban,Spain,29,0,0,0,1
 215584,david lopez,Spain,26,0,0,1,1
 33866,david lopez,Spain,34,0,0,0,1
 52133,david luiz,Brazil,29,1,0,0,0
-32446,david marshall,United Kingdom,31,1,0,0,0
+32446,david marshall,United_Kingdom,31,1,0,0,0
 193870,david mateos,Spain,29,0,0,0,1
-131583,david meyler,Ireland cricket team,27,1,0,0,0
+131583,david meyler,Ireland_cricket_team,27,1,0,0,0
 30276,david navarro,Spain,36,0,0,0,1
 41175,david ngog,France,27,1,0,0,0
-23190,david nugent,United Kingdom,31,1,0,0,0
+23190,david nugent,United_Kingdom,31,1,0,0,0
 38243,david odonkor,Germany,32,0,0,0,1
 50065,david ospina,Colombia,28,1,0,0,0
 37545,david pizarro,Chile,37,1,0,1,0
@@ -921,16 +921,16 @@ id,name,country,age,premier,bundes,seriea,spain
 2977,david rivas rodriguez,Spain,37,0,0,0,1
 169195,david rochela,Spain,26,0,0,0,1
 102631,david rodriguez,Spain,30,0,0,0,1
-30918,david rozehnal,Czech Republic,36,0,1,1,0
+30918,david rozehnal,Czech_Republic,36,0,1,1,0
 37459,david silva,Spain,30,1,0,0,1
 358339,david simon,Spain,26,0,0,0,1
-35477,david stockdale,United Kingdom,31,1,0,0,0
-24415,david suazo,El Salvador,36,0,0,1,0
+35477,david stockdale,United_Kingdom,31,1,0,0,0
+24415,david suazo,El_Salvador,36,0,0,1,0
 243163,david timor copovi,Spain,26,0,0,0,1
 30728,david trezeguet,France,38,0,0,1,1
-40563,david vaughan,United Kingdom,33,1,0,0,0
+40563,david vaughan,United_Kingdom,33,1,0,0,0
 30909,david villa,Spain,34,0,0,0,1
-24166,david wheater,United Kingdom,29,1,0,0,0
+24166,david wheater,United_Kingdom,29,1,0,0,0
 99047,david zurutuza,France,30,0,0,0,1
 103266,davide astori,Italy,29,0,0,1,0
 39294,davide bassi,Italy,31,0,0,1,0
@@ -953,22 +953,22 @@ id,name,country,age,premier,bundes,seriea,spain
 41670,davide zoboli,Italy,34,0,0,1,0
 501568,davie selke,Germany,21,0,1,0,0
 74672,dealbert,Spain,33,0,0,0,1
-23139,dean ashton,United Kingdom,32,1,0,0,0
-23950,dean kiely,United Kingdom,45,1,0,0,0
-34437,dean marney,United Kingdom,32,1,0,0,0
+23139,dean ashton,United_Kingdom,32,1,0,0,0
+23950,dean kiely,United_Kingdom,45,1,0,0,0
+34437,dean marney,United_Kingdom,32,1,0,0,0
 24411,dean whitehead,Oxfordshire,34,1,0,0,0
-23605,dean windass,United Kingdom,47,1,0,0,0
-410359,declan john,United Kingdom,21,1,0,0,0
-127712,declan rudd,United Kingdom,25,1,0,0,0
+23605,dean windass,United_Kingdom,47,1,0,0,0
+410359,declan john,United_Kingdom,21,1,0,0,0
+127712,declan rudd,United_Kingdom,25,1,0,0,0
 30686,deco,Brazil,39,1,0,0,0
 191616,dedryck boyata,Belgium,25,1,0,0,0
 496054,dejan drazic,Serbia,21,0,0,0,1
-161662,dejan lazarevic,Socialist Federal Republic of Yugoslavia,26,0,0,1,0
+161662,dejan lazarevic,Socialist_Federal_Republic_of_Yugoslavia,26,0,0,1,0
 179009,dejan lekic,Serbia,31,0,0,0,1
-114268,dejan lovren,Bosnia and Herzegovina,27,1,0,0,0
-30724,dejan stankovic,Socialist Federal Republic of Yugoslavia,38,0,0,1,0
-363333,dele alli,United Kingdom,20,1,0,0,0
-492586,demarai gray,United Kingdom,20,1,0,0,0
+114268,dejan lovren,Bosnia_and_Herzegovina,27,1,0,0,0
+30724,dejan stankovic,Socialist_Federal_Republic_of_Yugoslavia,38,0,0,1,0
+363333,dele alli,United_Kingdom,20,1,0,0,0
+492586,demarai gray,United_Kingdom,20,1,0,0,0
 35411,demba ba,France,31,1,1,0,0
 39297,denilson,Brazil,28,1,0,0,0
 359197,denis cheryshev,Russia,25,0,0,0,1
@@ -991,9 +991,9 @@ id,name,country,age,premier,bundes,seriea,spain
 30720,dida,Spain,42,0,0,1,0
 163971,didac vila,Spain,27,0,0,1,1
 33128,didier digard,France,30,1,0,0,1
-30822,didier drogba,Ivory Coast,38,1,0,0,0
-47357,didier konan ya,Ivory Coast,32,0,1,0,0
-34182,didier zokora,Ivory Coast,35,1,0,0,1
+30822,didier drogba,Ivory_Coast,38,1,0,0,0
+47357,didier konan ya,Ivory_Coast,32,0,1,0,0
+34182,didier zokora,Ivory_Coast,35,1,0,0,1
 96613,diego alves,Brazil,31,0,0,0,1
 30820,diego benaglio,Switzerland,33,0,1,0,0
 103139,diego buonanotte,Argentina,28,0,0,0,1
@@ -1034,7 +1034,7 @@ id,name,country,age,premier,bundes,seriea,spain
 261609,dimitri foulquier,France,23,0,0,0,1
 25496,dimitri payet,France,29,1,0,0,0
 39163,dimitrios eleftheropoulos,Greece,40,0,0,1,0
-42325,dimitrios papadopoulos,Uzbek Soviet Socialist Republic,34,0,0,1,0
+42325,dimitrios papadopoulos,Uzbek_Soviet_Socialist_Republic,34,0,0,1,0
 10491,diniyar bilyaletdinov,Russia,31,1,0,0,0
 8932,dino drpic,Croatia,35,0,1,0,0
 242783,diogo figueiras,Portugal,25,0,0,1,1
@@ -1044,7 +1044,7 @@ id,name,country,age,premier,bundes,seriea,spain
 41605,djamel mesbah,Algeria,31,0,0,1,0
 33418,djibril cisse,France,35,1,0,1,0
 34370,djiby fall,Senegal,31,0,1,0,0
-31088,do-heon kim,South Korea,34,1,0,0,0
+31088,do-heon kim,South_Korea,34,1,0,0,0
 177874,dodo,Ghana,24,0,0,1,0
 364520,domenico berardi,Italy,22,0,0,1,0
 41882,domenico criscito,Italy,29,0,0,1,0
@@ -1058,7 +1058,7 @@ id,name,country,age,premier,bundes,seriea,spain
 27485,dominik stroh-engel,Germany,30,0,1,0,0
 303800,dominique heintz,Germany,23,0,1,0,0
 96598,dominique malonga,France,27,0,0,1,0
-32942,don cowie,United Kingdom,33,1,0,0,0
+32942,don cowie,United_Kingdom,33,1,0,0,0
 39351,doni,Brazil,36,1,0,1,0
 75405,dorge kouemaha,Cameroon,33,0,1,0,0
 40855,dorin goian,Romania,35,0,0,1,0
@@ -1070,16 +1070,16 @@ id,name,country,age,premier,bundes,seriea,spain
 46104,dries mertens,Belgium,29,0,0,1,0
 36034,du-ri cha,Germany,36,0,1,0,0
 37450,duda,Serbia,36,0,0,0,1
-21853,dudley campbell,United Kingdom,34,1,0,0,0
+21853,dudley campbell,United_Kingdom,34,1,0,0,0
 75445,duje cop,Croatia,26,0,0,1,1
-520230,duncan watmore,United Kingdom,22,1,0,0,0
-30983,dusan basta,Socialist Federal Republic of Yugoslavia,32,0,0,1,0
+520230,duncan watmore,United_Kingdom,22,1,0,0,0
+30983,dusan basta,Socialist_Federal_Republic_of_Yugoslavia,32,0,0,1,0
 22824,dusan svento,Slovakia,31,0,1,0,0
 94267,dusan tadic,Serbia,27,1,0,0,0
 75467,dusan vasiljevic,Serbia,34,0,1,0,0
 26368,dusko tosic,Serbia,31,0,1,0,0
 116555,duvan zapata,Colombia,25,0,0,1,0
-363340,dwight gayle,United Kingdom,25,1,0,0,0
+363340,dwight gayle,United_Kingdom,25,1,0,0,0
 42703,dwight tiendalli,Suriname,30,1,0,0,0
 19310,dyego rocha coelho,Brazil,33,0,0,1,0
 369859,eddy israfilov,Spain,24,0,0,0,1
@@ -1092,7 +1092,7 @@ id,name,country,age,premier,bundes,seriea,spain
 477493,edgar antonio mendez,Spain,25,0,0,0,1
 30920,edgar barreto,Paraguay,32,0,0,1,0
 179491,edgar prib,Russia,26,0,1,0,0
-15403,edin dzeko,Bosnia and Herzegovina,30,1,1,1,0
+15403,edin dzeko,Bosnia_and_Herzegovina,30,1,1,1,0
 49677,edinson cavani,Uruguay,29,0,0,1,0
 37390,edmond kapllani,Albania,34,0,1,0,0
 362121,edoardo goldaniga,Italy,22,0,0,1,0
@@ -1117,14 +1117,14 @@ id,name,country,age,premier,bundes,seriea,spain
 102658,eke uzoma,Nigeria,27,0,1,0,0
 23927,el hadji diouf,Senegal,35,1,0,0,0
 40198,elano,Brazil,35,1,0,0,0
-42247,eldin jakupovic,Bosnia and Herzegovina,31,1,0,0,0
+42247,eldin jakupovic,Bosnia_and_Herzegovina,31,1,0,0,0
 156551,eliaquim mangala,France,25,1,0,0,0
 215804,elias kachunga,Germany,24,0,1,0,0
 171992,elias,Brazil,31,0,0,0,1
 11758,eliseu,Portugal,32,0,0,0,1
 22313,elkin soto,Colombia,36,0,1,0,0
 46344,elliot grandin,France,28,1,0,0,0
-96456,elliott bennett,United Kingdom,27,1,0,0,0
+96456,elliott bennett,United_Kingdom,27,1,0,0,0
 67349,elsad zverotic,Montenegro,29,1,0,0,0
 293160,elseid hysaj,Albania,22,0,0,1,0
 22535,elson,Brazil,34,0,1,0,0
@@ -1140,7 +1140,7 @@ id,name,country,age,premier,bundes,seriea,spain
 300236,emanuele suagher,Italy,23,0,0,1,0
 163557,emerson,Brazil,36,0,0,1,0
 70610,emil gabriel jula,Romania,36,0,1,0,0
-34466,emile heskey,United Kingdom,38,1,0,0,0
+34466,emile heskey,United_Kingdom,38,1,0,0,0
 56961,emiliano alfaro,Uruguay,28,0,0,1,0
 27705,emiliano bonazzoli,Italy,37,0,0,1,0
 18784,emiliano daniel armenteros,Argentina,30,0,0,0,1
@@ -1154,14 +1154,14 @@ id,name,country,age,premier,bundes,seriea,spain
 30960,emmanuel adebayor,Togo,32,1,0,0,1
 192325,emmanuel agyemang-badu,Ghana,25,0,0,1,0
 42420,emmanuel cascione,Italy,33,0,0,1,0
-30935,emmanuel eboue,Ivory Coast,33,1,0,0,0
+30935,emmanuel eboue,Ivory_Coast,33,1,0,0,0
 159596,emmanuel frimpong,Ghana,24,1,0,0,0
 112012,emmanuel mayuka,Zambia,25,1,0,0,0
 161420,emmanuel riviere,France,26,1,0,0,0
-35472,emmerson boyce,United Kingdom,37,1,0,0,0
+35472,emmerson boyce,United_Kingdom,37,1,0,0,0
 24217,emre belozoglu,Turkey,36,0,0,0,1
 307021,emre can,Germany,22,1,1,0,0
-141576,enda stevens,United Kingdom,26,1,0,0,0
+141576,enda stevens,United_Kingdom,26,1,0,0,0
 170341,eneko boveda,Spain,27,0,0,0,1
 295198,eneko satrustegui,Spain,26,0,0,0,1
 195927,enner valencia,Ecuador,26,1,0,0,0
@@ -1174,8 +1174,8 @@ id,name,country,age,premier,bundes,seriea,spain
 150509,eran zahavi,Israel,29,0,0,1,0
 73448,eren derdiyok,Switzerland,28,0,1,0,0
 30738,eric abidal,France,37,0,0,0,1
-574200,eric bertrand bailly,Ivory Coast,22,0,0,0,1
-361315,eric dier,United Kingdom,22,1,0,0,0
+574200,eric bertrand bailly,Ivory_Coast,22,0,0,0,1
+361315,eric dier,United_Kingdom,22,1,0,0,0
 95082,eric maxim choupo-moting,Germany,27,0,1,0,0
 335606,erick pulgar,Chile,22,0,0,1,0
 30805,erik edman,Sweden,37,1,0,0,0
@@ -1187,12 +1187,12 @@ id,name,country,age,premier,bundes,seriea,spain
 26461,erik nevland,Norway,38,1,0,0,0
 37194,erik pieters,Netherlands,28,1,0,0,0
 39638,erjon bogdani,Albania,39,0,0,1,0
-177942,ermin bicakcic,Bosnia and Herzegovina,26,0,1,0,0
+177942,ermin bicakcic,Bosnia_and_Herzegovina,26,0,1,0,0
 183331,ernesto galan,Spain,30,0,0,0,1
 97789,eros pisano,Italy,29,0,0,1,0
 12005,ersen martin,Germany,37,0,0,0,1
 38828,ervin skela,Albania,39,0,1,0,0
-45413,ervin zukanovic,Socialist Federal Republic of Yugoslavia,29,0,0,1,0
+45413,ervin zukanovic,Socialist_Federal_Republic_of_Yugoslavia,29,0,0,1,0
 42971,erwin hoffer,Austria,29,0,1,0,0
 80555,esparza jokin arcaya,Spain,28,0,0,0,1
 30930,esteban cambiasso,Argentina,36,1,0,1,0
@@ -1200,7 +1200,7 @@ id,name,country,age,premier,bundes,seriea,spain
 21785,esteban solari,Argentina,36,0,0,0,1
 33731,esteban,Spain,41,0,0,0,1
 41365,etienne capoue,France,28,1,0,0,0
-150747,etrit berisha,Socialist Federal Republic of Yugoslavia,27,0,0,1,0
+150747,etrit berisha,Socialist_Federal_Republic_of_Yugoslavia,27,0,0,1,0
 150468,ettore mendicino,Italy,26,0,0,1,0
 27420,eugen polanski,Poland,30,0,1,0,1
 27661,eugenio corini,Italy,46,0,0,1,0
@@ -1209,7 +1209,7 @@ id,name,country,age,premier,bundes,seriea,spain
 108568,ever banega,Argentina,28,0,0,0,1
 38577,ewerthon,Brazil,35,0,0,0,1
 118730,eyong enoh,Cameroon,30,1,0,0,0
-290411,ezekiel fryers,United Kingdom,24,1,0,0,0
+290411,ezekiel fryers,United_Kingdom,24,1,0,0,0
 199916,ezequiel adrian cirigliano,Argentina,24,0,0,1,0
 42901,ezequiel alejo carboni,Argentina,37,0,0,1,0
 37581,ezequiel garay,Argentina,29,0,0,0,1
@@ -1217,7 +1217,7 @@ id,name,country,age,premier,bundes,seriea,spain
 25753,ezequiel luna,Argentina,29,0,0,0,1
 26959,fabian boll,Germany,37,0,1,0,0
 6911,fabian canobbio,Uruguay,36,0,0,0,1
-78324,fabian delph,United Kingdom,26,1,0,0,0
+78324,fabian delph,United_Kingdom,26,1,0,0,0
 30251,fabian ernst,Germany,37,0,1,0,0
 95228,fabian frei,Switzerland,27,0,1,0,0
 114963,fabian giefer,Germany,26,0,1,0,0
@@ -1248,7 +1248,7 @@ id,name,country,age,premier,bundes,seriea,spain
 150176,fabio,Brazil,26,1,0,0,0
 47566,fabri,Spain,28,0,0,0,1
 34045,fabrice ehret,Switzerland,37,0,1,0,0
-35532,fabrice muamba,The Democratic Republic Of Congo,28,1,0,0,0
+35532,fabrice muamba,The_Democratic_Republic_Of_Congo,28,1,0,0,0
 363363,fabrice olinga,Cameroon,20,0,0,0,1
 30929,fabricio coloccini,Argentina,34,1,0,0,0
 166872,fabricio,Brazil,26,0,1,0,0
@@ -1322,7 +1322,7 @@ id,name,country,age,premier,bundes,seriea,spain
 27412,filip daems,Belgium,37,0,1,0,0
 287337,filip helander,Sweden,23,0,0,1,0
 281012,filip kostic,Serbia,23,0,1,0,0
-39846,filip trojan,Czech Republic,33,0,1,0,0
+39846,filip trojan,Czech_Republic,33,0,1,0,0
 41167,filipe luis,Brazil,31,1,0,0,1
 45701,filipe,Brazil,29,0,0,1,0
 41355,filippo antonelli,Italy,38,0,0,1,0
@@ -1330,7 +1330,7 @@ id,name,country,age,premier,bundes,seriea,spain
 30729,filippo inzaghi,Italy,43,0,0,1,0
 74305,filippo porcari,Italy,32,0,0,1,0
 35852,fin bartels,Germany,29,0,1,0,0
-33931,fitz hall,United Kingdom,35,1,0,0,0
+33931,fitz hall,United_Kingdom,35,1,0,0,0
 30679,florent malouda,France,36,1,0,0,0
 35883,florian bruns,Germany,37,0,1,0,0
 37379,florian dick,Germany,31,0,1,0,0
@@ -1405,18 +1405,18 @@ id,name,country,age,premier,bundes,seriea,spain
 150007,francois affolter,Switzerland,25,0,1,0,0
 30252,frank baumann,Germany,40,0,1,0,0
 35607,frank fahrenhorst,Germany,39,0,1,0,0
-30631,frank lampard,United Kingdom,38,1,0,0,0
-181229,frank nouble,United Kingdom,25,1,0,0,0
+30631,frank lampard,United_Kingdom,38,1,0,0,0
+181229,frank nouble,United_Kingdom,25,1,0,0,0
 25524,frank rost,Germany,43,0,1,0,0
-69833,frantisek rajtoral,Czech Republic,30,0,1,0,0
-95336,fraser forster,Kingdom of England,28,1,0,0,0
-23069,frazer richardson,United Kingdom,33,1,0,0,0
+69833,frantisek rajtoral,Czech_Republic,30,0,1,0,0
+95336,fraser forster,Kingdom_of_England,28,1,0,0,0
+23069,frazer richardson,United_Kingdom,33,1,0,0,0
 33989,frederic kanoute,France,39,0,0,0,1
 26347,frederic piquionne,France,37,1,0,0,0
 41199,fredy guarin,Colombia,30,0,0,1,0
 323438,fredy hinestroza,Colombia,26,0,0,0,1
 33635,gabi,Spain,33,0,0,0,1
-23264,gabriel agbonlahor,United Kingdom,29,1,0,0,0
+23264,gabriel agbonlahor,United_Kingdom,29,1,0,0,0
 30670,gabriel heinze,Argentina,38,0,0,1,1
 30891,gabriel milito,Argentina,36,0,0,0,1
 39968,gabriel obertan,France,27,1,0,0,0
@@ -1442,41 +1442,41 @@ id,name,country,age,premier,bundes,seriea,spain
 150832,gaizka toquero,Spain,32,0,0,0,1
 14533,gal alberman,Israel,33,0,1,0,0
 19403,galatto,Brazil,33,0,0,0,1
-115980,garath mccleary,United Kingdom,29,1,0,0,0
-31921,gareth bale,United Kingdom,27,1,0,0,1
-23782,gareth barry,United Kingdom,35,1,0,0,0
-32441,gareth mcauley,United Kingdom,36,1,0,0,0
+115980,garath mccleary,United_Kingdom,29,1,0,0,0
+31921,gareth bale,United_Kingdom,27,1,0,0,1
+23782,gareth barry,United_Kingdom,35,1,0,0,0
+32441,gareth mcauley,United_Kingdom,36,1,0,0,0
 26115,garra dembele,France,30,0,1,0,0
 302912,garry mendes rodrigues,Netherlands,25,0,0,0,1
-23377,garry monk,United Kingdom,37,1,0,0,0
+23377,garry monk,United_Kingdom,37,1,0,0,0
 23783,gary cahill,England,30,1,0,0,0
-41071,gary caldwell,United Kingdom,34,1,0,0,0
-282251,gary gardner,United Kingdom,24,1,0,0,0
-35905,gary hooper,United Kingdom,28,1,0,0,0
+41071,gary caldwell,United_Kingdom,34,1,0,0,0
+282251,gary gardner,United_Kingdom,24,1,0,0,0
+35905,gary hooper,United_Kingdom,28,1,0,0,0
 57078,gary kagelmacher,Uruguay,28,0,0,0,1
-36802,gary mcsheffrey,United Kingdom,34,1,0,0,0
+36802,gary mcsheffrey,United_Kingdom,34,1,0,0,0
 49970,gary medel,Chile,29,1,0,1,1
-30615,gary neville,United Kingdom,41,1,0,0,0
-23464,gary taylor-fletcher,United Kingdom,35,1,0,0,0
+30615,gary neville,United_Kingdom,41,1,0,0,0
+23464,gary taylor-fletcher,United_Kingdom,35,1,0,0,0
 267260,gaston brugman,Argentina,24,0,0,1,0
 190872,gaston ramirez,Uruguay,25,1,0,1,0
 106600,gaston sangoy,Argentina,31,0,0,0,1
 315460,gaston silva,Uruguay,22,0,0,1,0
-105826,gavin hoyte,United Kingdom,26,1,0,0,0
+105826,gavin hoyte,United_Kingdom,26,1,0,0,0
 166452,genki haraguchi,Japan,25,0,1,0,0
 39533,gennaro delvecchio,Italy,38,0,0,1,0
 30721,gennaro gattuso,Italy,38,0,0,1,0
 42042,gennaro iezzo,Italy,43,0,0,1,0
 39273,gennaro sardo,Italy,37,0,0,1,0
-119541,geoff cameron,United States,31,1,0,0,0
+119541,geoff cameron,United_States,31,1,0,0,0
 214972,geoffrey kondogbia,France,23,0,0,1,1
-104389,geoffrey mujangi bia,The Democratic Republic Of Congo,27,1,0,0,0
-32304,george boyd,United Kingdom,30,1,0,0,0
+104389,geoffrey mujangi bia,The_Democratic_Republic_Of_Congo,27,1,0,0,0
+32304,george boyd,United_Kingdom,30,1,0,0,0
 23435,george elokobi,Cameroon,30,1,0,0,0
 45588,george friend,Devon,28,1,0,0,0
-43259,george mccartney,United Kingdom,35,1,0,0,0
+43259,george mccartney,United_Kingdom,35,1,0,0,0
 501940,george puscas,Romania,20,0,0,1,0
-189910,george thorne,United Kingdom,23,1,0,0,0
+189910,george thorne,United_Kingdom,23,1,0,0,0
 108038,georginio wijnaldum,Netherlands,25,1,0,0,0
 25997,georgios karagounis,Greece,39,1,0,0,0
 30702,gerald asamoah,Ghana,37,0,1,0,0
@@ -1495,7 +1495,7 @@ id,name,country,age,premier,bundes,seriea,spain
 24549,giampaolo pazzini,Italy,32,0,0,1,0
 27731,giampiero pinzi,Italy,35,0,0,1,0
 540073,gian-luca waldschmidt,Germany,20,0,1,0,0
-118616,giancarlo gonzalez,Costa Rica,28,0,0,1,0
+118616,giancarlo gonzalez,Costa_Rica,28,0,0,1,0
 27684,giandomenico mesto,Italy,34,0,0,1,0
 252650,gianluca caprari,Italy,23,0,0,1,0
 39621,gianluca comotto,Italy,37,0,0,1,0
@@ -1512,13 +1512,13 @@ id,name,country,age,premier,bundes,seriea,spain
 31731,gianni zuiverloon,Netherlands,29,1,0,0,1
 39201,gianpaolo bellini,Italy,36,0,0,1,0
 42696,gianvito plasmati,Italy,33,0,0,1,0
-26465,gibril sankoh,Sierra Leone,33,0,1,0,0
+26465,gibril sankoh,Sierra_Leone,33,0,1,0,0
 553557,gideon jung,Germany,22,0,1,0,0
 80265,giedrius arlauskis,Lithuania,28,0,0,0,1
 387499,gilberto junior,Brazil,23,0,0,1,0
-41632,gilberto martinez vidal,Costa Rica,36,0,0,1,0
+41632,gilberto martinez vidal,Costa_Rica,36,0,0,1,0
 30950,gilberto,Brazil,40,1,0,0,0
-23019,giles barnes,United Kingdom,28,1,0,0,0
+23019,giles barnes,United_Kingdom,28,1,0,0,0
 230476,gino peruzzi,Argentina,24,0,0,1,0
 41884,giorgio chiellini,Italy,32,0,0,1,0
 42009,giorgio frezzolini,Italy,40,0,0,1,0
@@ -1536,18 +1536,18 @@ id,name,country,age,premier,bundes,seriea,spain
 41376,giuseppe de feudis,Italy,33,0,0,1,0
 244835,giuseppe de luca,Italy,24,0,0,1,0
 32752,giuseppe favalli,Italy,44,0,0,1,0
-42393,giuseppe gemiti,West Germany,35,0,0,1,0
+42393,giuseppe gemiti,West_Germany,35,0,0,1,0
 39706,giuseppe mascara,Italy,37,0,0,1,0
 183039,giuseppe rizzo,Italy,25,0,0,1,0
-38699,giuseppe rossi,United States,29,0,0,1,1
+38699,giuseppe rossi,United_States,29,0,0,1,1
 37767,giuseppe sculli,Italy,35,0,0,1,0
 41432,giuseppe vives,Italy,36,0,0,1,0
 41501,gleison pinto santos,Brazil,35,0,0,1,0
-34036,glen johnson,United Kingdom,32,1,0,0,0
-23285,glen little,United Kingdom,40,1,0,0,0
+34036,glen johnson,United_Kingdom,32,1,0,0,0
+23285,glen little,United_Kingdom,40,1,0,0,0
 22928,glenn loovens,Netherlands,32,0,0,0,1
-35523,glenn murray,United Kingdom,33,1,0,0,0
-23253,glenn whelan,Republic of Ireland,32,1,0,0,0
+35523,glenn murray,United_Kingdom,33,1,0,0,0
+23253,glenn whelan,Republic_of_Ireland,32,1,0,0,0
 518663,godfred donsah,Ghana,20,0,0,1,0
 37384,godfried aduobe,Ghana,40,0,1,0,0
 16300,gojko kacar,Serbia,29,0,1,0,0
@@ -1563,18 +1563,18 @@ id,name,country,age,premier,bundes,seriea,spain
 25759,gonzalo higuain,France,28,0,0,1,1
 49885,gonzalo jara,Chile,31,1,1,0,0
 38458,gonzalo rodriguez,Argentina,32,0,0,1,1
-25597,goran pandev,Republic of Macedonia,33,0,0,1,0
-39091,goran popov,Republic of Macedonia,31,1,0,0,0
+25597,goran pandev,Republic_of_Macedonia,33,0,0,1,0
+39091,goran popov,Republic_of_Macedonia,31,1,0,0,0
 38526,gorka brit,Spain,38,0,0,0,1
 33764,gorka iraizoz moreno,Spain,35,0,0,0,1
 38546,gorka larrea garcia,Spain,32,0,0,0,1
-23185,graham alexander,United Kingdom,44,1,0,0,0
-32734,graham dorrans,United Kingdom,29,1,0,0,0
+23185,graham alexander,United_Kingdom,44,1,0,0,0
+32734,graham dorrans,United_Kingdom,29,1,0,0,0
 207236,granit xhaka,Switzerland,24,0,1,0,0
-202180,grant hanley,United Kingdom,24,1,0,0,0
-24698,grant holt,United Kingdom,35,1,0,0,0
+202180,grant hanley,United_Kingdom,24,1,0,0,0
+24698,grant holt,United_Kingdom,35,1,0,0,0
 41280,graziano pelle,Italy,31,1,0,1,0
-23425,greg halford,United Kingdom,31,1,0,0,0
+23425,greg halford,United_Kingdom,31,1,0,0,0
 265924,gregoire defrel,France,25,0,0,1,0
 101070,gregory arnolin,France,35,0,0,0,1
 75196,gregory beranger,France,35,0,0,0,1
@@ -1609,14 +1609,14 @@ id,name,country,age,premier,bundes,seriea,spain
 27349,hanno balitsch,Germany,35,0,1,0,0
 30754,hans sarpei,Ghana,40,0,1,0,0
 394462,hany mukhtar,Germany,21,0,1,0,0
-39633,haouliais axel cedric konan,Ivory Coast,33,0,0,1,0
-33588,haris medunjanin,Bosnia and Herzegovina,31,0,0,0,1
+39633,haouliais axel cedric konan,Ivory_Coast,33,0,0,1,0
+33588,haris medunjanin,Bosnia_and_Herzegovina,31,0,0,0,1
 170775,haris seferovic,Switzerland,24,0,1,1,1
-502420,harrison reed,United Kingdom,21,1,0,0,0
-155129,harry arter,United Kingdom,26,1,0,0,0
-194165,harry kane,United Kingdom,23,1,0,0,0
+502420,harrison reed,United_Kingdom,21,1,0,0,0
+155129,harry arter,United_Kingdom,26,1,0,0,0
+194165,harry kane,United_Kingdom,23,1,0,0,0
 39735,haruna babangida,Nigeria,33,0,1,0,0
-27287,hasan salihamidzic,Socialist Federal Republic of Yugoslavia,39,0,1,1,0
+27287,hasan salihamidzic,Socialist_Federal_Republic_of_Yugoslavia,39,0,1,1,0
 40004,hassan yebda,France,32,1,0,1,1
 26163,hatem ben arfa,France,29,1,0,0,0
 427438,hector bellerin,Spain,21,1,0,0,0
@@ -1632,7 +1632,7 @@ id,name,country,age,premier,bundes,seriea,spain
 80291,heinrich schmidtgal,Kazakhstan,30,0,1,0,0
 41725,heinz barmettler,Switzerland,29,0,0,0,1
 25913,helder rosario,Portugal,36,0,0,0,1
-184114,heldon,United Kingdom,27,0,0,0,1
+184114,heldon,United_Kingdom,27,0,0,0,1
 343797,hendrick zuck,Germany,26,0,1,0,0
 129817,hendry thomas,Honduras,31,1,0,0,0
 39142,henok goitom,Sweden,32,0,0,0,1
@@ -1640,20 +1640,20 @@ id,name,country,age,premier,bundes,seriea,spain
 73167,henrik mkhitaryan,Armenia,27,0,1,0,0
 128037,henrique,Brazil,29,0,1,1,1
 56654,henry gimenez,Uruguay,30,0,0,1,0
-26348,herita ilunga,The Democratic Republic Of Congo,34,1,0,0,0
+26348,herita ilunga,The_Democratic_Republic_Of_Congo,34,1,0,0,0
 35561,hernan crespo,Argentina,41,0,0,1,0
 113627,hernan dario bernardello,Argentina,30,0,0,0,1
 18501,hernan pellerano,Argentina,32,0,0,0,1
 88986,hernan perez,Paraguay,27,0,0,0,1
 243781,hernan,Spain,26,0,0,0,1
 21446,hernanes,Brazil,31,0,0,1,0
-212867,heung-min son,South Korea,24,1,1,0,0
+212867,heung-min son,South_Korea,24,1,1,0,0
 30455,heurelho gomes,Brazil,35,1,1,0,0
 37423,hipolito poli,Spain,39,0,0,0,1
 116645,hiroki sakai,Japan,26,0,1,0,0
 115847,hiroshi kiyotake,Japan,26,0,1,0,0
 94886,holger badstuber,Germany,27,0,1,0,0
-185974,hope akpan,United Kingdom,25,1,0,0,0
+185974,hope akpan,United_Kingdom,25,1,0,0,0
 39393,houssine kharja,France,33,0,0,1,0
 37550,hugo almeida,Portugal,32,0,1,1,0
 42388,hugo campagnaro,Argentina,36,0,0,1,0
@@ -1666,13 +1666,13 @@ id,name,country,age,premier,bundes,seriea,spain
 37434,iago bouzon,Spain,33,0,0,0,1
 161015,iago falque,Spain,26,0,0,1,1
 261787,iago herrerin,Spain,28,0,0,0,1
-23023,ian ashbee,United Kingdom,40,1,0,0,0
-35554,ian evatt,United Kingdom,34,1,0,0,0
-33615,ian harte,Republic of Ireland,39,1,0,0,0
+23023,ian ashbee,United_Kingdom,40,1,0,0,0
+35554,ian evatt,United_Kingdom,34,1,0,0,0
+33615,ian harte,Republic_of_Ireland,39,1,0,0,0
 213470,ibai gomez,Spain,26,0,0,0,1
 5233,iban javier cuadrado,Spain,37,0,0,0,1
 26434,ibrahim afellay,Netherlands,30,1,1,0,1
-46265,ibrahim sissoko,Ivory Coast,24,0,1,0,0
+46265,ibrahim sissoko,Ivory_Coast,24,0,1,0,0
 189922,ibrahima balde,Senegal,27,0,0,0,1
 362115,ibrahima mbaye,Senegal,21,0,0,1,0
 23284,ibrahima sonko,Senegal,35,1,0,0,0
@@ -1688,11 +1688,11 @@ id,name,country,age,premier,bundes,seriea,spain
 242418,ignasi miquel,Spain,24,1,0,0,0
 39555,ignazio abate,Italy,29,0,0,1,0
 306296,igor bubnjic,Croatia,24,0,0,1,0
-39488,igor budan,Socialist Federal Republic of Yugoslavia,36,0,0,1,0
+39488,igor budan,Socialist_Federal_Republic_of_Yugoslavia,36,0,0,1,0
 25957,igor de camargo,Brazil,33,0,1,0,0
 37408,igor gabilondo,Spain,37,0,0,0,1
 112204,igor martinez,Spain,27,0,0,0,1
-24915,ikechi anya,United Kingdom,28,1,0,0,0
+24915,ikechi anya,United_Kingdom,28,1,0,0,0
 38044,ikechukwu uche,Nigeria,32,0,0,0,1
 30657,iker casillas,Spain,35,0,0,0,1
 179772,iker muniain,Spain,23,0,0,0,1
@@ -1711,7 +1711,7 @@ id,name,country,age,premier,bundes,seriea,spain
 95574,isaac vorsah,Ghana,28,0,1,0,0
 191315,isco,Spain,24,0,0,0,1
 182106,ishak belfodil,Algeria,24,0,0,1,0
-27267,ishmael miller,United Kingdom,29,1,0,0,0
+27267,ishmael miller,United_Kingdom,29,1,0,0,0
 239965,isma lopez,Spain,26,0,0,0,1
 258873,issa cissokho,France,31,0,0,1,0
 179407,issam el adoua,Morocco,29,0,0,0,1
@@ -1720,15 +1720,15 @@ id,name,country,age,premier,bundes,seriea,spain
 97234,ivan bolado,Spain,27,0,0,0,1
 22984,ivan cordoba,Colombia,40,0,0,1,0
 33630,ivan cuellar,Spain,32,0,0,0,1
-108956,ivan fatic,Socialist Federal Republic of Yugoslavia,28,0,0,1,0
+108956,ivan fatic,Socialist_Federal_Republic_of_Yugoslavia,28,0,0,1,0
 188517,ivan gonzalez,Spain,28,0,0,0,1
 75395,ivan hernandez,Spain,36,0,0,0,1
-41757,ivan juric,Socialist Federal Republic of Yugoslavia,41,0,0,1,0
+41757,ivan juric,Socialist_Federal_Republic_of_Yugoslavia,41,0,0,1,0
 106294,ivan kelava,Croatia,28,0,0,1,0
 30753,ivan klasnic,Germany,36,1,1,0,0
 287691,ivan lopez,Spain,23,0,0,0,1
 80497,ivan marcano,Spain,29,0,0,0,1
-173609,ivan martic,Bosnia and Herzegovina,25,0,0,1,0
+173609,ivan martic,Bosnia_and_Herzegovina,25,0,0,1,0
 150968,ivan obradovic,Serbia,28,0,0,0,1
 355349,ivan paurevic,Germany,25,0,1,0,0
 27677,ivan pelizzoli,Italy,35,0,0,1,0
@@ -1737,25 +1737,25 @@ id,name,country,age,premier,bundes,seriea,spain
 164033,ivan pillud,Argentina,30,0,0,1,1
 195190,ivan piris,Paraguay,27,0,0,1,0
 9124,ivan radeljic,Croatia,36,0,1,0,0
-15732,ivan radovanovic,Socialist Federal Republic of Yugoslavia,28,0,0,1,0
+15732,ivan radovanovic,Socialist_Federal_Republic_of_Yugoslavia,28,0,0,1,0
 25773,ivan rakitic,Switzerland,28,0,1,0,1
 167057,ivan santini,Croatia,27,0,1,0,0
-128852,ivan strinic,Socialist Federal Republic of Yugoslavia,29,0,0,1,0
+128852,ivan strinic,Socialist_Federal_Republic_of_Yugoslavia,29,0,0,1,0
 32745,ivica banovic,Croatia,36,0,1,0,0
 30866,ivica dragutinovic,Serbia,40,0,0,0,1
-39734,ivica iliev,Socialist Federal Republic of Yugoslavia,36,0,1,0,0
-30764,ivica olic,Socialist Federal Republic of Yugoslavia,37,0,1,0,0
+39734,ivica iliev,Socialist_Federal_Republic_of_Yugoslavia,36,0,1,0,0
+30764,ivica olic,Socialist_Federal_Republic_of_Yugoslavia,37,0,1,0,0
 39847,ivo ilicevic,Germany,29,0,1,0,0
 177475,izet hajrovic,Switzerland,25,0,1,0,1
-201888,ja-cheol koo,South Korea,27,0,1,0,0
+201888,ja-cheol koo,South_Korea,27,0,1,0,0
 36072,jacek krzynowek,Poland,40,0,1,0,0
-288880,jack butland,United Kingdom,23,1,0,0,0
-160243,jack colback,United Kingdom,26,1,0,0,0
-46008,jack cork,United Kingdom,27,1,0,0,0
-312765,jack grealish,United Kingdom,21,1,0,0,0
-202181,jack robinson,United Kingdom,23,1,0,0,0
-109058,jack rodwell,United Kingdom,25,1,0,0,0
-143793,jack wilshere,United Kingdom,24,1,0,0,0
+288880,jack butland,United_Kingdom,23,1,0,0,0
+160243,jack colback,United_Kingdom,26,1,0,0,0
+46008,jack cork,United_Kingdom,27,1,0,0,0
+312765,jack grealish,United_Kingdom,21,1,0,0,0
+202181,jack robinson,United_Kingdom,23,1,0,0,0
+109058,jack rodwell,United_Kingdom,25,1,0,0,0
+143793,jack wilshere,United_Kingdom,24,1,0,0,0
 51360,jackson martinez,Colombia,29,0,0,0,1
 189908,jackson mendy,France,29,0,1,0,0
 75390,jacobo,Spain,33,0,0,0,1
@@ -1766,52 +1766,52 @@ id,name,country,age,premier,bundes,seriea,spain
 150754,jaime,Spain,26,0,0,1,1
 74689,jaime,Spain,35,0,0,0,1
 287231,jairo,Spain,23,0,1,0,1
-289159,jak alnwick,Kingdom of England,23,1,0,0,0
+289159,jak alnwick,Kingdom_of_England,23,1,0,0,0
 281158,jakub swierczok,Poland,23,0,1,0,0
-279489,jamaal lascelles,United Kingdom,22,1,0,0,0
+279489,jamaal lascelles,United_Kingdom,22,1,0,0,0
 24001,james beattie,Lancashire,38,1,0,0,0
-24751,james collins,United Kingdom,33,1,0,0,0
-28901,james mcarthur,United Kingdom,28,1,0,0,0
-101192,james mccarthy,United Kingdom,25,1,0,0,0
-175947,james mcclean,United Kingdom,27,1,0,0,0
-24002,james mcfadden,United Kingdom,33,1,0,0,0
-38807,james milner,United Kingdom,30,1,0,0,0
-24171,james morrison,United Kingdom,30,1,0,0,0
-23579,james perch,United Kingdom,31,1,0,0,0
+24751,james collins,United_Kingdom,33,1,0,0,0
+28901,james mcarthur,United_Kingdom,28,1,0,0,0
+101192,james mccarthy,United_Kingdom,25,1,0,0,0
+175947,james mcclean,United_Kingdom,27,1,0,0,0
+24002,james mcfadden,United_Kingdom,33,1,0,0,0
+38807,james milner,United_Kingdom,30,1,0,0,0
+24171,james morrison,United_Kingdom,30,1,0,0,0
+23579,james perch,United_Kingdom,31,1,0,0,0
 164684,james rodriguez,Colombia,25,0,0,0,1
 109897,james tomkins,Essex,27,1,0,0,0
 47564,james troisi,Australia,28,0,0,1,0
-24003,james vaughan,United Kingdom,28,1,0,0,0
-279490,james ward-prowse,United Kingdom,21,1,0,0,0
+24003,james vaughan,United_Kingdom,28,1,0,0,0
+279490,james ward-prowse,United_Kingdom,21,1,0,0,0
 532741,james wilson,Staffordshire,20,1,0,0,0
-24368,jamie ashdown,United Kingdom,35,1,0,0,0
-286119,jamie vardy,United Kingdom,29,1,0,0,0
+24368,jamie ashdown,United_Kingdom,35,1,0,0,0
+286119,jamie vardy,United_Kingdom,29,1,0,0,0
 94666,jan hochscheidt,Germany,28,0,1,0,0
 158879,jan kirchhoff,Germany,25,1,1,0,0
-114650,jan moravek,Czech Republic,26,0,1,0,0
+114650,jan moravek,Czech_Republic,26,0,1,0,0
 177126,jan oblak,Slovenia,23,0,0,0,1
-30949,jan polak,Czech Republic,35,0,1,0,0
-45189,jan rajnoch,Czech Republic,34,0,1,0,0
+30949,jan polak,Czech_Republic,35,0,1,0,0
+45189,jan rajnoch,Czech_Republic,34,0,1,0,0
 27352,jan rosenthal,Germany,30,0,1,0,0
 39840,jan schlaudraff,Germany,33,0,1,0,0
-43211,jan simak,Czech Republic,37,0,1,0,0
+43211,jan simak,Czech_Republic,37,0,1,0,0
 37762,jan vertonghen,Belgium,29,1,0,0,0
 109088,jan washausen,Germany,27,0,1,0,0
 27425,jan-ingwer callsen-bracker,Germany,32,0,1,0,0
 97732,jan-philipp kalla,Germany,30,0,1,0,0
 278823,janek sternberg,Germany,23,0,1,0,0
 205893,jannik vestergaard,Denmark,24,0,1,0,0
-24104,jaroslav drobny,Czech Republic,36,0,1,0,0
+24104,jaroslav drobny,Czech_Republic,36,0,1,0,0
 30907,jaroslav plasil,Czechoslovakia,34,0,0,1,1
-210932,jasmin kurtic,Socialist Federal Republic of Yugoslavia,27,0,0,1,0
-33948,jason brown,United Kingdom,34,1,0,0,0
+210932,jasmin kurtic,Socialist_Federal_Republic_of_Yugoslavia,27,0,0,1,0
+33948,jason brown,United_Kingdom,34,1,0,0,0
 192303,jason davidson,Australia,25,1,0,0,0
-38857,jason euell,United Kingdom,39,1,0,0,0
-24663,jason koumas,United Kingdom,37,1,0,0,0
-241728,jason lowe,United Kingdom,25,1,0,0,0
-35345,jason puncheon,United Kingdom,30,1,0,0,0
-34176,jason roberts,United Kingdom,38,1,0,0,0
-23134,jason shackell,United Kingdom,33,1,0,0,0
+38857,jason euell,United_Kingdom,39,1,0,0,0
+24663,jason koumas,United_Kingdom,37,1,0,0,0
+241728,jason lowe,United_Kingdom,25,1,0,0,0
+35345,jason puncheon,United_Kingdom,30,1,0,0,0
+34176,jason roberts,United_Kingdom,38,1,0,0,0
+23134,jason shackell,United_Kingdom,33,1,0,0,0
 160844,jaume costa,Spain,28,0,0,0,1
 489240,jaume,Spain,25,0,0,0,1
 42369,javad nekounam,Iran,35,0,0,0,1
@@ -1848,12 +1848,12 @@ id,name,country,age,premier,bundes,seriea,spain
 30279,javier venta,Spain,40,0,0,0,1
 30460,javier zanetti,Argentina,43,0,0,1,0
 31011,jawhar mnari,Tunisia,39,0,1,0,0
-35338,jay bothroyd,United Kingdom,34,1,0,0,0
+35338,jay bothroyd,United_Kingdom,34,1,0,0,0
 109491,jay rodriguez,Lancashire,27,1,0,0,0
 95331,jay spearing,England,27,1,0,0,0
-35556,jay tabb,United Kingdom,32,1,0,0,0
+35556,jay tabb,United_Kingdom,32,1,0,0,0
 38254,jean beausejour,Chile,32,1,0,0,0
-25572,jean makoun,Centre Region (Cameroon),33,1,0,0,0
+25572,jean makoun,Centre_Region_(Cameroon),33,1,0,0,0
 41818,jean-francois gillet,Belgium,37,0,0,1,0
 37376,jean-francois kornetzky,France,34,0,1,0,0
 39997,jean-sebastien jaures,France,38,0,1,0,0
@@ -1868,14 +1868,14 @@ id,name,country,age,premier,bundes,seriea,spain
 214570,jeffrey schlupp,Germany,23,1,0,0,0
 301456,jeison murillo,Colombia,24,0,0,1,1
 33620,jelle van damme,Belgium,32,1,0,0,0
-104911,jem karacan,United Kingdom,27,1,0,0,0
+104911,jem karacan,United_Kingdom,27,1,0,0,0
 97746,jens grahl,Germany,28,0,1,0,0
 113340,jens hegeler,Germany,28,0,1,0,0
 36322,jens langeneke,Germany,39,0,1,0,0
 30648,jens lehmann,Germany,46,1,1,0,0
 94164,jens wemmer,Germany,30,0,1,0,0
 212813,jens wissing,Germany,28,0,1,0,0
-245526,jeong-ho hong,South Korea,27,0,1,0,0
+245526,jeong-ho hong,South_Korea,27,0,1,0,0
 42598,jeremain lens,Netherlands,28,1,0,0,0
 24753,jeremie aliadiere,France,33,1,0,0,0
 26403,jeremy mathieu,France,32,0,0,0,1
@@ -1883,14 +1883,14 @@ id,name,country,age,premier,bundes,seriea,spain
 17703,jeremy perbet,France,31,0,0,0,1
 443966,jeremy toljan,Germany,22,0,1,0,0
 39990,jeremy toulalan,France,33,0,0,0,1
-30348,jermain defoe,United Kingdom,33,1,0,0,0
-31989,jermaine beckford,United Kingdom,32,1,0,0,0
-30818,jermaine jenas,United Kingdom,33,1,0,0,0
+30348,jermain defoe,United_Kingdom,33,1,0,0,0
+31989,jermaine beckford,United_Kingdom,32,1,0,0,0
+30818,jermaine jenas,United_Kingdom,33,1,0,0,0
 27483,jermaine jones,Germany,34,1,1,0,0
-34601,jermaine pennant,United Kingdom,33,1,0,0,1
+34601,jermaine pennant,United_Kingdom,33,1,0,0,1
 36183,jerome boateng,Germany,28,1,1,0,0
 335436,jerome gondorf,Germany,28,0,1,0,0
-23954,jerome thomas,United Kingdom,33,1,0,0,0
+23954,jerome thomas,United_Kingdom,33,1,0,0,0
 36622,jerzy dudek,Poland,43,0,0,0,1
 281085,jese rodriguez,Spain,23,0,0,0,1
 33665,jesus capi,Spain,39,0,0,0,1
@@ -1903,16 +1903,16 @@ id,name,country,age,premier,bundes,seriea,spain
 150574,jesus rueda,Spain,29,0,0,0,1
 37448,jesus vazquez,Spain,36,0,0,0,1
 291425,jhon cordoba,Colombia,23,0,1,0,1
-30802,ji-sung park,South Korea,35,1,0,0,0
+30802,ji-sung park,South_Korea,35,1,0,0,0
 36093,jiayi shao,China,36,0,1,0,0
 117432,jiloan hamad,Azerbaijan,25,0,1,0,0
 26330,jimmy briand,France,31,0,1,0,0
 33421,jimmy kebe,France,32,1,0,0,0
-309496,jin-su kim,South Korea,24,0,1,0,0
-43138,jiri bilek,Czech Republic,32,0,1,0,0
-33582,jiri jarosik,Czech Republic,38,0,0,0,1
-30821,jiri stajner,Czech Republic,40,0,1,0,0
-23785,jlloyd samuel,Trinidad and Tobago,35,1,0,0,0
+309496,jin-su kim,South_Korea,24,0,1,0,0
+43138,jiri bilek,Czech_Republic,32,0,1,0,0
+33582,jiri jarosik,Czech_Republic,38,0,0,0,1
+30821,jiri stajner,Czech_Republic,40,0,1,0,0
+23785,jlloyd samuel,Trinidad_and_Tobago,35,1,0,0,0
 40792,jo,Brazil,29,1,0,0,0
 574662,joan jordan,Spain,22,0,0,0,1
 173885,joan oriol,Spain,29,0,0,0,1
@@ -1923,19 +1923,19 @@ id,name,country,age,premier,bundes,seriea,spain
 319631,joaquin correa,Argentina,22,0,0,1,0
 96509,joaquin larrivey,Argentina,32,0,0,1,1
 37824,joaquin,Spain,35,0,0,1,1
-23334,jody craddock,United Kingdom,41,1,0,0,0
-30630,joe cole,United Kingdom,34,1,0,0,0
-242094,joel campbell,Costa Rica,24,1,0,0,1
+23334,jody craddock,United_Kingdom,41,1,0,0,0
+30630,joe cole,United_Kingdom,34,1,0,0,0
+242094,joel campbell,Costa_Rica,24,1,0,0,1
 154246,joel chukwuma obi,Nigeria,25,0,0,1,0
 114337,joel ekstrand,Sweden,27,0,0,1,0
 42331,joel epalle,Cameroon,38,0,1,0,0
 553598,joel gerezgiher,Germany,20,0,1,0,0
 171698,joel matip,Germany,25,0,1,0,0
 186054,joel robles,Spain,26,1,0,0,1
-146830,joel ward,United Kingdom,26,1,0,0,0
+146830,joel ward,United_Kingdom,26,1,0,0,0
 195581,joel,Spain,24,0,0,0,1
 52490,joffre david guerron,Ecuador,31,0,0,0,1
-30986,johan djourou,Ivory Coast,29,1,1,0,0
+30986,johan djourou,Ivory_Coast,29,1,1,0,0
 34261,johan elmander,Sweden,35,1,0,0,0
 474673,johan mojica,Colombia,24,0,0,0,1
 37087,johannes flum,Germany,28,0,1,0,0
@@ -1947,10 +1947,10 @@ id,name,country,age,premier,bundes,seriea,spain
 130298,john guidetti,Sweden,24,0,0,0,1
 30885,john mensah,Ghana,33,1,0,0,0
 40602,john ruddy,England,29,1,0,0,0
-263653,john stones,United Kingdom,22,1,0,0,0
-30627,john terry,United Kingdom,35,1,0,0,0
-25543,john utaka,United Kingdom,34,1,0,0,0
-33086,joleon lescott,United Kingdom,34,1,0,0,0
+263653,john stones,United_Kingdom,22,1,0,0,0
+30627,john terry,United_Kingdom,35,1,0,0,0
+25543,john utaka,United_Kingdom,34,1,0,0,0
+33086,joleon lescott,United_Kingdom,34,1,0,0,0
 191136,jon aurtenetxe,Spain,24,0,0,0,1
 36841,jonas de roeck,Spain,36,0,1,0,0
 33852,jonas gutierrez,Argentina,33,1,0,0,1
@@ -1966,15 +1966,15 @@ id,name,country,age,premier,bundes,seriea,spain
 24123,jonathan de guzman,Canada,29,1,0,1,1
 189101,jonathan dos santos,Mexico,26,0,0,0,1
 469700,jonathan glao tah,Germany,20,0,1,0,0
-24664,jonathan greening,United Kingdom,37,1,0,0,0
-189074,jonathan hogg,United Kingdom,27,1,0,0,0
-46354,jonathan howson,United Kingdom,28,1,0,0,0
+24664,jonathan greening,United_Kingdom,37,1,0,0,0
+189074,jonathan hogg,United_Kingdom,27,1,0,0,0
+46354,jonathan howson,United_Kingdom,28,1,0,0,0
 25730,jonathan jager,France,38,0,1,0,0
-682552,jonathan leko,The Democratic Republic Of Congo,17,1,0,0,0
+682552,jonathan leko,The_Democratic_Republic_Of_Congo,17,1,0,0,0
 101920,jonathan lopez,Spain,35,0,0,0,1
 25830,jonathan parr,Norway,27,1,0,0,0
 150644,jonathan pereira,Spain,29,0,0,0,1
-38216,jonathan pitroipa,Burkina Faso,30,0,1,0,0
+38216,jonathan pitroipa,Burkina_Faso,30,0,1,0,0
 495107,jonathan rodriguez,Uruguay,23,0,0,0,1
 96645,jonathan rossini,Switzerland,27,0,0,1,0
 38606,jonathan santana,Argentina,34,0,1,0,0
@@ -1983,21 +1983,21 @@ id,name,country,age,premier,bundes,seriea,spain
 37871,jonathan soriano,Spain,31,0,0,0,1
 213729,jonathan viera,Spain,26,0,0,0,1
 41568,jonathan vila,Spain,30,0,0,0,1
-33881,jonathan walters,United Kingdom,33,1,0,0,0
-38697,jonathan woodgate,United Kingdom,36,1,0,0,0
+33881,jonathan walters,United_Kingdom,33,1,0,0,0
+38697,jonathan woodgate,United_Kingdom,36,1,0,0,0
 32574,jonathan zebina,France,38,0,0,1,0
-280483,jonathan zongo,Burkina Faso,23,0,0,0,1
+280483,jonathan zongo,Burkina_Faso,23,0,0,0,1
 19352,jonathan,Spain,30,0,0,1,0
 128732,jonathas,Brazil,27,0,0,1,1
-127130,jonjo shelvey,United Kingdom,24,1,0,0,0
-130667,joo-ho park,South Korea,29,0,1,0,0
+127130,jonjo shelvey,United_Kingdom,24,1,0,0,0
+130667,joo-ho park,South_Korea,29,0,1,0,0
 473853,jordan amavi,France,22,1,0,0,0
 154280,jordan ayew,France,25,1,0,0,0
-149895,jordan bowery,United Kingdom,25,1,0,0,0
-156008,jordan henderson,United Kingdom,26,1,0,0,0
+149895,jordan bowery,United_Kingdom,25,1,0,0,0
+156008,jordan henderson,United_Kingdom,26,1,0,0,0
 17875,jordan loties,France,32,0,0,0,1
-303919,jordan pickford,United Kingdom,22,1,0,0,0
-148904,jordan spence,United Kingdom,26,1,0,0,0
+303919,jordan pickford,United_Kingdom,22,1,0,0,0
+148904,jordan spence,United_Kingdom,26,1,0,0,0
 261313,jordan veretout,France,23,1,0,0,0
 150739,jordi alba,Spain,27,0,0,0,1
 193223,jordi amat,Spain,24,1,0,0,1
@@ -2006,7 +2006,7 @@ id,name,country,age,premier,bundes,seriea,spain
 172147,jordi figueras,Spain,29,0,0,0,1
 118929,jordi gomez,Spain,31,1,0,0,0
 213684,jordi masip,Spain,27,0,0,0,1
-280653,jordon ibe,United Kingdom,20,1,0,0,0
+280653,jordon ibe,United_Kingdom,20,1,0,0,0
 149917,jordon mutch,England,24,1,0,0,0
 209384,jordy clasie,Netherlands,25,1,0,0,0
 183321,jorge garcia morcillo,Spain,30,0,0,0,1
@@ -2025,8 +2025,8 @@ id,name,country,age,premier,bundes,seriea,spain
 213816,jose angel,Spain,27,0,0,0,1
 38065,jose antonio garcia calvo,Spain,41,0,0,0,1
 38821,jose antonio reyes,Spain,33,0,0,0,1
-148790,jose baxter,United Kingdom,24,1,0,0,0
-25925,jose bosingwa,Democratic Republic of the Congo,34,1,0,0,0
+148790,jose baxter,United_Kingdom,24,1,0,0,0
+25925,jose bosingwa,Democratic_Republic_of_the_Congo,34,1,0,0,0
 165607,jose carlos,Spain,29,0,0,0,1
 445908,jose caro,Spain,23,0,0,0,1
 150737,jose catala,Spain,31,0,0,0,1
@@ -2064,20 +2064,20 @@ id,name,country,age,premier,bundes,seriea,spain
 485141,joseba zaldua,Spain,24,0,0,0,1
 239287,josef martinez,Venezuela,23,0,0,1,0
 38440,joseph akpala,Nigeria,30,0,1,0,0
-156007,joseph bennett,United Kingdom,26,1,0,0,0
-568571,joseph gomez,United Kingdom,19,1,0,0,0
+156007,joseph bennett,United_Kingdom,26,1,0,0,0
+568571,joseph gomez,United_Kingdom,19,1,0,0,0
 24004,joseph yobo,Nigeria,36,1,0,0,0
-29672,josh walker,United Kingdom,27,1,0,0,0
+29672,josh walker,United_Kingdom,27,1,0,0,0
 239774,joshua brillante,Australia,23,0,0,1,0
 32788,joshua kennedy,Australia,34,0,1,0,0
 460632,joshua kimmich,Germany,21,0,1,0,0
 185236,joshua king,Norway,24,1,0,0,0
-215226,joshua mceachran,United Kingdom,23,1,0,0,0
+215226,joshua mceachran,United_Kingdom,23,1,0,0,0
 194533,josip drmic,Switzerland,24,0,1,0,0
 655544,josip posavec,Croatia,20,0,0,1,0
 298940,josip radosevic,Croatia,22,0,0,0,1
 30693,josip simunic,Australia,38,0,1,0,0
-19511,josue,Costa Rica,37,0,1,0,0
+19511,josue,Costa_Rica,37,0,1,0,0
 427893,jozabed,Spain,25,0,0,0,1
 140988,jozsef varga,Hungary,28,0,1,0,0
 37469,juan albin,Uruguay,30,0,0,0,1
@@ -2127,25 +2127,25 @@ id,name,country,age,premier,bundes,seriea,spain
 163843,julio cesar,Brazil,30,0,0,0,1
 30989,julio cesar,Brazil,37,1,0,1,0
 39401,julio sergio,Brazil,37,0,0,1,0
-420720,jung-bin park,South Korea,22,0,1,0,0
+420720,jung-bin park,South_Korea,22,0,1,0,0
 38863,junichi inamoto,Japan,37,0,1,0,0
-51841,junior diaz,Costa Rica,33,0,1,0,0
+51841,junior diaz,Costa_Rica,33,0,1,0,0
 40757,junior santos mozart,Brazil,35,0,0,1,0
-160496,junior stanislas,United Kingdom,26,1,0,0,0
+160496,junior stanislas,United_Kingdom,26,1,0,0,0
 19908,junmin hao,China,29,0,1,0,0
 72518,juraj kucka,Czechoslovakia,29,0,0,1,0
 23144,jurgen colin,Netherlands,35,0,0,0,1
 118713,jurgen prutsch,Austria,27,0,0,1,0
 38178,juri judt,Kazakhstan,30,0,1,0,0
 30697,jurica vranjes,Croatia,36,0,1,0,0
-33754,justin hoyte,United Kingdom,31,1,0,0,0
+33754,justin hoyte,United_Kingdom,31,1,0,0,0
 30990,justo villar,Paraguay,39,0,0,0,1
 441164,kaan ayhan,Germany,21,0,1,0,0
-112035,kagisho dikgacoi,South Africa,31,1,0,0,0
+112035,kagisho dikgacoi,South_Africa,31,1,0,0,0
 29316,kai herdling,Germany,32,0,1,0,0
 41044,kaka,Italy,34,0,0,1,1
 45352,kaka,Italy,35,0,1,0,1
-26098,kakha kaladze,Soviet Union,38,0,0,1,0
+26098,kakha kaladze,Soviet_Union,38,0,0,1,0
 210428,kalidou koulibaly,France,25,0,0,1,0
 43329,kalu uche,Nigeria,33,0,0,0,1
 97489,kamel ghilas,France,32,1,0,0,0
@@ -2163,17 +2163,17 @@ id,name,country,age,premier,bundes,seriea,spain
 29257,karim matmour,France,31,0,1,0,0
 282286,karim rekik,Netherlands,21,1,0,0,0
 33464,karim ziani,France,34,0,1,0,0
-35466,karl henry,United Kingdom,33,1,0,0,0
+35466,karl henry,United_Kingdom,33,1,0,0,0
 28308,kaspars gorkss,Latvia,34,1,0,0,0
 37770,kasper schmeichel,Denmark,29,1,0,0,0
-69675,kei ansu kamara,Sierra Leone,32,1,0,0,0
+69675,kei ansu kamara,Sierra_Leone,32,1,0,0,0
 170599,keirrison,Brazil,27,0,0,1,0
-38711,keith andrews,Republic of Ireland,36,1,0,0,0
-77704,keith fahey,Republic of Ireland,33,1,0,0,0
-23736,keith southern,United Kingdom,35,1,0,0,0
-78507,keith treacy,Republic of Ireland,28,1,0,0,0
+38711,keith andrews,Republic_of_Ireland,36,1,0,0,0
+77704,keith fahey,Republic_of_Ireland,33,1,0,0,0
+23736,keith southern,United_Kingdom,35,1,0,0,0
+78507,keith treacy,Republic_of_Ireland,28,1,0,0,0
 643709,kelechi iheanacho,Nigeria,19,1,0,0,0
-35496,kelvin davis,United Kingdom,39,1,0,0,0
+35496,kelvin davis,United_Kingdom,39,1,0,0,0
 47413,kelvin etuhu,Nigeria,28,1,0,0,0
 27149,ken reichel,Germany,29,0,1,0,0
 469763,kenan karaman,Germany,22,0,1,0,0
@@ -2182,26 +2182,26 @@ id,name,country,age,premier,bundes,seriea,spain
 30988,kenwyne jones,Trinidad,31,1,0,0,0
 281936,kerim frei koyunlu,Austria,22,1,0,0,0
 26522,kevin constant,France,29,0,0,1,0
-23934,kevin davies,United Kingdom,39,1,0,0,0
+23934,kevin davies,United_Kingdom,39,1,0,0,0
 169200,kevin de bruyne,Belgium,25,1,1,0,0
-23291,kevin doyle,Republic of Ireland,33,1,0,0,0
-23099,kevin foley,United Kingdom,31,1,0,0,0
+23291,kevin doyle,Republic_of_Ireland,33,1,0,0,0
+23099,kevin foley,United_Kingdom,31,1,0,0,0
 26392,kevin gameiro,France,29,0,0,0,1
 215405,kevin garcia,Spain,27,0,0,0,1
 185175,kevin kampl,Germany,25,0,1,0,0
-38816,kevin kilbane,United Kingdom,39,1,0,0,0
+38816,kevin kilbane,United_Kingdom,39,1,0,0,0
 36293,kevin kratz,Germany,29,0,1,0,0
 239559,kevin kraus,Germany,24,0,1,0,0
 30249,kevin kuranyi,Brazil,34,0,1,0,0
 299886,kevin lasagna,Italy,24,0,0,1,0
 350472,kevin mbabu,Switzerland,21,1,0,0,0
-28109,kevin mcdonald,United Kingdom,27,1,0,0,0
+28109,kevin mcdonald,United_Kingdom,27,1,0,0,0
 39810,kevin mckenna,Canada,36,0,1,0,0
-31963,kevin mcnaughton,United Kingdom,34,1,0,0,0
+31963,kevin mcnaughton,United_Kingdom,34,1,0,0,0
 26151,kevin mirallas,Belgium,28,1,0,0,0
 114492,kevin pezzoni,Germany,27,0,1,0,0
 37552,kevin phillips,Hertfordshire,43,1,0,0,0
-289817,kevin stewart,United Kingdom,23,1,0,0,0
+289817,kevin stewart,United_Kingdom,23,1,0,0,0
 114558,kevin strootman,Netherlands,26,0,0,1,0
 159882,kevin theophile-catherine,France,26,1,0,0,0
 145550,kevin trapp,Germany,26,0,1,0,0
@@ -2209,21 +2209,21 @@ id,name,country,age,premier,bundes,seriea,spain
 212893,kevin volland,Germany,24,0,1,0,0
 264221,kevin wimmer,Austria,23,1,1,0,0
 27335,kevin-prince boateng,Germany,29,1,1,1,0
-51949,keylor navas,Costa Rica,29,0,0,0,1
+51949,keylor navas,Costa_Rica,29,0,0,0,1
 37401,khalid boulahrouz,Netherlands,34,0,1,0,0
 184629,khouma babacar,Senegal,23,0,0,1,1
-34248,ki-hyeon seol,South Korea,37,1,0,0,0
-78513,kieran gibbs,United Kingdom,27,1,0,0,0
-30352,kieran richardson,United Kingdom,31,1,0,0,0
-191869,kieran trippier,United Kingdom,26,1,0,0,0
-30353,kieron dyer,United Kingdom,37,1,0,0,0
+34248,ki-hyeon seol,South_Korea,37,1,0,0,0
+78513,kieran gibbs,United_Kingdom,27,1,0,0,0
+30352,kieran richardson,United_Kingdom,31,1,0,0,0
+191869,kieran trippier,United_Kingdom,26,1,0,0,0
+30353,kieron dyer,United_Kingdom,37,1,0,0,0
 429265,kingsley coman,France,20,0,1,1,0
 20196,kisho yano,Japan,32,0,1,0,0
 36784,klaas jan huntelaar,Netherlands,33,0,1,1,1
 206182,knowledge musona,Zimbabwe,26,0,1,0,0
 170322,koen casteels,Belgium,24,0,1,0,0
 96617,koikili campo,Spain,35,0,0,0,1
-30831,kolo toure,Ivory Coast,35,1,0,0,0
+30831,kolo toure,Ivory_Coast,35,1,0,0,0
 11242,konstantin engel,Kazakhstan,28,0,1,0,0
 115670,konstantin rausch,Russia,26,0,1,0,0
 209430,konstantinos fortounis,Greece,23,0,1,0,0
@@ -2236,11 +2236,11 @@ id,name,country,age,premier,bundes,seriea,spain
 26044,krisztian vadocz,Hungary,31,0,0,0,1
 281207,kurt zouma,France,21,1,0,0,0
 111862,kwadwo asamoah,Ghana,27,0,0,1,0
-165704,kyle bartley,United Kingdom,25,1,0,0,0
-111800,kyle naughton,United Kingdom,27,1,0,0,0
-159833,kyle walker,United Kingdom,26,1,0,0,0
+165704,kyle bartley,United_Kingdom,25,1,0,0,0
+111800,kyle naughton,United_Kingdom,27,1,0,0,0
+159833,kyle walker,United_Kingdom,26,1,0,0,0
 101501,kyriakos papadopoulos,Greece,24,0,1,0,0
-30700,landon donovan,United States,34,1,0,0,0
+30700,landon donovan,United_States,34,1,0,0,0
 37373,lars bender,Germany,27,0,1,0,0
 26256,lars jacobsen,Denmark,37,1,0,0,0
 94916,lars stindl,Germany,28,0,1,0,0
@@ -2259,26 +2259,26 @@ id,name,country,age,premier,bundes,seriea,spain
 237606,leandro daniel paredes,Argentina,22,0,0,1,0
 41329,leandro greco,Italy,30,0,0,1,0
 39569,leandro rinaudo,Italy,33,0,0,1,0
-30354,ledley king,United Kingdom,35,1,0,0,0
-33049,lee bowyer,United Kingdom,39,1,0,0,0
-40581,lee camp,United Kingdom,32,1,0,0,0
-24005,lee carsley,United Kingdom,42,1,0,0,0
-25150,lee cattermole,United Kingdom,28,1,0,0,0
-37150,lee martin,United Kingdom,29,1,0,0,0
-22045,lee tomlin,United Kingdom,27,1,0,0,0
-24846,leighton baines,United Kingdom,31,1,0,0,0
+30354,ledley king,United_Kingdom,35,1,0,0,0
+33049,lee bowyer,United_Kingdom,39,1,0,0,0
+40581,lee camp,United_Kingdom,32,1,0,0,0
+24005,lee carsley,United_Kingdom,42,1,0,0,0
+25150,lee cattermole,United_Kingdom,28,1,0,0,0
+37150,lee martin,United_Kingdom,29,1,0,0,0
+22045,lee tomlin,United_Kingdom,27,1,0,0,0
+24846,leighton baines,United_Kingdom,31,1,0,0,0
 193952,lennard sowah,Germany,24,1,0,0,0
 141814,lennart hartmann,Germany,25,0,1,0,0
 196489,lennart thy,Germany,24,0,1,0,0
 358127,leo baptistao,Brazil,24,0,0,0,1
-147726,leon balogun,West Germany,28,0,1,0,0
-23115,leon barnett,United Kingdom,30,1,0,0,0
-35454,leon best,United Kingdom,30,1,0,0,0
-34214,leon cort,United Kingdom,37,1,0,0,0
+147726,leon balogun,West_Germany,28,0,1,0,0
+23115,leon barnett,United_Kingdom,30,1,0,0,0
+35454,leon best,United_Kingdom,30,1,0,0,0
+34214,leon cort,United_Kingdom,37,1,0,0,0
 343748,leon goretzka,Germany,21,0,1,0,0
 35125,leon jessen,Denmark,30,0,1,0,0
-24006,leon osman,United Kingdom,35,1,0,0,0
-139822,leonard kweuke,Centre Region (Cameroon),29,0,1,0,0
+24006,leon osman,United_Kingdom,35,1,0,0,0
+139822,leonard kweuke,Centre_Region_(Cameroon),29,0,1,0,0
 260470,leonardo bittencourt,Germany,22,0,1,0,0
 181997,leonardo blanchard,Italy,28,0,0,1,0
 24235,leonardo bonucci,Italy,29,0,0,1,0
@@ -2289,23 +2289,23 @@ id,name,country,age,premier,bundes,seriea,spain
 30534,leonardo ponzio,Argentina,34,0,0,0,1
 182138,leonel galeano,Argentina,25,0,0,0,1
 109638,leroy fer,Netherlands,26,1,0,0,0
-23286,leroy lita,The Democratic Republic Of Congo,31,1,0,0,0
+23286,leroy lita,The_Democratic_Republic_Of_Congo,31,1,0,0,0
 530859,leroy sane,Germany,20,0,1,0,0
 98997,levan kenia,Georgia,25,0,1,0,0
 27307,levan kobiashvili,Georgia,39,0,1,0,0
 104434,levan mchedlidze,Georgia,26,0,0,1,0
 359202,levent aycicek,Germany,22,0,1,0,0
 292454,levy madinda,Gabon,24,0,0,0,1
-37779,lewis grabban,United Kingdom,28,1,0,0,0
+37779,lewis grabban,United_Kingdom,28,1,0,0,0
 128827,lewis holtby,Germany,26,1,1,0,0
-150591,liam cooper,United Kingdom,25,1,0,0,0
-24435,liam lawrence,United Kingdom,34,1,0,0,0
-38812,liam miller,Ireland cricket team,35,1,0,0,0
-210804,liam moore,United Kingdom,23,1,0,0,0
-23787,liam ridgewell,United Kingdom,32,1,0,0,0
-24105,liam rosenior,United Kingdom,32,1,0,0,0
+150591,liam cooper,United_Kingdom,25,1,0,0,0
+24435,liam lawrence,United_Kingdom,34,1,0,0,0
+38812,liam miller,Ireland_cricket_team,35,1,0,0,0
+210804,liam moore,United_Kingdom,23,1,0,0,0
+23787,liam ridgewell,United_Kingdom,32,1,0,0,0
+24105,liam rosenior,United_Kingdom,32,1,0,0,0
 241997,liassine cadamuro,France,28,0,0,0,1
-150401,libor kozak,Czech Republic,27,1,0,1,0
+150401,libor kozak,Czech_Republic,27,1,0,1,0
 96838,lica,Italy,28,0,0,0,1
 71903,linus hallenius,Sweden,27,0,0,1,0
 30981,lionel messi,Argentina,29,0,0,0,1
@@ -2329,7 +2329,7 @@ id,name,country,age,premier,bundes,seriea,spain
 26171,lorik cana,Kosovo,33,1,0,1,0
 287894,loris karius,Germany,23,0,1,0,0
 30735,louis saha,France,38,1,0,1,0
-42312,loukas vyntra,Czech Republic,35,0,0,0,1
+42312,loukas vyntra,Czech_Republic,35,0,0,0,1
 189237,luc castaignos,Netherlands,24,0,1,1,0
 41948,luca anania,Italy,36,0,0,1,0
 293205,luca antei,Italy,24,0,0,1,0
@@ -2403,18 +2403,18 @@ id,name,country,age,premier,bundes,seriea,spain
 31097,luka modric,Croatia,31,1,0,0,1
 176831,lukas hinterseer,Austria,25,0,1,0,0
 22832,lukas jarolim,Czechoslovakia,40,0,0,1,0
-27568,lukas jutkiewicz,United Kingdom,27,1,0,0,0
+27568,lukas jutkiewicz,United_Kingdom,27,1,0,0,0
 37335,lukas kruse,Germany,33,0,1,0,0
 32118,lukas podolski,Poland,31,1,1,1,0
 355347,lukas raeder,Germany,22,0,1,0,0
 182892,lukas rupp,Germany,25,0,1,0,0
 184645,lukas schmitz,Germany,27,0,1,0,0
 30253,lukas sinkiewicz,Poland,30,0,1,0,0
-191132,luke garbutt,United Kingdom,23,1,0,0,0
-23788,luke moore,United Kingdom,30,1,0,0,0
-362694,luke shaw,United Kingdom,21,1,0,0,0
-22959,luke varney,United Kingdom,34,1,0,0,0
-30357,luke young,United Kingdom,37,1,0,0,0
+191132,luke garbutt,United_Kingdom,23,1,0,0,0
+23788,luke moore,United_Kingdom,30,1,0,0,0
+362694,luke shaw,United_Kingdom,21,1,0,0,0
+22959,luke varney,United_Kingdom,34,1,0,0,0
+30357,luke young,United_Kingdom,37,1,0,0,0
 213714,luso,Italy,31,0,0,0,1
 150201,luuk de jong,Switzerland,26,1,1,0,0
 30841,maarten stekelenburg,Netherlands,34,1,0,1,0
@@ -2426,7 +2426,7 @@ id,name,country,age,premier,bundes,seriea,spain
 23813,maik taylor,Germany,45,1,0,0,0
 30530,makoto hasebe,Japan,32,0,1,0,0
 94328,mamadou bah,Guinea,28,0,1,0,0
-292771,mamadou kone,Ivory Coast,24,0,0,0,1
+292771,mamadou kone,Ivory_Coast,24,0,0,0,1
 94043,mamadou sakho,France,26,1,0,0,0
 629579,mamadou sylla,Senegal,22,0,0,0,1
 23314,mamady sidibe,Mali,36,1,0,0,0
@@ -2456,28 +2456,28 @@ id,name,country,age,premier,bundes,seriea,spain
 27299,manuel neuer,Germany,30,0,1,0,0
 295200,manuel onwu,Spain,28,0,0,0,1
 33756,manuel pablo,Spain,40,0,0,0,1
-103882,manuel pamic,Socialist Federal Republic of Yugoslavia,30,0,0,1,0
+103882,manuel pamic,Socialist_Federal_Republic_of_Yugoslavia,30,0,0,1,0
 24536,manuel pasqual,Italy,34,0,0,1,0
 282723,manuel pucciarelli,Italy,25,0,0,1,0
 36343,manuel salz,Germany,31,0,1,0,0
 268282,manuel trigueros,Spain,24,0,0,0,1
 38471,manuel victor,Spain,42,0,0,0,1
 41887,manuele blasi,Italy,36,0,0,1,0
-93985,mapou yanga-mbiwa,Central African Republic,27,1,0,1,0
-139671,marc albrighton,United Kingdom,26,1,0,0,0
+93985,mapou yanga-mbiwa,Central_African_Republic,27,1,0,1,0
+139671,marc albrighton,United_Kingdom,26,1,0,0,0
 195305,marc bartra,Spain,25,0,0,0,1
 21450,marc bertran,Spain,34,0,0,0,1
 173382,marc muniesa,Spain,24,1,0,0,0
 27607,marc pfertzel,France,35,0,1,0,0
 109087,marc pfitzner,Germany,32,0,1,0,0
-24381,marc pugh,United Kingdom,29,1,0,0,0
+24381,marc pugh,United_Kingdom,29,1,0,0,0
 37332,marc stein,Germany,31,0,1,0,0
 355357,marc stendera,Germany,20,0,1,0,0
-23727,marc tierney,United Kingdom,31,1,0,0,0
+23727,marc tierney,United_Kingdom,31,1,0,0,0
 37879,marc torrejon moya,Spain,30,0,1,0,1
 41166,marc valiente,Spain,29,0,0,0,1
 164494,marc vucinovic,Germany,28,0,1,0,0
-47418,marc wilson,United Kingdom,29,1,0,0,0
+47418,marc wilson,United_Kingdom,29,1,0,0,0
 36054,marc ziegler,Germany,40,0,1,0,0
 184554,marc-andre ter stegen,Germany,24,0,1,0,1
 26494,marc-antoine fortune,France,35,1,0,0,0
@@ -2574,7 +2574,7 @@ id,name,country,age,premier,bundes,seriea,spain
 37427,mario alvarez,Spain,34,0,0,0,1
 108808,mario balotelli,Italy,26,1,0,1,0
 102619,mario bermejo,Spain,37,0,0,0,1
-33082,mario cvitanovic,Socialist Federal Republic of Yugoslavia,41,0,1,0,0
+33082,mario cvitanovic,Socialist_Federal_Republic_of_Yugoslavia,41,0,1,0,0
 37380,mario eggimann,Switzerland,35,0,1,0,0
 97865,mario fernandez cuesta,Spain,28,0,0,0,1
 39559,mario frick,Switzerland,42,0,0,1,0
@@ -2597,21 +2597,21 @@ id,name,country,age,premier,bundes,seriea,spain
 41667,marius stankevicius,Lithuania,35,0,1,1,1
 5440,marjan petkovic,Germany,37,0,1,0,0
 34540,mark bresciano,Australia,36,0,0,1,0
-200864,mark cullen,United Kingdom,24,1,0,0,0
-155384,mark davies,United Kingdom,28,1,0,0,0
-34233,mark gonzalez,South Africa,32,0,0,0,1
-23849,mark gower,United Kingdom,37,1,0,0,0
-22988,mark hudson,United Kingdom,34,1,0,0,0
-37169,mark noble,United Kingdom,29,1,0,0,0
+200864,mark cullen,United_Kingdom,24,1,0,0,0
+155384,mark davies,United_Kingdom,28,1,0,0,0
+34233,mark gonzalez,South_Africa,32,0,0,0,1
+23849,mark gower,United_Kingdom,37,1,0,0,0
+22988,mark hudson,United_Kingdom,34,1,0,0,0
+37169,mark noble,United_Kingdom,29,1,0,0,0
 30633,mark schwarzer,Australia,43,1,0,0,0
 212819,mark uth,Germany,25,0,1,0,0
 30623,mark viduka,Australia,40,1,0,0,0
 102622,markel bergara,Spain,30,0,0,0,1
 110148,marko arnautovic,Austria,27,1,1,0,0
 30698,marko babic,Croatia,35,0,1,0,1
-358759,marko bakic,Serbia and Montenegro,22,0,0,1,0
+358759,marko bakic,Serbia_and_Montenegro,22,0,0,1,0
 206242,marko livaja,Croatia,23,0,0,1,0
-71353,marko marin,Bosnia and Herzegovina,27,1,1,0,1
+71353,marko marin,Bosnia_and_Herzegovina,27,1,1,0,1
 36788,marko pantelic,Serbia,38,0,1,0,0
 36056,markus bollmann,Germany,35,0,1,0,0
 36035,markus feulner,Germany,34,0,1,0,0
@@ -2621,8 +2621,8 @@ id,name,country,age,premier,bundes,seriea,spain
 27460,markus schuler,Germany,39,0,1,0,0
 45254,markus suttner,Austria,29,0,1,0,0
 37359,markus thorandt,Germany,35,0,1,0,0
-24772,marlon harewood,United Kingdom,37,1,0,0,0
-23352,marlon king,United Kingdom,36,1,0,0,0
+24772,marlon harewood,United_Kingdom,37,1,0,0,0
+23352,marlon king,United_Kingdom,36,1,0,0,0
 571379,marnon-thomas busch,Germany,21,0,1,0,0
 25537,marouane chamakh,France,32,1,0,0,0
 39618,marouane fellaini,Belgium,28,1,0,0,0
@@ -2635,25 +2635,25 @@ id,name,country,age,premier,bundes,seriea,spain
 26784,martin bergvold,Denmark,32,0,0,1,0
 96616,martin caceres,Uruguay,29,0,0,1,1
 30459,martin demichelis,Argentina,35,1,1,0,1
-69864,martin fenin,Czech Republic,29,0,1,0,0
+69864,martin fenin,Czech_Republic,29,0,1,0,0
 27234,martin harnik,Germany,29,0,1,0,0
-30715,martin jiranek,Czech Republic,37,1,0,0,0
-154271,martin kelly,United Kingdom,26,1,0,0,0
+30715,martin jiranek,Czech_Republic,37,1,0,0,0
+154271,martin kelly,United_Kingdom,26,1,0,0,0
 275328,martin kobylanski,Germany,22,0,1,0,0
 38188,martin lanig,Germany,32,0,1,0,0
-25644,martin latka,Czech Republic,32,0,1,0,0
+25644,martin latka,Czech_Republic,32,0,1,0,0
 43280,martin laursen,Denmark,39,1,0,0,0
 213688,martin montoya,Spain,25,0,0,1,1
 25667,martin olsson,Sweden,28,1,0,0,0
-23370,martin paterson,United Kingdom,29,1,0,0,0
+23370,martin paterson,United_Kingdom,29,1,0,0,0
 33633,martin petrov,Bulgaria,37,1,0,0,0
 22764,martin skrtel,Slovakia,31,1,0,0,0
 37383,martin stoll,Germany,33,0,1,0,0
 40735,martin stranzl,Austria,36,0,1,0,0
 24527,marton fulop,Hungary,33,1,0,0,0
-109434,martyn waghorn,United Kingdom,26,1,0,0,0
+109434,martyn waghorn,United_Kingdom,26,1,0,0,0
 269666,marvin bakalorz,Germany,27,0,1,0,0
-27411,marvin compper,West Germany,31,0,1,1,0
+27411,marvin compper,West_Germany,31,0,1,1,0
 343757,marvin ducksch,Germany,22,0,1,0,0
 28108,marvin emnes,Netherlands,28,1,0,0,0
 530858,marvin friedrich,Germany,20,0,1,0,0
@@ -2679,10 +2679,10 @@ id,name,country,age,premier,bundes,seriea,spain
 41458,massimo zenildo zappino,Brazil,35,0,0,1,0
 34582,mate bilic,Croatia,35,0,0,0,1
 11049,matej krajcik,Czechoslovakia,38,0,0,1,0
-196308,matej vydra,Czech Republic,24,1,0,0,0
+196308,matej vydra,Czech_Republic,24,1,0,0,0
 239219,mateo kovacic,Austria,22,0,0,1,1
 113672,mateo pablo musacchio,Argentina,26,0,0,0,1
-159452,mateo pavlovic,Bosnia and Herzegovina,26,0,1,0,0
+159452,mateo pavlovic,Bosnia_and_Herzegovina,26,0,1,0,0
 320686,matheus doria,Brazil,21,0,0,0,1
 185644,mathew ryan,Australia,24,0,0,0,1
 198400,mathias abero,Uruguay,26,0,0,1,0
@@ -2705,11 +2705,11 @@ id,name,country,age,premier,bundes,seriea,spain
 213485,matija nastasic,Serbia,23,1,1,1,0
 282060,matos,Brazil,23,0,0,1,1
 36388,mats hummels,Germany,27,0,1,0,0
-23170,matt derbyshire,United Kingdom,30,1,0,0,0
-23027,matt duke,United Kingdom,39,1,0,0,0
-23538,matt jarvis,United Kingdom,30,1,0,0,0
-155913,matt ritchie,United Kingdom,27,1,0,0,0
-538112,matt targett,United Kingdom,21,1,0,0,0
+23170,matt derbyshire,United_Kingdom,30,1,0,0,0
+23027,matt duke,United_Kingdom,39,1,0,0,0
+23538,matt jarvis,United_Kingdom,30,1,0,0,0
+155913,matt ritchie,United_Kingdom,27,1,0,0,0
+538112,matt targett,United_Kingdom,21,1,0,0,0
 279820,matteo bianchetti,Italy,23,0,0,1,0
 39376,matteo brighi,Italy,35,0,0,1,0
 42005,matteo centurioni,Italy,42,0,0,1,0
@@ -2723,18 +2723,18 @@ id,name,country,age,premier,bundes,seriea,spain
 415113,matteo mancosu,Italy,31,0,0,1,0
 73845,matteo rubin,Italy,29,0,0,1,0
 39323,matteo sereni,Italy,41,0,0,1,0
-24183,matthew bates,United Kingdom,29,1,0,0,0
-78511,matthew briggs,United Kingdom,25,1,0,0,0
-23732,matthew connolly,United Kingdom,29,1,0,0,0
-24773,matthew etherington,United Kingdom,35,1,0,0,0
-24694,matthew gilks,United Kingdom,34,1,0,0,0
-23193,matthew hill,United Kingdom,35,1,0,0,0
-173408,matthew james,United Kingdom,25,1,0,0,0
-183715,matthew lowton,United Kingdom,27,1,0,0,0
-127133,matthew phillips,United Kingdom,25,1,0,0,0
+24183,matthew bates,United_Kingdom,29,1,0,0,0
+78511,matthew briggs,United_Kingdom,25,1,0,0,0
+23732,matthew connolly,United_Kingdom,29,1,0,0,0
+24773,matthew etherington,United_Kingdom,35,1,0,0,0
+24694,matthew gilks,United_Kingdom,34,1,0,0,0
+23193,matthew hill,United_Kingdom,35,1,0,0,0
+173408,matthew james,United_Kingdom,25,1,0,0,0
+183715,matthew lowton,United_Kingdom,27,1,0,0,0
+127133,matthew phillips,United_Kingdom,25,1,0,0,0
 49585,matthew spiranovic,Australia,28,0,1,0,0
-24372,matthew taylor,United Kingdom,34,1,0,0,0
-23818,matthew upson,United Kingdom,37,1,0,0,0
+24372,matthew taylor,United_Kingdom,34,1,0,0,0
+23818,matthew upson,United_Kingdom,37,1,0,0,0
 303912,matthias ginter,Germany,22,0,1,0,0
 27521,matthias henn,Germany,31,0,1,0,0
 59582,matthias jaissle,Germany,28,0,1,0,0
@@ -2769,7 +2769,7 @@ id,name,country,age,premier,bundes,seriea,spain
 58346,max kruse,Germany,28,0,1,0,0
 425963,max meyer,Germany,21,0,1,0,0
 39410,max tonetto,Italy,41,0,0,1,0
-46349,max-alain gradel,Ivory Coast,28,1,0,0,0
+46349,max-alain gradel,Ivory_Coast,28,1,0,0,0
 33640,maxi lopez,Argentina,32,0,0,1,0
 29587,maxi moralez,Argentina,29,0,0,1,0
 33632,maxi rodriguez,Argentina,35,1,0,0,1
@@ -2791,49 +2791,49 @@ id,name,country,age,premier,bundes,seriea,spain
 39782,mehmet topal,Turkey,30,0,0,0,1
 315058,melker hallberg,Sweden,20,0,0,1,0
 37667,melli,Italy,32,0,0,0,1
-493160,melvyn lorenzen,United Kingdom,21,0,1,0,0
+493160,melvyn lorenzen,United_Kingdom,21,0,1,0,0
 303824,memphis depay,Netherlands,22,1,0,0,0
 9079,mensur mujdza,Croatia,32,0,1,0,0
 28435,mergim mavraj,Germany,30,0,1,0,0
 136516,mervan celik,Sweden,26,0,0,1,0
 26374,mevlut erdinc,France,29,0,1,0,0
-24208,micah richards,United Kingdom,28,1,0,1,0
+24208,micah richards,United_Kingdom,28,1,0,1,0
 42502,michael agazzi,Italy,32,0,0,1,0
-26436,michael ball,United Kingdom,36,1,0,0,0
+26436,michael ball,United_Kingdom,36,1,0,0,0
 30699,michael ballack,Germany,40,1,1,0,0
-26472,michael bradley,United States,29,0,1,1,0
-24528,michael brown,United Kingdom,39,1,0,0,0
-34944,michael carrick,United Kingdom,35,1,0,0,0
-33316,michael chopra,United Kingdom,32,1,0,0,0
+26472,michael bradley,United_States,29,0,1,1,0
+24528,michael brown,United_Kingdom,39,1,0,0,0
+34944,michael carrick,United_Kingdom,35,1,0,0,0
+33316,michael chopra,United_Kingdom,32,1,0,0,0
 40001,michael ciani,France,32,0,0,1,1
-24531,michael dawson,North Yorkshire,32,1,0,0,0
-43252,michael duff,United Kingdom,38,1,0,0,0
+24531,michael dawson,North_Yorkshire,32,1,0,0,0
+43252,michael duff,United_Kingdom,38,1,0,0,0
 30675,michael essien,Ghana,33,1,0,1,1
 36060,michael fink,Germany,34,0,1,0,0
 26778,michael gravgaard,Denmark,38,0,1,0,0
 198316,michael gregoritsch,Austria,22,0,1,0,0
-282292,michael harriman,United Kingdom,23,1,0,0,0
+282292,michael harriman,United_Kingdom,23,1,0,0,0
 464500,michael heinloth,Germany,24,0,1,0,0
 26886,michael jakobsen,Denmark,30,0,0,0,1
-290410,michael keane,United Kingdom,23,1,0,0,0
-32148,michael kightly,United Kingdom,30,1,0,0,0
+290410,michael keane,United_Kingdom,23,1,0,0,0
+32148,michael kightly,United_Kingdom,30,1,0,0,0
 39215,michael krohn-dehli,Denmark,33,0,0,0,1
 37201,michael lamey,Netherlands,36,0,1,0,0
 34698,michael lumb,Denmark,28,0,1,0,0
-29673,michael mancienne,United Kingdom,28,1,1,0,0
+29673,michael mancienne,United_Kingdom,28,1,1,0,0
 37387,michael mutzel,Germany,37,0,1,0,0
 196226,michael odibe,Nigeria,28,0,0,1,0
 187109,michael ortega,Colombia,25,0,1,0,0
-30619,michael owen,United Kingdom,36,1,0,0,0
-70288,michael parkhurst,United States,32,0,1,0,0
+30619,michael owen,United_Kingdom,36,1,0,0,0
+70288,michael parkhurst,United_States,32,0,1,0,0
 200630,michael pereira,France,28,0,0,0,1
-24886,michael pollitt,United Kingdom,44,1,0,0,0
+24886,michael pollitt,United_Kingdom,44,1,0,0,0
 27284,michael rensing,Germany,32,0,1,0,0
 27346,michael tarnat,Germany,46,0,1,0,0
-23275,michael tonge,United Kingdom,33,1,0,0,0
-34275,michael turner,United Kingdom,32,1,0,0,0
-158545,michail antonio,United Kingdom,26,1,0,0,0
-43210,michal kadlec,Czech Republic,31,0,1,0,0
+23275,michael tonge,United_Kingdom,33,1,0,0,0
+34275,michael turner,United_Kingdom,32,1,0,0,0
+158545,michail antonio,United_Kingdom,26,1,0,0,0
+43210,michal kadlec,Czech_Republic,31,0,1,0,0
 20401,michel bastos,Brazil,33,0,1,1,0
 92532,michel morganella,Switzerland,27,0,0,1,0
 37193,michel vorm,Netherlands,32,1,0,0,0
@@ -2864,7 +2864,7 @@ id,name,country,age,premier,bundes,seriea,spain
 40608,miguel veloso,Portugal,30,0,0,1,0
 34007,miguel,Portugal,36,0,0,0,1
 80229,miiko albornoz,Sweden,25,0,1,0,0
-448859,mijat gacinovic,Bosnia and Herzegovina,21,0,1,0,0
+448859,mijat gacinovic,Bosnia_and_Herzegovina,21,0,1,0,0
 42308,mikael antonsson,Sweden,35,0,0,1,0
 23819,mikael forssell,Germany,35,0,1,0,0
 200601,mikael ishak,Sweden,23,0,1,0,0
@@ -2879,21 +2879,21 @@ id,name,country,age,premier,bundes,seriea,spain
 33961,mikel labaka,Spain,36,0,0,0,1
 43375,mikel rico,Spain,31,0,0,0,1
 182224,mikel san jose,Spain,27,0,0,0,1
-141699,milan badelj,Socialist Federal Republic of Yugoslavia,27,0,1,1,0
+141699,milan badelj,Socialist_Federal_Republic_of_Yugoslavia,27,0,1,1,0
 37262,milan jovanovic,Serbia,35,1,0,0,0
-140963,milan milanovic,Socialist Federal Republic of Yugoslavia,25,0,0,1,0
-43223,milan petrzela,Czech Republic,33,0,1,0,0
+140963,milan milanovic,Socialist_Federal_Republic_of_Yugoslavia,25,0,0,1,0
+43223,milan petrzela,Czech_Republic,33,0,1,0,0
 16230,milan smiljanic,Sweden,29,0,0,0,1
 38848,milivoje novakovic,Slovenia,37,0,1,0,0
 27500,milorad pekovic,Montenegro,39,0,1,0,0
-26285,milos dimitrijevic,Socialist Federal Republic of Yugoslavia,32,0,0,1,0
+26285,milos dimitrijevic,Socialist_Federal_Republic_of_Yugoslavia,32,0,0,1,0
 387727,milos jojic,Serbia,24,0,1,0,0
-31314,milos krasic,Socialist Federal Republic of Yugoslavia,31,0,0,1,0
+31314,milos krasic,Socialist_Federal_Republic_of_Yugoslavia,31,0,0,1,0
 32760,milos maric,Serbia,34,0,1,0,0
 515333,milos veljkovic,Switzerland,21,0,1,0,0
 113757,milton joel caraglio,Argentina,27,0,0,1,0
 33336,mimoun azaouagh,Morocco,33,0,1,0,0
-96398,miralem pjanic,Socialist Federal Republic of Yugoslavia,26,0,0,1,0
+96398,miralem pjanic,Socialist_Federal_Republic_of_Yugoslavia,26,0,0,1,0
 19327,miranda,Spain,32,0,0,1,1
 113902,mirko boland,Germany,29,0,1,0,0
 71350,mirko eramo,Italy,27,0,0,1,0
@@ -2901,19 +2901,19 @@ id,name,country,age,premier,bundes,seriea,spain
 39539,mirko pieri,Italy,38,0,0,1,0
 41341,mirko savini,Italy,37,0,0,1,0
 41688,mirko valdifiori,Italy,30,0,0,1,0
-38717,mirko vucinic,Socialist Federal Republic of Yugoslavia,32,0,0,1,0
+38717,mirko vucinic,Socialist_Federal_Republic_of_Yugoslavia,32,0,0,1,0
 114211,miro varvodic,Croatia,27,0,1,0,0
 27510,miroslav karhan,Slovakia,40,0,1,0,0
 30638,miroslav klose,Poland,38,0,1,1,0
-198607,miroslav stevanovic,Bosnia and Herzegovina,26,0,0,0,1
+198607,miroslav stevanovic,Bosnia_and_Herzegovina,26,0,0,0,1
 36395,miso brecko,Slovenia,32,0,1,0,0
 69149,mitchell langerak,Australia,28,0,1,0,0
 298823,mitchell weiser,Germany,22,0,1,0,0
-30704,mladen krstajic,Bosnia and Herzegovina,42,0,1,0,0
-30496,mladen petric,Bosnia and Herzegovina,35,1,1,0,0
+30704,mladen krstajic,Bosnia_and_Herzegovina,42,0,1,0,0
+30496,mladen petric,Bosnia_and_Herzegovina,35,1,1,0,0
 39331,modibo diakite,France,29,1,0,1,1
 91560,modibo maiga,Mali,29,1,0,0,0
-313668,modou barrow,The Gambia,23,1,0,0,0
+313668,modou barrow,The_Gambia,23,1,0,0,0
 147733,mohamed amsif,Germany,27,0,1,0,0
 40015,mohamed diame,France,29,1,0,0,0
 541556,mohamed fares,Italy,20,0,0,1,0
@@ -2943,7 +2943,7 @@ id,name,country,age,premier,bundes,seriea,spain
 41008,moussa dembele,France,29,1,0,0,0
 509148,moussa dembele,France,20,1,0,0,0
 275122,moussa konate,Senegal,23,0,0,1,0
-195414,moussa kone,Ivory Coast,26,0,0,1,0
+195414,moussa kone,Ivory_Coast,26,0,0,1,0
 94550,moussa sissoko,France,27,1,0,0,0
 71651,mu kanazaki,Japan,27,0,1,0,0
 212866,muhamed besic,Germany,24,1,1,0,0
@@ -2962,32 +2962,32 @@ id,name,country,age,premier,bundes,seriea,spain
 40945,nani,Italy,29,1,0,0,0
 38507,nano,Italy,34,0,0,0,1
 417068,nathan ake,Netherlands,21,1,0,0,0
-139673,nathan baker,United Kingdom,25,1,0,0,0
-139672,nathan delfouneso,United Kingdom,25,1,0,0,0
-38731,nathan doyle,United Kingdom,29,1,0,0,0
+139673,nathan baker,United_Kingdom,25,1,0,0,0
+139672,nathan delfouneso,United_Kingdom,25,1,0,0,0
+38731,nathan doyle,United_Kingdom,29,1,0,0,0
 23305,nathan dyer,England,28,1,0,0,0
-201664,nathan redmond,United Kingdom,22,1,0,0,0
-157838,nathaniel clyne,United Kingdom,25,1,0,0,0
+201664,nathan redmond,United_Kingdom,22,1,0,0,0
+157838,nathaniel clyne,United_Kingdom,25,1,0,0,0
 75001,nauzet aleman,Spain,31,0,0,0,1
-29571,neal eardley,United Kingdom,27,1,0,0,0
+29571,neal eardley,United_Kingdom,27,1,0,0,0
 24209,nedum onuoha,Nigeria,29,1,0,0,0
-102356,neil taylor,United Kingdom,27,1,0,0,0
+102356,neil taylor,United_Kingdom,27,1,0,0,0
 31718,nelson haedo valdez,Paraguay,32,0,1,0,1
 50055,nelson rivas,Colombia,33,0,0,1,0
-31303,nelson,Cape Verde,33,0,0,1,1
+31303,nelson,Cape_Verde,33,0,0,1,1
 115067,nemanja matic,Serbia,28,1,0,0,0
 157288,nemanja pejcinovic,Serbia,28,0,1,0,0
 425985,nemanja radoja,Serbia,23,0,0,0,1
 30865,nemanja vidic,Serbia,34,1,0,1,0
 37321,nemanja vucicevic,Serbia,37,0,1,0,0
-121044,nenad krsticic,Socialist Federal Republic of Yugoslavia,26,0,0,1,0
+121044,nenad krsticic,Socialist_Federal_Republic_of_Yugoslavia,26,0,0,1,0
 31317,nenad milijas,Serbia,33,1,0,0,0
-144999,nenad tomovic,Socialist Federal Republic of Yugoslavia,29,0,0,1,0
+144999,nenad tomovic,Socialist_Federal_Republic_of_Yugoslavia,29,0,0,1,0
 39711,nery castillo,Mexico,32,0,0,0,1
 164319,neto,Portugal,28,0,0,1,0
 176186,neto,Brazil,27,0,0,1,0
 202108,neuton,Brazil,26,0,0,1,0
-71399,neven subotic,Bosnia and Herzegovina,27,0,1,0,0
+71399,neven subotic,Bosnia_and_Herzegovina,27,0,1,0,0
 19533,neymar,Brazil,24,0,0,0,1
 181998,niccolo giannetti,Italy,25,0,0,1,0
 36410,nicklas bendtner,Denmark,28,1,1,1,0
@@ -3011,7 +3011,7 @@ id,name,country,age,premier,bundes,seriea,spain
 195199,nicola sansone,Germany,25,0,0,1,0
 41831,nicola strambelli,Italy,28,0,0,1,0
 39211,nicola ventola,Italy,38,0,0,1,0
-40865,nicolae dica,Socialist Republic of Romania,36,0,0,1,0
+40865,nicolae dica,Socialist_Republic_of_Romania,36,0,0,1,0
 41306,nicolas amodio,Uruguay,33,0,0,1,0
 38118,nicolas andres cordova,Chile,37,0,0,1,0
 37804,nicolas anelka,France,37,1,0,0,0
@@ -3033,18 +3033,18 @@ id,name,country,age,premier,bundes,seriea,spain
 30598,nigel de jong,Netherlands,31,1,1,1,0
 37477,nihat kahveci,Turkey,36,0,0,0,1
 31294,niki zimling,Denmark,31,0,1,1,0
-8922,nikica jelavic,Bosnia and Herzegovina,31,1,0,0,0
+8922,nikica jelavic,Bosnia_and_Herzegovina,31,1,0,0,0
 106369,nikita rukavytsya,Ukraine,29,0,1,0,0
 425962,niklas stark,Germany,21,0,1,0,0
 36000,niko bungert,Germany,29,0,1,0,0
 38820,niko kranjcar,Croatia,32,1,0,0,0
-118879,nikola gulan,Socialist Federal Republic of Yugoslavia,27,0,0,1,0
+118879,nikola gulan,Socialist_Federal_Republic_of_Yugoslavia,27,0,0,1,0
 21613,nikola kalinic,Croatia,28,1,0,1,0
-253088,nikola maksimovic,Serbia and Montenegro,24,0,0,1,0
+253088,nikola maksimovic,Serbia_and_Montenegro,24,0,0,1,0
 95904,nikola petkovic,Serbia,30,0,1,0,0
 38567,nikola zigic,Serbia,36,1,0,0,1
 36806,nikolce noveski,Macedonia,37,0,1,0,0
-150613,nile ranger,United Kingdom,25,1,0,0,0
+150613,nile ranger,United_Kingdom,25,1,0,0,0
 25986,nilmar,Brazil,32,0,0,0,1
 46014,nils fischer,Germany,29,0,1,0,0
 107920,nils petersen,Germany,27,0,1,0,0
@@ -3058,13 +3058,13 @@ id,name,country,age,premier,bundes,seriea,spain
 30857,nuno valente,Portugal,42,1,0,0,0
 27365,nuri sahin,Germany,28,1,1,0,1
 37140,nwankwo kanu,Nigeria,40,1,0,0,0
-24446,nyron nosworthy,United Kingdom,35,1,0,0,0
+24446,nyron nosworthy,United_Kingdom,35,1,0,0,0
 37799,obafemi martins,Nigeria,31,1,1,0,1
 101419,odion ighalo,Nigeria,27,1,0,1,1
 177891,odise roshi,Albania,25,0,1,0,0
 304355,odisseas vlachodimos,Germany,22,0,1,0,0
 317717,ogenyi onazi,Nigeria,23,0,0,1,0
-30692,oguchi onyewu,United States,34,0,0,0,1
+30692,oguchi onyewu,United_States,34,0,0,0,1
 101590,oier olazabal,Spain,27,0,0,0,1
 72542,oier,Spain,30,0,0,0,1
 229844,ola john,Liberia,24,0,1,0,0
@@ -3079,7 +3079,7 @@ id,name,country,age,premier,bundes,seriea,spain
 303913,oliver sorg,Germany,26,0,1,0,0
 316771,oliver torres,Spain,21,0,0,0,1
 46469,olivier giroud,France,29,1,0,0,0
-41877,olivier kapo,Ivory Coast,36,1,0,0,0
+41877,olivier kapo,Ivory_Coast,36,1,0,0,0
 671159,olivier ntcham,France,20,0,0,1,0
 40054,olivier occean,Canada,34,0,1,0,0
 26145,olivier thomert,France,36,0,0,0,1
@@ -3110,7 +3110,7 @@ id,name,country,age,premier,bundes,seriea,spain
 188531,osmar barba,Spain,28,0,0,0,1
 243425,ouasim bouy,Netherlands,23,0,1,0,0
 33687,ousmane dabo,France,39,0,0,1,0
-23054,owen garvan,Republic of Ireland,28,1,0,0,0
+23054,owen garvan,Republic_of_Ireland,28,1,0,0,0
 193533,pablo alcolea guerrero,Spain,27,0,0,0,1
 37447,pablo alvarez,Spain,36,0,0,0,1
 38890,pablo amo,Spain,38,0,0,0,1
@@ -3159,16 +3159,16 @@ id,name,country,age,premier,bundes,seriea,spain
 79256,pasquale schiattarella,Italy,29,0,0,1,0
 358149,patric,Spain,23,0,0,1,0
 32569,patrice evra,Senegal,35,1,0,1,0
-30355,patrick agyemang,United Kingdom,35,1,0,0,0
-302241,patrick bamford,United Kingdom,23,1,0,0,0
+30355,patrick agyemang,United_Kingdom,35,1,0,0,0
+302241,patrick bamford,United_Kingdom,23,1,0,0,0
 36130,patrick ebert,Germany,29,0,1,0,1
-179404,patrick ekeng ekeng,Centre Region (Cameroon),26,0,0,0,1
+179404,patrick ekeng ekeng,Centre_Region_(Cameroon),26,0,0,0,1
 93039,patrick fabian,Germany,28,0,1,0,0
 141146,patrick funk,Germany,26,0,1,0,0
 27556,patrick helmes,Germany,32,0,1,0,0
 192625,patrick herrmann,Germany,25,0,1,0,0
-23265,patrick kenny,United Kingdom,38,1,0,0,0
-575780,patrick mcnair,United Kingdom,21,1,0,0,0
+23265,patrick kenny,United_Kingdom,38,1,0,0,0
+575780,patrick mcnair,United_Kingdom,21,1,0,0,0
 36400,patrick mtiliga,Denmark,35,0,0,0,1
 27472,patrick ochs,Germany,32,0,1,0,0
 30255,patrick owomoyela,Germany,36,0,1,0,0
@@ -3179,25 +3179,25 @@ id,name,country,age,premier,bundes,seriea,spain
 141082,patrick ziegler,Germany,26,0,1,0,0
 532942,pau sabata,Spain,21,0,0,0,1
 38938,paul constantin codrea,Romania,35,0,0,1,0
-308932,paul dummett,United Kingdom,25,1,0,0,0
+308932,paul dummett,United_Kingdom,25,1,0,0,0
 30256,paul freier,Poland,37,0,1,0,0
-24781,paul konchesky,United Kingdom,35,1,0,0,0
-40132,paul mcshane,Republic of Ireland,30,1,0,0,0
+24781,paul konchesky,United_Kingdom,35,1,0,0,0
+40132,paul mcshane,Republic_of_Ireland,30,1,0,0,0
 173509,paul papp,Romania,26,0,0,1,0
 248453,paul pogba,France,23,0,0,1,0
-23453,paul rachubka,United States,35,1,0,0,0
-24728,paul robinson,United Kingdom,37,1,0,0,0
-30622,paul robinson,United Kingdom,36,1,0,0,0
+23453,paul rachubka,United_States,35,1,0,0,0
+24728,paul robinson,United_Kingdom,37,1,0,0,0
+30622,paul robinson,United_Kingdom,36,1,0,0,0
 25005,paul scharner,Austria,36,1,1,0,0
-30373,paul scholes,United Kingdom,41,1,0,0,0
+30373,paul scholes,United_Kingdom,41,1,0,0,0
 24632,paul stalteri,Canada,38,0,1,0,0
 26618,paul verhaegh,Netherlands,33,0,1,0,0
 25924,paulo assuncao,Brazil,36,0,0,0,1
 31103,paulo da silva,Paraguay,36,1,0,0,1
 325916,paulo dybala,Argentina,22,0,0,1,0
 278285,paulo gazzaniga,Argentina,24,1,0,0,0
-212156,pavel kaderabek,Czech Republic,24,0,1,0,0
-10950,pavel krmas,Czech Republic,36,0,1,0,0
+212156,pavel kaderabek,Czech_Republic,24,0,1,0,0
+10950,pavel krmas,Czech_Republic,36,0,1,0,0
 30725,pavel nedved,Czechoslovakia,44,0,0,1,0
 34112,pavel pardo,Mexico,40,0,1,0,0
 41244,pavel pogrebnyak,Russia,32,1,1,0,0
@@ -3227,8 +3227,8 @@ id,name,country,age,premier,bundes,seriea,spain
 35606,per mertesacker,Germany,31,1,1,0,0
 40093,per nilsson,Sweden,34,0,1,0,0
 39487,perparim hetemaj,Kosovo,29,0,0,1,0
-193202,petar sliskovic,Bosnia and Herzegovina,25,0,1,0,0
-30830,peter crouch,United Kingdom,35,1,0,0,0
+193202,petar sliskovic,Bosnia_and_Herzegovina,25,0,1,0,0
+30830,peter crouch,United_Kingdom,35,1,0,0,0
 3512,peter halmosi,Hungary,37,1,0,0,0
 33637,peter luccin,France,37,0,0,0,1
 26545,peter niemeyer,Germany,32,0,1,0,0
@@ -3237,14 +3237,14 @@ id,name,country,age,premier,bundes,seriea,spain
 27508,peter van der heyden,Belgium,40,0,1,0,0
 23806,peter whittingham,Warwickshire,32,1,0,0,0
 30789,petit,France,40,0,1,0,0
-30859,petr cech,Czech Republic,34,1,0,0,0
-10967,petr jiracek,Czech Republic,30,0,1,0,0
+30859,petr cech,Czech_Republic,34,1,0,0,0
+10967,petr jiracek,Czech_Republic,30,0,1,0,0
 535600,petros,Brazil,27,0,0,0,1
-36786,phil bardsley,United Kingdom,31,1,0,0,0
-23268,phil jagielka,United Kingdom,34,1,0,0,0
-186137,phil jones,United Kingdom,24,1,0,0,0
+36786,phil bardsley,United_Kingdom,31,1,0,0,0
+23268,phil jagielka,United_Kingdom,34,1,0,0,0
+186137,phil jones,United_Kingdom,24,1,0,0,0
 276700,philip heise,Germany,25,0,1,0,0
-30371,philip neville,United Kingdom,39,1,0,0,0
+30371,philip neville,United_Kingdom,39,1,0,0,0
 134217,philipp bargfrede,Germany,27,0,1,0,0
 30835,philipp degen,Switzerland,33,1,1,0,0
 38668,philipp heerwagen,Germany,33,0,1,0,0
@@ -3279,12 +3279,12 @@ id,name,country,age,premier,bundes,seriea,spain
 30358,prince tagoe,Ghana,29,0,1,0,0
 23779,quincy owusu-abeyie,Netherlands,30,1,0,0,1
 22543,radamel falcao,Colombia,30,1,0,0,1
-438456,rade krunic,Bosnia and Herzegovina,22,0,0,1,0
-24634,radek cerny,Czech Republic,42,1,0,0,0
-27451,radim kucera,Czech Republic,42,0,1,0,0
+438456,rade krunic,Bosnia_and_Herzegovina,22,0,0,1,0
+24634,radek cerny,Czech_Republic,42,1,0,0,0
+27451,radim kucera,Czech_Republic,42,0,1,0,0
 41433,radja nainggolan,Belgium,28,0,0,1,0
 155355,radosav petrovic,Serbia,27,1,0,0,0
-34590,radoslav kovac,Czech Republic,36,1,0,0,0
+34590,radoslav kovac,Czech_Republic,36,1,0,0,0
 43208,radoslav zabavnik,Slovakia,36,0,1,0,0
 488710,rafa galvez,Spain,23,0,0,0,1
 184623,rafa garcia,Spain,30,0,0,0,1
@@ -3335,10 +3335,10 @@ id,name,country,age,premier,bundes,seriea,spain
 230993,raul rodriguez,Spain,29,0,0,0,1
 32764,raul tamudo,Spain,38,0,0,0,1
 30655,raul,Spain,39,0,1,0,1
-231804,ravel morrison,United Kingdom,23,1,0,0,0
+231804,ravel morrison,United_Kingdom,23,1,0,0,0
 41163,rayco garcia,Spain,29,0,0,0,1
-609734,reece grego-cox,United Kingdom,19,1,0,0,0
-575789,reece oxford,United Kingdom,17,1,0,0,0
+609734,reece grego-cox,United_Kingdom,19,1,0,0,0
+575789,reece oxford,United_Kingdom,17,1,0,0,0
 33817,reginaldo,Brazil,33,0,0,1,0
 200515,reinhold yabo,Germany,24,0,1,0,0
 199834,remy cabella,France,26,1,0,0,0
@@ -3373,38 +3373,38 @@ id,name,country,age,premier,bundes,seriea,spain
 24507,riccardo montolivo,Italy,31,0,0,1,0
 171153,riccardo perpetuini,Italy,26,0,0,1,0
 212645,riccardo saponara,Italy,24,0,0,1,0
-23072,richard cresswell,United Kingdom,39,1,0,0,0
-24211,richard dunne,Republic of Ireland,37,1,0,0,0
+23072,richard cresswell,United_Kingdom,39,1,0,0,0
+24211,richard dunne,Republic_of_Ireland,37,1,0,0,0
 23438,richard garcia,Australia,35,1,0,0,0
-24373,richard hughes,United Kingdom,37,1,0,0,0
+24373,richard hughes,United_Kingdom,37,1,0,0,0
 72810,richard kingson,Ghana,38,1,0,0,0
-23091,richard stearman,United Kingdom,29,1,0,0,0
+23091,richard stearman,United_Kingdom,29,1,0,0,0
 240338,richard strebinger,Austria,23,0,1,0,0
 147732,richard sukuta-pasu,Germany,26,0,1,0,0
 198583,richmond boakye,Ghana,23,0,0,1,1
-39225,rickie lambert,United Kingdom,34,1,0,0,0
+39225,rickie lambert,United_Kingdom,34,1,0,0,0
 116750,ricky van wolfswinkel,Netherlands,27,1,0,0,1
 462004,rico strieder,Germany,24,0,1,0,0
 95225,rinaldo cruzado,Peru,32,0,0,1,0
-30620,rio ferdinand,United Kingdom,37,1,0,0,0
+30620,rio ferdinand,United_Kingdom,37,1,0,0,0
 67850,ritchie de laet,Belgium,27,1,0,0,0
 278343,riyad mahrez,France,25,1,0,0,0
 31936,rob friend,Canada,35,0,1,0,0
-35481,rob hulse,United Kingdom,36,1,0,0,0
+35481,rob hulse,United_Kingdom,36,1,0,0,0
 103686,robbie kruse,Australia,27,0,1,0,0
 39474,robert acquafresca,Italy,29,0,0,1,1
 555385,robert bauer,Germany,21,0,1,0,0
-231801,robert brady,Republic of Ireland,24,1,0,0,0
-23979,robert elliot,United Kingdom,30,1,0,0,0
+231801,robert brady,Republic_of_Ireland,24,1,0,0,0
+23979,robert elliot,United_Kingdom,30,1,0,0,0
 27341,robert enke,Germany,39,0,1,0,0
-36374,robert green,United Kingdom,36,1,0,0,0
+36374,robert green,United_Kingdom,36,1,0,0,0
 155262,robert gucher,Austria,25,0,0,1,0
 38899,robert huth,Germany,32,1,0,0,0
 40055,robert koren,Slovenia,36,1,0,0,0
 93447,robert lewandowski,Poland,28,0,1,0,0
 212875,robert mak,Slovakia,25,0,1,0,0
 37478,robert pires,France,42,1,0,0,1
-32728,robert snodgrass,United Kingdom,29,1,0,0,0
+32728,robert snodgrass,United_Kingdom,29,1,0,0,0
 71017,robert tesche,Germany,29,0,1,0,0
 120076,robert zillner,Germany,31,0,1,0,0
 34382,roberto abbondanzieri,Argentina,44,0,0,0,1
@@ -3436,9 +3436,9 @@ id,name,country,age,premier,bundes,seriea,spain
 442575,robin szarka,Germany,25,0,1,0,0
 30843,robin van persie,Netherlands,33,1,0,0,0
 41387,rocco sabato,Italy,34,0,0,1,0
-33348,roda antar,Sierra Leone,36,0,1,0,0
+33348,roda antar,Sierra_Leone,36,0,1,0,0
 103089,rodnei,Brazil,31,0,1,0,0
-161682,rodney strasser,Sierra Leone,26,0,0,1,0
+161682,rodney strasser,Sierra_Leone,26,0,0,1,0
 37452,rodolfo bodipo diaz,Spain,38,0,0,0,1
 196188,rodri,Spain,26,0,0,0,1
 401095,rodrigo aguirre,Uruguay,21,0,0,1,0
@@ -3449,24 +3449,24 @@ id,name,country,age,premier,bundes,seriea,spain
 193869,rodrigo,Brazil,25,1,0,0,1
 26588,roel brouwers,Netherlands,34,0,1,0,0
 71844,roger espinoza,Honduras,29,1,0,0,0
-34193,roger johnson,United Kingdom,33,1,0,0,0
+34193,roger johnson,United_Kingdom,33,1,0,0,0
 303088,roger,Spain,25,0,0,0,1
 34675,roger,Brazil,31,0,1,0,0
-38363,roland lamah,Ivory Coast,28,1,0,0,1
+38363,roland lamah,Ivory_Coast,28,1,0,0,1
 570431,rolando aarons,Jamaica,20,1,0,0,0
 27690,rolando bianchi,Italy,33,0,0,1,0
 577911,rolando mandragora,Italy,19,0,0,1,0
-31300,rolando,Cape Verde,31,0,0,1,0
+31300,rolando,Cape_Verde,31,0,0,1,0
 92024,rolf feltscher,Switzerland,25,0,0,1,0
 94009,romain bregerie,France,30,0,1,0,0
-32570,roman bednar,Czech Republic,33,1,0,0,0
+32570,roman bednar,Czech_Republic,33,1,0,0,0
 212389,roman golobart,Spain,24,1,0,0,0
-11027,roman hubnik,Czech Republic,32,0,1,0,0
+11027,roman hubnik,Czech_Republic,32,0,1,0,0
 18592,roman martinez,Argentina,33,0,0,0,1
 11263,roman prokoph,Germany,31,0,1,0,0
 27358,roman weidenfeller,Germany,36,0,1,0,0
 42600,romano perticone,Italy,30,0,0,1,0
-31014,romaric,Ivory Coast,33,0,0,0,1
+31014,romaric,Ivory_Coast,33,0,0,0,1
 181276,romelu lukaku,Belgium,23,1,0,0,0
 57114,romulo togni,Brazil,34,0,0,1,0
 178603,romulo,Brazil,29,0,0,1,0
@@ -3480,10 +3480,10 @@ id,name,country,age,premier,bundes,seriea,spain
 40605,ronny,Brazil,30,0,1,0,0
 292262,roque mesa,Spain,27,0,0,0,1
 30646,roque santa cruz,Paraguay,35,1,0,0,1
-25668,rory delap,United Kingdom,40,1,0,0,0
-215384,ross barkley,United Kingdom,22,1,0,0,0
-22978,ross turnbull,United Kingdom,31,1,0,0,0
-38880,ross wallace,United Kingdom,31,1,0,0,0
+25668,rory delap,United_Kingdom,40,1,0,0,0
+215384,ross barkley,United_Kingdom,22,1,0,0,0
+22978,ross turnbull,United_Kingdom,31,1,0,0,0
+38880,ross wallace,United_Kingdom,31,1,0,0,0
 27156,rouwen hennings,Germany,29,0,1,0,0
 39379,roy beerens,Netherlands,28,0,1,0,0
 42714,royston drenthe,Netherlands,29,1,0,0,1
@@ -3492,7 +3492,7 @@ id,name,country,age,premier,bundes,seriea,spain
 96652,ruben castro,Spain,35,0,0,0,1
 358138,ruben duarte,Spain,20,0,0,0,1
 384413,ruben garcia,Spain,23,0,0,0,1
-604982,ruben loftus-cheek,United Kingdom,20,1,0,0,0
+604982,ruben loftus-cheek,United_Kingdom,20,1,0,0,0
 33805,ruben martin pulido,Spain,37,0,0,0,1
 150045,ruben micael,Portugal,30,0,0,0,1
 39537,ruben olivera,Uruguay,33,0,0,1,0
@@ -3503,27 +3503,27 @@ id,name,country,age,premier,bundes,seriea,spain
 33607,ruben,Spain,34,0,0,0,1
 37656,ruben,Argentina,32,0,0,0,1
 107415,rudy gestede,France,27,1,0,0,0
-24903,russell martin,United Kingdom,30,1,0,0,0
+24903,russell martin,United_Kingdom,30,1,0,0,0
 104033,ruud boffin,Belgium,28,1,0,0,0
 30915,ryan babel,Netherlands,29,1,1,0,0
-72417,ryan bennett,United Kingdom,26,1,0,0,0
-46010,ryan bertrand,United Kingdom,27,1,0,0,0
+72417,ryan bennett,United_Kingdom,26,1,0,0,0
+46010,ryan bertrand,United_Kingdom,27,1,0,0,0
 42594,ryan donk,Netherlands,30,1,0,0,0
-23036,ryan france,United Kingdom,35,1,0,0,0
-24154,ryan giggs,United Kingdom,42,1,0,0,0
-40695,ryan shawcross,United Kingdom,28,1,0,0,0
-106910,ryan shotton,United Kingdom,27,1,0,0,0
-24890,ryan taylor,United Kingdom,32,1,0,0,0
-248454,ryan tunnicliffe,United Kingdom,23,1,0,0,0
+23036,ryan france,United_Kingdom,35,1,0,0,0
+24154,ryan giggs,United_Kingdom,42,1,0,0,0
+40695,ryan shawcross,United_Kingdom,28,1,0,0,0
+106910,ryan shotton,United_Kingdom,27,1,0,0,0
+24890,ryan taylor,United_Kingdom,32,1,0,0,0
+248454,ryan tunnicliffe,United_Kingdom,23,1,0,0,0
 245422,ryo miyaichi,Japan,23,1,0,0,0
 639150,sabin merino,Spain,24,0,0,0,1
 26519,said boutahar,Netherlands,34,0,0,0,1
-147722,said husejinovic,Bosnia and Herzegovina,28,0,1,0,0
+147722,said husejinovic,Bosnia_and_Herzegovina,28,0,1,0,0
 239807,saido berahino,Burundi,23,1,0,0,0
 24133,salif diao,Senegal,39,1,0,0,0
 240367,salif sane,France,26,0,1,0,0
 239061,salih ucan,Turkey,22,0,0,1,0
-31906,salomon kalou,Ivory Coast,31,1,1,0,0
+31906,salomon kalou,Ivory_Coast,31,1,1,0,0
 24168,salva ballesta,Spain,41,0,0,0,1
 477604,salva ruiz,Spain,21,0,0,0,1
 102879,salva sevilla,Spain,32,0,0,0,1
@@ -3534,16 +3534,16 @@ id,name,country,age,premier,bundes,seriea,spain
 30285,salvatore lanna,Italy,40,0,0,1,0
 39391,salvatore masiello,Italy,34,0,0,1,0
 27659,salvatore sirigu,Italy,29,0,0,1,0
-502421,sam gallagher,United Kingdom,21,1,0,0,0
-78505,sam hutchinson,United Kingdom,27,1,0,0,0
-46898,sam vokes,United Kingdom,26,1,0,0,0
+502421,sam gallagher,United_Kingdom,21,1,0,0,0
+78505,sam hutchinson,United_Kingdom,27,1,0,0,0
+46898,sam vokes,United_Kingdom,26,1,0,0,0
 192807,samba diakite,France,27,1,0,0,0
 38364,sami allagui,Germany,30,0,1,0,0
 42346,sami khedira,Germany,29,0,1,1,1
-42422,samir handanovic,Socialist Federal Republic of Yugoslavia,32,0,0,1,0
+42422,samir handanovic,Socialist_Federal_Republic_of_Yugoslavia,32,0,0,1,0
 26181,samir nasri,France,29,1,0,0,0
-41045,samir ujkani,Socialist Federal Republic of Yugoslavia,28,0,0,1,0
-453324,samir,United Kingdom,21,0,0,1,0
+41045,samir ujkani,Socialist_Federal_Republic_of_Yugoslavia,28,0,0,1,0
+453324,samir,United_Kingdom,21,0,0,1,0
 543312,samu,Spain,22,0,0,0,1
 562062,samuel castillejo,Spain,21,0,0,0,1
 474672,samuel garcia,Spain,26,0,0,0,1
@@ -3563,8 +3563,8 @@ id,name,country,age,premier,bundes,seriea,spain
 18945,santiago gentiletti,Argentina,31,0,0,1,0
 113762,santiago morero,Argentina,34,0,0,1,0
 199833,saphir taider,France,24,0,0,1,0
-147717,sascha bigalke,West Germany,26,0,1,0,0
-36181,sascha burchert,East Germany,26,0,1,0,0
+147717,sascha bigalke,West_Germany,26,0,1,0,0
+36181,sascha burchert,East_Germany,26,0,1,0,0
 37151,sascha dum,Germany,30,0,1,0,0
 31290,sascha riether,Germany,33,1,1,0,0
 213712,saul berjon,Spain,30,0,0,0,1
@@ -3572,13 +3572,13 @@ id,name,country,age,premier,bundes,seriea,spain
 41663,savio nsereko,Uganda,27,1,0,0,0
 16368,savo pavicevic,Serbia,35,0,1,0,0
 92215,savvas gentsoglou,Greece,26,0,0,1,0
-37240,scott arfield,United Kingdom,27,1,0,0,0
-36373,scott carson,United Kingdom,31,1,0,0,0
-24223,scott parker,United Kingdom,35,1,0,0,0
-23991,scott sinclair,United Kingdom,27,1,0,0,0
+37240,scott arfield,United_Kingdom,27,1,0,0,0
+36373,scott carson,United_Kingdom,31,1,0,0,0
+24223,scott parker,United_Kingdom,35,1,0,0,0
+23991,scott sinclair,United_Kingdom,27,1,0,0,0
 304345,sead kolasinac,Germany,23,0,1,0,0
-24653,sean davis,United Kingdom,37,1,0,0,0
-117545,sean morrison,United Kingdom,25,1,0,0,0
+24653,sean davis,United_Kingdom,37,1,0,0,0
+117545,sean morrison,United_Kingdom,25,1,0,0,0
 27310,sebastian boenisch,Poland,29,0,1,0,0
 165526,sebastian coates,Uruguay,25,1,0,0,0
 306407,sebastian cristoforo,Uruguay,23,0,0,0,1
@@ -3606,9 +3606,9 @@ id,name,country,age,premier,bundes,seriea,spain
 38795,sebastien pocognoli,Belgium,29,1,1,0,0
 26244,sebastien puygrenier,France,34,1,0,0,0
 33812,sebastien squillaci,France,36,1,0,0,1
-36011,sejad salihovic,Bosnia and Herzegovina,31,0,1,0,0
+36011,sejad salihovic,Bosnia_and_Herzegovina,31,0,1,0,0
 29622,selim teber,Germany,35,0,1,0,0
-66890,senad lulic,Socialist Federal Republic of Yugoslavia,30,0,0,1,0
+66890,senad lulic,Socialist_Federal_Republic_of_Yugoslavia,30,0,0,1,0
 74772,sendoa,Spain,40,0,0,0,1
 121093,sercan sararer,Germany,26,0,1,0,0
 36146,serdar tasci,Germany,29,0,1,0,0
@@ -3653,19 +3653,19 @@ id,name,country,age,premier,bundes,seriea,spain
 30271,sergio,Spain,39,0,0,0,1
 39805,sergiu marian radu,Romania,39,0,1,0,0
 75608,serrabasa gerard,Spain,38,0,0,0,1
-79187,seydou doumbia,Ivory Coast,28,0,0,1,0
+79187,seydou doumbia,Ivory_Coast,28,0,0,1,0
 26146,seydou keita,Mali,36,0,0,1,1
 23333,seyi olofinjana,Nigeria,36,1,0,0,0
-98057,shaleum logan,United Kingdom,28,1,0,0,0
-174325,shane duffy,United Kingdom,24,1,0,0,0
-174326,shane ferguson,United Kingdom,25,1,0,0,0
-23293,shane long,Republic of Ireland,29,1,0,0,0
-145002,shaun cummings,United Kingdom,27,1,0,0,0
-23070,shaun derry,United Kingdom,38,1,0,0,0
-30367,shaun wright-phillips,United Kingdom,34,1,0,0,0
+98057,shaleum logan,United_Kingdom,28,1,0,0,0
+174325,shane duffy,United_Kingdom,24,1,0,0,0
+174326,shane ferguson,United_Kingdom,25,1,0,0,0
+23293,shane long,Republic_of_Ireland,29,1,0,0,0
+145002,shaun cummings,United_Kingdom,27,1,0,0,0
+23070,shaun derry,United_Kingdom,38,1,0,0,0
+30367,shaun wright-phillips,United_Kingdom,34,1,0,0,0
 278864,shawn parker,Germany,23,0,1,0,0
 24224,shay given,Ireland,40,1,0,0,0
-36289,shelton martis,Kingdom of the Netherlands,33,1,0,0,0
+36289,shelton martis,Kingdom_of_the_Netherlands,33,1,0,0,0
 144993,shinji kagawa,Japan,27,1,1,0,0
 20694,shinji okazaki,Japan,30,1,1,0,0
 30776,shinji ono,Japan,37,0,1,0,0
@@ -3681,11 +3681,11 @@ id,name,country,age,premier,bundes,seriea,spain
 30663,simao,Mozambique,36,0,0,0,1
 178120,sime vrsaljko,Croatia,24,0,0,1,0
 24693,simeon jackson,Jamaica,29,1,1,0,0
-24020,simon davies,United Kingdom,36,1,0,0,0
-35515,simon francis,United Kingdom,31,1,0,0,0
+24020,simon davies,United_Kingdom,36,1,0,0,0
+35515,simon francis,United_Kingdom,31,1,0,0,0
 27503,simon jentzsch,Germany,40,0,1,0,0
 42583,simon laner,Italy,32,0,0,1,0
-32973,simon lappin,United Kingdom,33,1,0,0,0
+32973,simon lappin,United_Kingdom,33,1,0,0,0
 26797,simon poulsen,Denmark,31,0,0,1,0
 26335,simon pouplin,France,31,0,1,0,0
 27429,simon rolfes,Germany,34,0,1,0,0
@@ -3718,7 +3718,7 @@ id,name,country,age,premier,bundes,seriea,spain
 93480,sofiane feghouli,France,26,0,0,0,1
 39455,sokratis papastathopoulos,Greece,28,0,1,1,0
 33790,somen tchoyi,Cameroon,33,1,0,0,0
-23839,sone aluko,United Kingdom,27,1,0,0,0
+23839,sone aluko,United_Kingdom,27,1,0,0,0
 212814,sonny kittel,Germany,23,0,1,0,0
 39032,sotirios kyrgiakos,Greece,37,1,1,0,0
 58485,sotiris ninis,Albania,26,0,0,1,0
@@ -3762,58 +3762,58 @@ id,name,country,age,premier,bundes,seriea,spain
 33468,stephane sessegnon,Benin,32,1,0,0,0
 30718,stephen appiah,Ghana,35,0,0,1,0
 39337,stephen ayodele makinwa,Nigeria,33,0,0,1,0
-24226,stephen carr,Republic of Ireland,40,1,0,0,0
-23065,stephen crainey,United Kingdom,35,1,0,0,0
-37755,stephen dobbie,United Kingdom,33,1,0,0,0
-23225,stephen hunt,Republic of Ireland,35,1,0,0,0
-24213,stephen ireland,Ireland cricket team,30,1,0,0,0
-33045,stephen kelly,Republic of Ireland,33,1,0,0,0
-259810,stephen kingsley,United Kingdom,22,1,0,0,0
-21864,stephen quinn,Republic of Ireland,30,1,0,0,0
-33138,stephen ward,Republic of Ireland,31,1,0,0,0
-24136,stephen warnock,United Kingdom,34,1,0,0,0
+24226,stephen carr,Republic_of_Ireland,40,1,0,0,0
+23065,stephen crainey,United_Kingdom,35,1,0,0,0
+37755,stephen dobbie,United_Kingdom,33,1,0,0,0
+23225,stephen hunt,Republic_of_Ireland,35,1,0,0,0
+24213,stephen ireland,Ireland_cricket_team,30,1,0,0,0
+33045,stephen kelly,Republic_of_Ireland,33,1,0,0,0
+259810,stephen kingsley,United_Kingdom,22,1,0,0,0
+21864,stephen quinn,Republic_of_Ireland,30,1,0,0,0
+33138,stephen ward,Republic_of_Ireland,31,1,0,0,0
+24136,stephen warnock,United_Kingdom,34,1,0,0,0
 92666,stevan jovetic,Montenegro,26,1,0,1,0
-156013,steve cook,United Kingdom,25,1,0,0,0
-25948,steve gohouri,Ivory Coast,35,1,1,0,0
-24227,steve harper,United Kingdom,41,1,0,0,0
-37166,steve morison,United Kingdom,33,1,0,0,0
-23283,steve sidwell,United Kingdom,33,1,0,0,0
-23307,steve simonsen,United Kingdom,37,1,0,0,0
+156013,steve cook,United_Kingdom,25,1,0,0,0
+25948,steve gohouri,Ivory_Coast,35,1,1,0,0
+24227,steve harper,United_Kingdom,41,1,0,0,0
+37166,steve morison,United_Kingdom,33,1,0,0,0
+23283,steve sidwell,United_Kingdom,33,1,0,0,0
+23307,steve simonsen,United_Kingdom,37,1,0,0,0
 25815,steve von bergen,Switzerland,33,0,1,1,0
-24452,steven caldwell,United Kingdom,36,1,0,0,0
-176889,steven caulker,United Kingdom,24,1,0,0,0
-30811,steven cherundolo,United States,37,0,1,0,0
-23792,steven davis,United Kingdom,31,1,0,0,0
-32627,steven fletcher,United Kingdom,29,1,0,0,0
-30618,steven gerrard,United Kingdom,36,1,0,0,0
+24452,steven caldwell,United_Kingdom,36,1,0,0,0
+176889,steven caulker,United_Kingdom,24,1,0,0,0
+30811,steven cherundolo,United_States,37,0,1,0,0
+23792,steven davis,United_Kingdom,31,1,0,0,0
+32627,steven fletcher,United_Kingdom,29,1,0,0,0
+30618,steven gerrard,United_Kingdom,36,1,0,0,0
 93458,steven mouyokolo,France,29,1,0,0,0
-32705,steven naismith,United Kingdom,30,1,0,0,0
-36012,steven pienaar,South Africa,34,1,0,0,0
-23922,steven reid,United Kingdom,35,1,0,0,0
-24228,steven taylor,United Kingdom,30,1,0,0,0
-25411,steven thompson,United Kingdom,37,1,0,0,0
-32616,steven whittaker,United Kingdom,32,1,0,0,0
+32705,steven naismith,United_Kingdom,30,1,0,0,0
+36012,steven pienaar,South_Africa,34,1,0,0,0
+23922,steven reid,United_Kingdom,35,1,0,0,0
+24228,steven taylor,United_Kingdom,30,1,0,0,0
+25411,steven thompson,United_Kingdom,37,1,0,0,0
+32616,steven whittaker,United_Kingdom,32,1,0,0,0
 140819,steven zuber,Switzerland,25,0,1,0,0
-30892,stewart downing,United Kingdom,32,1,0,0,0
+30892,stewart downing,United_Kingdom,32,1,0,0,0
 38609,stiliyan petrov,Bulgaria,37,1,0,0,0
 401343,stipe perica,Croatia,21,0,0,1,0
 36092,stiven rivic,Croatia,31,0,1,0,0
 254241,stole dimitrievski,Macedonia,22,0,0,0,1
-24455,stuart holden,United Kingdom,31,1,0,0,0
-24190,stuart parnaby,United Kingdom,34,1,0,0,0
-23793,stuart taylor,United Kingdom,35,1,0,0,0
+24455,stuart holden,United_Kingdom,31,1,0,0,0
+24190,stuart parnaby,United_Kingdom,34,1,0,0,0
+23793,stuart taylor,United_Kingdom,35,1,0,0,0
 667790,suat serdar,Germany,19,0,1,0,0
 534484,success isaac,Nigeria,20,0,0,0,1
-245530,suk-young yun,South Korea,26,1,0,0,0
+245530,suk-young yun,South_Korea,26,1,0,0,0
 208208,suleyman koc,Germany,27,0,1,0,0
-144996,sung-yueng ki,South Korea,27,1,0,0,0
+144996,sung-yueng ki,South_Korea,27,1,0,0,0
 37374,sven bender,Germany,27,0,1,0,0
 38628,sven neuhaus,Germany,38,0,1,0,0
 94885,sven schipplock,Germany,27,0,1,0,0
 94841,sven ulreich,Germany,28,0,1,0,0
 24216,sylvain distin,France,38,1,0,0,0
 41191,sylvain marveaux,France,30,1,0,0,0
-34433,sylvan ebanks-blake,United Kingdom,30,1,0,0,0
+34433,sylvan ebanks-blake,United_Kingdom,30,1,0,0,0
 39045,szabolcs huszti,Hungary,33,0,1,0,0
 97762,takashi inui,Japan,28,0,1,0,1
 166653,takashi usami,Japan,24,0,1,0,0
@@ -3825,8 +3825,8 @@ id,name,country,age,premier,bundes,seriea,spain
 25541,taye taiwo,Nigeria,31,1,0,1,0
 66578,teemu pukki,Finland,26,0,1,0,0
 466132,theo bongonda,Belgium,20,0,0,0,1
-31013,theo walcott,United Kingdom,27,1,0,0,0
-107588,theodor gebre selassie,Czech Republic,29,0,1,0,0
+31013,theo walcott,United_Kingdom,27,1,0,0,0
+107588,theodor gebre selassie,Czech_Republic,29,0,1,0,0
 38601,theofanis gekas,Greece,36,0,1,0,1
 172949,thiago alcantara,Italy,25,0,1,0,1
 151050,thiago cionek,Brazil,30,0,0,1,0
@@ -3837,32 +3837,32 @@ id,name,country,age,premier,bundes,seriea,spain
 30626,thierry henry,France,39,0,0,0,1
 254702,thievy bifouma,France,24,1,0,0,1
 36031,thomas broich,Germany,35,0,1,0,0
-212702,thomas carroll,United Kingdom,24,1,0,0,0
+212702,thomas carroll,United_Kingdom,24,1,0,0,0
 179791,thomas heurtaux,France,28,0,0,1,0
 30628,thomas hitzlsperger,Germany,34,1,1,1,0
-212714,thomas ince,United Kingdom,24,1,0,0,0
+212714,thomas ince,United_Kingdom,24,1,0,0,0
 27255,thomas kessler,Germany,30,0,1,0,0
 38167,thomas kleine,Germany,38,0,1,0,0
 36878,thomas kraft,Germany,28,0,1,0,0
 41869,thomas manfredini,Italy,36,0,0,1,0
 41098,thomas mangani,France,29,0,0,1,0
 355362,thomas pledl,Germany,22,0,1,0,0
-598091,thomas robson,United Kingdom,21,1,0,0,0
+598091,thomas robson,United_Kingdom,21,1,0,0,0
 26005,thomas vermaelen,Belgium,30,1,0,0,1
-434325,thomas,United Kingdom,23,0,0,0,1
+434325,thomas,United_Kingdom,23,0,0,0,1
 36007,thorben marx,Germany,35,0,1,0,0
 264190,thorgan hazard,Belgium,23,0,1,0,0
 36479,thorsten kirschbaum,Germany,29,0,1,0,0
-280977,tiago ilori,United Kingdom,23,0,0,0,1
+280977,tiago ilori,United_Kingdom,23,0,0,0,1
 30871,tiago,Brazil,35,0,0,1,1
 42579,tiberio guarente,Italy,30,0,0,1,1
 30688,tim borowski,Germany,36,0,1,0,0
 30876,tim cahill,Australia,36,1,0,0,0
 27302,tim hoogland,Germany,31,0,1,0,0
-31465,tim howard,United States,37,1,0,0,0
+31465,tim howard,United_States,37,1,0,0,0
 24229,tim krul,Netherlands,28,1,0,0,0
 72707,tim matavz,Slovenia,27,0,1,1,0
-198444,tim ream,United States,28,1,0,0,0
+198444,tim ream,United_States,28,1,0,0,0
 37326,tim sebastian,Germany,32,0,1,0,0
 27313,tim wiese,Germany,34,0,1,0,0
 178206,timm klose,Germany,28,1,1,0,0
@@ -3879,10 +3879,10 @@ id,name,country,age,premier,bundes,seriea,spain
 408986,timon wellenreuther,Germany,20,0,1,0,0
 158234,timothy chandler,Germany,26,0,1,0,0
 427062,tin jedvaj,Croatia,20,0,1,1,0
-40190,tinga,United Kingdom,38,0,1,0,0
+40190,tinga,United_Kingdom,38,0,1,0,0
 134236,tino costa,Italy,31,0,0,1,1
 183449,tito,Italy,31,0,0,0,1
-24230,titus bramble,United Kingdom,35,1,0,0,0
+24230,titus bramble,United_Kingdom,35,1,0,0,0
 27566,tiziano polenghi,Italy,38,0,0,1,0
 141114,tobias kempe,Germany,27,0,1,0,0
 36380,tobias levels,Germany,29,0,1,0,0
@@ -3898,13 +3898,13 @@ id,name,country,age,premier,bundes,seriea,spain
 33473,tom starke,Germany,35,0,1,0,0
 243828,tom trybull,Germany,23,0,1,0,0
 39350,tomas danilevicius,Lithuania,38,0,0,1,0
-31187,tomas galasek,Czech Republic,43,0,1,0,0
-201934,tomas kalas,Czech Republic,23,1,0,0,0
+31187,tomas galasek,Czech_Republic,43,0,1,0,0
+201934,tomas kalas,Czech_Republic,23,1,0,0,0
 12209,tomas kosicky,Slovakia,30,0,0,1,0
-150292,tomas pekhart,Czech Republic,27,0,1,0,0
+150292,tomas pekhart,Czech_Republic,27,0,1,0,0
 193978,tomas pina,Spain,28,0,0,0,1
 52243,tomas rincon,Venezuela,28,0,1,1,0
-31435,tomas rosicky,Czech Republic,35,1,0,0,0
+31435,tomas rosicky,Czech_Republic,35,1,0,0,0
 30689,tomas ujfalusi,Czechoslovakia,38,0,0,0,1
 35906,tomasz kuszczak,Poland,34,1,0,0,0
 39769,tommaso berni,Italy,33,0,0,1,0
@@ -3914,7 +3914,7 @@ id,name,country,age,premier,bundes,seriea,spain
 96539,tomoaki makino,Japan,29,0,1,0,0
 95078,toni kroos,Germany,26,0,1,0,1
 74213,toni moral,Spain,35,0,0,0,1
-143442,toni sunjic,Bosnia and Herzegovina,27,0,1,0,0
+143442,toni sunjic,Bosnia_and_Herzegovina,27,0,1,0,0
 280890,toni,Spain,26,0,0,0,1
 184091,tono,Bulgaria,26,0,0,0,1
 37579,tono,Brazil,36,0,0,0,1
@@ -3922,10 +3922,10 @@ id,name,country,age,premier,bundes,seriea,spain
 30706,torsten frings,Germany,39,0,1,0,0
 38182,torsten oehrl,Germany,30,0,1,0,0
 30937,tranquillo barnetta,Switzerland,31,0,1,0,0
-72436,troy deeney,United Kingdom,28,1,0,0,0
+72436,troy deeney,United_Kingdom,28,1,0,0,0
 102301,tunay torun,Germany,26,0,1,0,0
-501040,tyler blackett,United Kingdom,22,1,0,0,0
-34230,tyrone mears,United Kingdom,33,1,0,0,0
+501040,tyler blackett,United_Kingdom,22,1,0,0,0
+34230,tyrone mears,United_Kingdom,33,1,0,0,0
 533227,uche henry agbo,Nigeria,20,0,0,0,1
 204169,uffe bech,Denmark,23,0,1,0,0
 190604,ugo gabrieli,Italy,27,0,0,1,0
@@ -3935,10 +3935,10 @@ id,name,country,age,premier,bundes,seriea,spain
 571623,unai bustinza,Spain,24,0,0,0,1
 571615,unai lopez,Spain,20,0,0,0,1
 30603,urby emanuelson,Netherlands,30,1,0,1,0
-184770,uros cosic,Serbia and Montenegro,23,0,0,1,0
+184770,uros cosic,Serbia_and_Montenegro,23,0,0,1,0
 33027,ustaritz,Spain,33,0,0,0,1
-158257,vaclav kadlec,Czech Republic,24,0,1,0,0
-207542,vaclav pilar,Czech Republic,27,0,1,0,0
+158257,vaclav kadlec,Czech_Republic,24,0,1,0,0
+207542,vaclav pilar,Czech_Republic,27,0,1,0,0
 28284,vadim demidov,Latvia,29,0,1,0,1
 38366,vadis odjidja-ofoe,Belgium,27,1,0,0,0
 30652,vahid hashemian,Iran,40,0,1,0,0
@@ -3951,11 +3951,11 @@ id,name,country,age,premier,bundes,seriea,spain
 282438,valerio verre,Italy,22,0,0,1,0
 501569,valmir sulejmani,Germany,20,0,1,0,0
 30966,valon behrami,Kosovo,31,1,1,1,0
-36121,valter birsa,Socialist Federal Republic of Yugoslavia,30,0,0,1,0
+36121,valter birsa,Socialist_Federal_Republic_of_Yugoslavia,30,0,0,1,0
 445907,varela,Spain,21,0,0,0,1
 163918,vasco regini,Italy,26,0,0,1,0
-36084,vedad ibisevic,Bosnia and Herzegovina,32,0,1,0,0
-46403,vedran corluka,Bosnia and Herzegovina,30,1,1,0,0
+36084,vedad ibisevic,Bosnia_and_Herzegovina,32,0,1,0,0
+46403,vedran corluka,Bosnia_and_Herzegovina,30,1,1,0,0
 213916,vicente gomez,Spain,28,0,0,0,1
 109222,vicente guaita,Spain,29,0,0,0,1
 111237,vicente iborra,Spain,28,0,0,0,1
@@ -3989,17 +3989,17 @@ id,name,country,age,premier,bundes,seriea,spain
 42581,vincenzo italiano,Germany,38,0,0,1,0
 114746,vincenzo rennella,France,27,0,0,1,1
 209405,virgil van dijk,Netherlands,25,1,0,0,0
-39496,vitali kutuzov,Soviet Union,36,0,0,1,0
+39496,vitali kutuzov,Soviet_Union,36,0,0,1,0
 37233,vito mannone,Italy,28,1,0,0,0
 177837,vlad chiriches,Romania,26,1,0,1,0
 36091,vlad munteanu,Romania,35,0,1,0,0
-196311,vladimir darida,Czech Republic,26,0,1,0,0
-72371,vladimir koman,Ukrainian Soviet Socialist Republic,27,0,0,1,0
+196311,vladimir darida,Czech_Republic,26,0,1,0,0
+72371,vladimir koman,Ukrainian_Soviet_Socialist_Republic,27,0,0,1,0
 33439,vladimir stojkovic,Serbia,33,1,0,0,1
 163199,vladimir weiss,Slovakia,26,1,0,1,1
 261653,vladlen yurchenko,Ukraine,22,0,1,0,0
-109652,vurnon anita,Kingdom of the Netherlands,27,1,0,0,0
-11496,wade elliott,United Kingdom,37,1,0,0,0
+109652,vurnon anita,Kingdom_of_the_Netherlands,27,1,0,0,0
+11496,wade elliott,United_Kingdom,37,1,0,0,0
 150872,wakaso mubarak,Ghana,26,0,0,0,1
 49833,waldo ponce,Chile,33,0,0,0,1
 267369,wallace,Brazil,22,0,0,1,0
@@ -4008,28 +4008,28 @@ id,name,country,age,premier,bundes,seriea,spain
 23853,walter pandiani,Uruguay,40,0,0,0,1
 30492,walter samuel,Argentina,38,0,0,1,0
 389202,wanderson,Brazil,21,0,0,0,1
-30635,wayne bridge,United Kingdom,36,1,0,0,0
-23426,wayne brown,United Kingdom,39,1,0,0,0
-36283,wayne hennessey,United Kingdom,29,1,0,0,0
-30829,wayne rooney,United Kingdom,30,1,0,0,0
+30635,wayne bridge,United_Kingdom,36,1,0,0,0
+23426,wayne brown,United_Kingdom,39,1,0,0,0
+36283,wayne hennessey,United_Kingdom,29,1,0,0,0
+30829,wayne rooney,United_Kingdom,30,1,0,0,0
 38831,wayne routledge,England,31,1,0,0,0
 41707,weligton,Brazil,37,0,0,0,1
 202220,wellington silva,Brazil,23,0,0,0,1
 121957,wellington,Brazil,28,0,1,0,0
 487867,wendell,Brazil,23,0,1,0,0
-30362,wes brown,United Kingdom,36,1,0,0,0
-23571,wes morgan,United Kingdom,32,1,0,0,0
+30362,wes brown,United_Kingdom,36,1,0,0,0
+23571,wes morgan,United_Kingdom,32,1,0,0,0
 465628,wesley hoedt,Netherlands,22,0,0,1,0
-35493,wesley hoolahan,Republic of Ireland,34,1,0,0,0
+35493,wesley hoolahan,Republic_of_Ireland,34,1,0,0,0
 30878,wesley sneijder,Netherlands,32,0,0,1,1
 114364,wesley,Brazil,29,0,1,0,0
 28955,wilfredo caballero,Argentina,35,1,0,0,1
-143365,wilfried bony,Ivory Coast,27,1,0,0,0
-38217,wilfried sanou,Burkina Faso,32,0,1,0,0
-198510,wilfried zaha,Ivory Coast,23,1,0,0,0
-102602,will atkinson,United Kingdom,27,1,0,0,0
+143365,wilfried bony,Ivory_Coast,27,1,0,0,0
+38217,wilfried sanou,Burkina_Faso,32,0,1,0,0
+198510,wilfried zaha,Ivory_Coast,23,1,0,0,0
+102602,will atkinson,United_Kingdom,27,1,0,0,0
 278856,will orban,Germany,23,0,1,0,0
-114218,william buckley,United Kingdom,26,1,0,0,0
+114218,william buckley,United_Kingdom,26,1,0,0,0
 38835,william gallas,France,39,1,0,0,0
 26782,william kvist,Denmark,31,1,1,0,0
 71466,william vainqueur,France,27,0,0,1,0
@@ -4039,7 +4039,7 @@ id,name,country,age,premier,bundes,seriea,spain
 97988,wilson palacios,Honduras,32,1,0,0,0
 169718,wojciech szczesny,Poland,26,1,0,1,0
 40992,wolfgang hesl,Germany,30,0,1,0,0
-31085,won-hee cho,South Korea,33,1,0,0,0
+31085,won-hee cho,South_Korea,33,1,0,0,0
 30889,xabi alonso,Spain,34,1,1,0,1
 449484,xabi irureta,Spain,30,0,0,0,1
 74990,xabier aranburu castillo,Spain,30,0,0,0,1
@@ -4056,7 +4056,7 @@ id,name,country,age,premier,bundes,seriea,spain
 450976,yannick gerhardt,Germany,22,0,1,0,0
 148832,yannick sagbo,France,28,1,0,0,0
 192921,yaya sanogo,France,23,1,0,0,0
-36615,yaya toure,Ivory Coast,33,1,0,0,1
+36615,yaya toure,Ivory_Coast,33,1,0,0,1
 174018,ylli sallahi,Kosovo,22,0,1,0,0
 31292,yoan gouffran,France,30,1,0,0,0
 192064,yoel rodriguez,Spain,28,0,0,0,1
@@ -4066,29 +4066,29 @@ id,name,country,age,premier,bundes,seriea,spain
 108461,yohandry orozco,Venezuela,25,0,1,0,0
 459499,yoshinori muto,Japan,24,0,1,0,0
 26108,younes kaboul,France,30,1,0,0,0
-414794,young-pyo lee,South Korea,39,0,1,0,0
+414794,young-pyo lee,South_Korea,39,0,1,0,0
 161291,youssef el arabi,France,29,0,0,0,1
 38215,youssef wasef mohamad,Lebanon,36,0,1,0,0
 80295,yuri berchiche,Spain,26,0,0,0,1
 40825,yuri zhirkov,Russia,33,1,0,0,0
 166449,yuya osako,Japan,26,0,1,0,0
 97488,yves hadley desmarets,France,37,0,0,0,1
-33076,zak whitbread,United States,32,1,0,0,0
+33076,zak whitbread,United_States,32,1,0,0,0
 432463,zakaria bakkali,Belgium,20,0,0,0,1
 238786,zakarya bergdich,France,27,0,0,1,1
-40128,zatyiah knight,United Kingdom,29,1,0,0,0
+40128,zatyiah knight,United_Kingdom,29,1,0,0,0
 119351,zavon hines,Jamaica,27,1,0,0,0
-30861,zdenek grygera,Czech Republic,36,1,0,1,0
-33823,zdenek pospech,Czech Republic,37,0,1,0,0
+30861,zdenek grygera,Czech_Republic,36,1,0,1,0
+33823,zdenek pospech,Czech_Republic,37,0,1,0,0
 25772,zdravko kuzmanovic,Switzerland,29,0,1,1,0
 34104,ze castro,Brazil,33,0,0,0,1
 38843,ze roberto,Italy,42,0,1,0,0
-157284,zeljko brkic,Socialist Federal Republic of Yugoslavia,30,0,0,1,0
+157284,zeljko brkic,Socialist_Federal_Republic_of_Yugoslavia,30,0,0,1,0
 30850,zeljko kalac,Australia,43,0,0,1,0
 290868,zhi-gin lam,Germany,25,0,1,0,0
 27305,zlatan bajramovic,Germany,37,0,1,0,0
 35724,zlatan ibrahimovic,Sweden,34,0,0,1,1
-17233,zlatko janjic,Bosnia and Herzegovina,30,0,1,0,0
+17233,zlatko janjic,Bosnia_and_Herzegovina,30,0,1,0,0
 42860,zlatko junuzovic,Serbia,29,0,1,0,0
 24737,zoltan gera,Hungary,37,1,0,0,0
 107281,zoltan stieber,Hungary,27,0,1,0,0
@@ -4099,4 +4099,4 @@ id,name,country,age,premier,bundes,seriea,spain
 35506,zurab khizanishvili,Georgia,34,1,0,0,0
 39902,zvjezdan misimovic,Germany,34,0,1,0,0
 79262,emanuele terranova,Italy,29,0,0,1,0
-39494,zlatko dedic,Socialist Federal Republic of Yugoslavia,31,0,1,0,0
+39494,zlatko dedic,Socialist_Federal_Republic_of_Yugoslavia,31,0,1,0,0
