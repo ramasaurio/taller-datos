@@ -1,7 +1,8 @@
 
 class Country:
 
-    def __init__(self, code, lat, lon, name):
+    def __init__(self, values):
+        code, lat, lon, name = values
         self.name = name
         self.lat = lat
         self.lon = lon

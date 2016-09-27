@@ -1,3 +1,13 @@
+class FullPlayer():
+
+    def __init__(self, idapi, name, country, age, league, season):
+        self.idapi = idapi
+        self.name = name
+        self.country = country
+        self.age = age
+        self.league = league
+        self.season = season
+
 
 class Player(object):
 
@@ -39,11 +49,13 @@ class FifaPlayer(object):
     def __init__(self, idapi=None, name=None, idapififa=None, bday=None, country=None, premier=None,
                  bundes=None, seriea=None, spain=None, age=None):
         self.idapi = int(idapi)
-        self.idapififa = int(idapififa)
         self.name = name.replace('"', '').lower()
-        self.byear = int(bday[0:4])
-        self.bmonth = int(bday[5:7])
-        self.bday = int(bday[8:10])
+
+        if idapififa is not None and bday is not None:
+            self.idapififa = int(idapififa)
+            self.byear = int(bday[0:4])
+            self.bmonth = int(bday[5:7])
+            self.bday = int(bday[8:10])
 
         if age is None:
             years = 2016 - self.byear - 1
@@ -58,7 +70,7 @@ class FifaPlayer(object):
 
             self.age = years
         else:
-            self.age = age
+            self.age = int(age)
 
         if country is not None:
             self.country = country

@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
-from player import Player, FifaPlayer
+from player import Player, FifaPlayer, FullPlayer
 from country import Country
 import math
+import numpy
 
 
 def assignCountry():
@@ -212,10 +213,10 @@ def writeFifaPlayersByLeagues():
 
     playerIds = {}
 
-    premierpath = 'tallerR/premierplayers.csv'
-    bundespath = 'tallerR/bundesplayers.csv'
-    serieapath = 'tallerR/serieaplayers.csv'
-    spainpath = 'tallerR/spainplayers.csv'
+    premierpath = 'tallerR/premierplayers2.csv'
+    bundespath = 'tallerR/bundesplayers2.csv'
+    serieapath = 'tallerR/serieaplayers2.csv'
+    spainpath = 'tallerR/spainplayers2.csv'
     paths = [premierpath, bundespath, serieapath, spainpath]
     leagues = ['premier', 'bundes', 'seriea', 'spain']
 
@@ -226,21 +227,23 @@ def writeFifaPlayersByLeagues():
 
         for line in infile:
             ids = line.replace('\n', '').split(',')
+            season = ids[0]
+            ids = ids[1:]
             for pid in ids:
                 if pid != 'NA':
-                    if pid in playerIds:
-                        playerIds[pid].add(league)
+                    if (pid, season) in playerIds:
+                        playerIds[(pid, season)].add(league)
                     else:
-                        playerIds[pid] = {league}
+                        playerIds[(pid, season)] = {league}
         infile.close()
 
     outfile = open('Dataset/players_by_league.csv', 'w')
-    outfile.write('id,premier,bundes,seriea,spain\n')
-    lineskel = '%d,%d,%d,%d,%d\n'
+    outfile.write('id,premier,bundes,seriea,spain,season\n')
+    lineskel = '%d,%d,%d,%d,%d,%d\n'
     players = {}
 
-    for pid in playerIds:
-        player = playerIds[pid]
+    for pid, season in playerIds:
+        player = playerIds[(pid, season)]
         prem = 1 if 'premier' in player else 0
         bund = 1 if 'bundes' in player else 0
         serie = 1 if 'seriea' in player else 0
@@ -248,26 +251,85 @@ def writeFifaPlayersByLeagues():
         line = int(pid), prem, bund, serie, spain
         outfile.write(lineskel % line)
         outfile.flush()
-        players[pid] = prem, bund, serie, spain
+        players[pid] = prem, bund, serie, spain, int(season[0:4])
     outfile.close()
 
     return players
 
 
-def matchCountryCoords(players):
+def matchCountryCoords():
 
-    infile = open('Dataset/countries.csv', 'r')
+    players = []
+    playerfile = open('jugadores_liga_pais.csv', 'r')
+    playerfile.readline()
+    for line in playerfile:
+        idapi, name, country, age, league, season = line.replace('\n', '').split(',')
+        players.append(FullPlayer(idapi, name, country, age, league, season))
+
+    infile = open('Dataset/countries_mod.csv', 'r')
     infile.readline()
-    countries = []
+    countries = {}
 
     for line in infile:
         values = line.replace('\n', '').split(',')
         country = Country(values)
-        countries.append(country)
+        countries[country.name] = country
 
     for player in players:
-        country = player.country
-        country = country.replace('_', '')
+        if player.country in countries:
+            player.lat = countries[player.country].lat
+            player.lon = countries[player.country].lon
+        else:
+            print('no country for', player.name, player.country)
+
+    return players
+
+
+def matchCountryCoordsv2(players):
+
+    infile = open('Dataset/countries_mod.csv', 'r')
+    leagues = ['premier', 'bundes', 'seriea', 'spain']
+    infile.readline()
+    countries = {}
+    finalTable = {}
+
+    for line in infile:
+        values = line.replace('\n', '').split(',')
+        country = Country(values)
+        countries[country.name] = country
+
+    nocountryforoldman = []
+
+    for player in players:
+        pcountry = player.country
+        if pcountry in countries:
+            countryName = countries[pcountry].name
+            for league in leagues:
+                if player.__dict__[league]:
+                    if (countryName, league) in finalTable:
+                        finalTable[(countryName, league)].append(player.age)
+                    else:
+                        finalTable[(countryName, league)] = [player.age]
+        else:
+            nocountryforoldman.append((pcountry, player.name, player.idapi))
+
+    for country, name, api in nocountryforoldman:
+        print(country, name, api)
+
+    outfile = open('tabla_final.csv', 'w')
+    outfile.write('country,league,lat,long,age,players\n')
+    lineskel = '%s,%s,%f,%f,%f,%d\n'
+
+    for country in countries:
+        for league in leagues:
+            key = countries[country].name, league
+            line = [countries[country].name, league, float(countries[country].lat), float(countries[country].lon)]
+            if key in finalTable:
+                line.extend([numpy.mean(finalTable[key]), len(finalTable[key])])
+            else:
+                line.extend([0, 0])
+            outfile.write(lineskel % tuple(line))
+            outfile.flush()
 
 
 def readFullPlayers():
@@ -278,10 +340,11 @@ def readFullPlayers():
 
     for line in infile:
         idapi, name, country, age, premier, bundes, seriea, spain = line.replace('\n', '').split(',')
-        players.append(FifaPlayer(idapi=idapi, name=name, country=country, age=age, premier=premier, bundes=bundes,
-                                  seriea=seriea, spain=spain))
+        players.append(FifaPlayer(idapi=idapi, name=name, country=country, age=age, premier=int(premier),
+                                  bundes=int(bundes), seriea=int(seriea), spain=int(spain)))
 
     return players
+
 
 def writeFifaPlayersInLeagues():
     """
@@ -377,8 +440,68 @@ def checkWeirdLetters(path, sep=';'):
 
     infile.close()
 
-if __name__ == '__main__':
-    assignCountry()
 
-    readFullPlayers()
-    matchCountryCoords(players)
+def readPlayersBySeasons():
+
+    # Se leen y se guardan los jugadores con los paises
+    countryfile = open('jugadores_con_pais_mod.csv', 'r')
+    countryfile.readline()
+    playersByIds = {}
+    for line in countryfile:
+        idapi, name, country, age, _, _, _, _ = line.replace('\n', '').split(',')
+        playersByIds[int(idapi)] = name, country, int(age)
+    countryfile.close()
+
+    premierpath = 'tallerR/premierplayers2.csv'
+    bundespath = 'tallerR/bundesplayers2.csv'
+    serieapath = 'tallerR/serieaplayers2.csv'
+    spainpath = 'tallerR/spainplayers2.csv'
+    paths = [premierpath, bundespath, serieapath, spainpath]
+    leagues = ['premier', 'bundes', 'seriea', 'spain']
+
+    idseasonsleagues = set()
+    for path, league in zip(paths, leagues):
+        infile = open(path, 'r')
+        infile.readline()
+        for line in infile:
+            ids = line.replace('\n', '').split(',')
+            season = ids[0][1:5]
+            ids = ids[1:]
+            for pid in ids:
+                if pid != 'NA':
+                    idseasonsleagues.add((int(pid), int(season), league))
+
+    seasonleaguesById = {}
+    for idapi, season, league in idseasonsleagues:
+        if idapi in seasonleaguesById:
+            seasonleaguesById[idapi].append((season, league))
+        else:
+            seasonleaguesById[idapi] = [(season, league)]
+
+    outfile = open('jugadores_liga_pais.csv', 'w')
+    outfile.write('id,nombre,pais,edad,liga,temporada\n')
+    lineskel = '%d,%s,%s,%d,%s,%d\n'
+    for idapi in playersByIds:
+        if idapi in seasonleaguesById:
+            name, country, age = playersByIds[idapi]
+            for season, league in seasonleaguesById[idapi]:
+                ageaux = age + season - 2016
+                line = idapi, name, country, ageaux, league, season
+                outfile.write(lineskel % line)
+                outfile.flush()
+    outfile.close()
+
+
+def run():
+    players = readFullPlayers()
+    matchCountryCoordsv2(players)
+
+if __name__ == '__main__':
+
+    # assignCountry()
+    # run()
+    readPlayersBySeasons()
+    players = matchCountryCoords()
+
+    leagues = ['premier', 'bundes', 'seriea', 'spain']
+    seasons = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015]
