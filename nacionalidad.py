@@ -264,7 +264,7 @@ def matchCountryCoords():
     playerfile.readline()
     for line in playerfile:
         idapi, name, country, age, league, season = line.replace('\n', '').split(',')
-        players.append(FullPlayer(idapi, name, country, age, league, season))
+        players.append(FullPlayer(int(idapi), name, country, int(age), league, int(season)))
 
     infile = open('Dataset/countries_mod.csv', 'r')
     infile.readline()
@@ -282,7 +282,33 @@ def matchCountryCoords():
         else:
             print('no country for', player.name, player.country)
 
-    return players
+    return players, countries
+
+
+def createTables(players, countries):
+
+    leagues = ['premier', 'bundes', 'seriea', 'spain']
+    seasons = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015]
+    header = 'pais,lat,lon,edad,liga,temporada,jugadores\n'
+    lineskel = '%s,%f,%f,%f,%s,%d,%d\n'
+
+    filename = 'tabla_completa.csv'
+
+    outfile = open(filename, 'w')
+    outfile.write(header)
+
+    for countryname in countries:
+        country = countries[countryname]
+        for league in leagues:
+            for season in seasons:
+                auxplayers = [player.age for player in players if
+                              player.country == countryname and player.league == league and player.season == season]
+                if len(auxplayers) > 0:
+                    line = countryname, country.lat, country.lon, numpy.mean(auxplayers), league, season, len(auxplayers)
+                    outfile.write(lineskel % line)
+                    outfile.flush()
+
+    outfile.close()
 
 
 def matchCountryCoordsv2(players):
@@ -493,15 +519,13 @@ def readPlayersBySeasons():
 
 
 def run():
-    players = readFullPlayers()
-    matchCountryCoordsv2(players)
+    # assignCountry()
+    # players = readFullPlayers()
+    # matchCountryCoordsv2(players)
+    readPlayersBySeasons()
+    players, countries = matchCountryCoords()
+    createTables(players, countries)
+
 
 if __name__ == '__main__':
-
-    # assignCountry()
-    # run()
-    readPlayersBySeasons()
-    players = matchCountryCoords()
-
-    leagues = ['premier', 'bundes', 'seriea', 'spain']
-    seasons = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015]
+    run()

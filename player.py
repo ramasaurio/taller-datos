@@ -1,4 +1,5 @@
-class FullPlayer():
+
+class FullPlayer:
 
     def __init__(self, idapi, name, country, age, league, season):
         self.idapi = idapi

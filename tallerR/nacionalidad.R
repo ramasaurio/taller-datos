@@ -20,15 +20,16 @@ bundesmatches = match[match$league_id == 7775,]
 serieamatches = match[match$league_id == 10223,]
 spainmatches = match[match$league_id == 21484,]
 
-premierplayers = premiermatches[,56:77]
-bundesplayers = bundesmatches[,56:77]
-serieaplayers = serieamatches[,56:77]
-spainplayers = spainmatches[,56:77]
+columnas = c(4,56:77)
+premierplayers = premiermatches[,columnas]
+bundesplayers = bundesmatches[,columnas]
+serieaplayers = serieamatches[,columnas]
+spainplayers = spainmatches[,columnas]
 
-write.table(premierplayers, file="premierplayers.csv", sep=",", row.names=FALSE)
-write.table(bundesplayers, file="bundesplayers.csv", sep=",", row.names=FALSE)
-write.table(serieaplayers, file="serieaplayers.csv", sep=",", row.names=FALSE)
-write.table(spainplayers, file="spainplayers.csv", sep=",", row.names=FALSE)
+write.table(premierplayers, file="premierplayers2.csv", sep=",", row.names=FALSE)
+write.table(bundesplayers, file="bundesplayers2.csv", sep=",", row.names=FALSE)
+write.table(serieaplayers, file="serieaplayers2.csv", sep=",", row.names=FALSE)
+write.table(spainplayers, file="spainplayers2.csv", sep=",", row.names=FALSE)
 
 
 head(premierplayers)
@@ -39,7 +40,8 @@ head(leaguematches)
 
 aleix = tbl_df(dbGetQuery(con, "SELECT * FROM player WHERE player_name like '%neil%'"))
 aleix
-leagueplayers = leaguematches[,56:77]
+
+leagueplayers = leaguematches[,columnas]
 write.table(leagueplayers, file="league-players.csv", sep=",", row.names=FALSE)
 write.table(leagueplayers, file="total-players.csv", sep=",", row.names=FALSE)
 
@@ -59,3 +61,8 @@ counter
 
 playerinleagues = player[matched,]
 write.table(playerinleagues, file="players_in_leagues_table.csv", sep=",", row.names=FALSE)
+
+player[player$player_api_id == 26223,]
+head(match$season)
+match$season
+names(match)
