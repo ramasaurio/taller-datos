@@ -1,4 +1,3 @@
-from matplotlib.collections import PathCollection
 from mpl_toolkits.basemap import Basemap
 from country import Country
 import matplotlib.pyplot as plt
@@ -77,7 +76,7 @@ def run():
     seasons = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015]
 
     # se agrupan los datos
-    countryToData = groupData(dataByCombo, ['premier'], seasons, banHome=True)
+    countryToData = groupData(dataByCombo, leagues, seasons, banHome=True)
     lats, lons, ages, counts = aggregateData(countryToData, countries)
 
     # Se grafican los datos
@@ -90,39 +89,17 @@ def run():
     eq_map.fillcontinents(color='gray')
     # eq_map.drawmapboundary()
 
+    # TODO: cambiar la fórmula para que el área del círculo represente el total de jugadores
+    # TODO: arreglar el tema de los colores
     # TODO: ELegir qué gráficos mostrar y estamos listos
     maxs = max(counts)
 
-    xs = []
-    ys = []
-    sizes = []
-    colors = []
-
-    # Se obtienen las coordenadas y valores
     for lat, lon, age, count in zip(lats, lons, ages, counts):
         x, y = eq_map(lon, lat)
-        xs.append(x)
-        ys.append(y)
-        colors.append(age)
-        sizes.append(getMarkerSize(count, maxs))
-
-    # para chequear q el tamaño del marcador represente el área y no el radio
-    # x1, y1 = eq_map(-75, -35)
-    # x2, y2 = eq_map(-75, -33.6)
-    # x3, y3 = eq_map(-75, -36.5)
-    # xs = [x1, x2, x3]
-    # ys = [y1, y2, y3]
-    # colors = [25, 27, 30]
-    # sizes = [800, 200, 200]
-    pathCollection = eq_map.scatter(xs, ys, marker='o', c=colors, cmap='jet', s=sizes)
-    pathCollection.set_zorder(2)
-    plt.colorbar()
-
-    # Título
-    title_string = "Jugadores extranjeros en la Premier League\n"
-    title_string += "temporadas %d a %d" % (seasons[0], seasons[-1])
-    plt.title(title_string)
-
+        msize = getMarkerSize(count, maxs)
+        mcolor = getMarkerColor(age)
+        if msize is not None:
+            eq_map.plot(x, y, marker='o', markersize=msize, color='r')
     plt.show()
 
 
@@ -175,11 +152,15 @@ def colorTest():
 
 
 def getMarkerSize(count, maxs):
-    maxradius = 450
-    # maxmark = maxradius * math.sqrt(count / maxs)
-    # # return count * maxmark / maxs
-    return count * maxradius / maxs
+    maxradius = 20
+    maxmark = maxradius * math.sqrt(count / maxs)
+    return count * maxmark / maxs
+    # return (count - mins) * (maxmark - minmark) / (maxs - mins) + minmark
 
+
+def getMarkerColor(age):
+
+    return 0.5
 
 if __name__ == '__main__':
     run()
