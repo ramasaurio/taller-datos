@@ -1,8 +1,7 @@
 from mpl_toolkits.basemap import Basemap
 from country import Country
-from matplotlib import colorbar
 import matplotlib.pyplot as plt
-import numpy as np
+from matplotlib import ticker
 
 
 def groupData(dataByCombo, leagues, seasons, banHome=False):
@@ -67,7 +66,7 @@ def run():
     seasons = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015]
 
     # se agrupan los datos
-    countryToData = groupData(dataByCombo, ['premier'], seasons, banHome=True)
+    countryToData = groupData(dataByCombo, leagues, seasons, banHome=True)
     lats, lons, ages, counts = aggregateData(countryToData, countries)
 
     # Se grafican los datos
@@ -80,12 +79,8 @@ def run():
     eq_map.fillcontinents(color='gray')
     # eq_map.drawmapboundary()
 
-    maxs = max(counts)
-
-    xs = []
-    ys = []
-    sizes = []
-    colors = []
+    xs, ys = [], []
+    sizes, colors = [], []
 
     # Se obtienen las coordenadas y valores
     for lat, lon, age, count in zip(lats, lons, ages, counts):
@@ -93,7 +88,7 @@ def run():
         xs.append(x)
         ys.append(y)
         colors.append(age)
-        sizes.append(getMarkerSize(count, maxs))
+        sizes.append(getMarkerSize(count))
 
     # para chequear q el tamaño del marcador represente el área y no el radio
     # x1, y1 = eq_map(-75, -35)
@@ -105,21 +100,27 @@ def run():
     # sizes = [800, 200, 200]
     pathCollection = eq_map.scatter(xs, ys, marker='o', c=colors, cmap='jet', s=sizes)
     pathCollection.set_zorder(2)
-    cbar = plt.colorbar(shrink=0.9)
+    tick_locator = ticker.MaxNLocator(nbins=14)
+    cbar = plt.colorbar(shrink=0.6)
+    cbar.locator = tick_locator
+    cbar.update_ticks()
+    plt.clim(19, 33)
     cbar.set_label("Edades")
 
     # Título
-    title_string = "Jugadores extranjeros en la Premier League\n"
+    title_string = "Jugadores extranjeros en las 4 ligas\n"
     title_string += "Temporadas %d a %d" % (seasons[0], seasons[-1])
     plt.title(title_string, fontsize=25)
-
+    plt.savefig('todas_las_ligas.png', format='png', dpi=500)
     plt.show()
 
 
-def getMarkerSize(count, maxs):
+def getMarkerSize(count):
+    # maxradius = 500 está bien para el scatter
+    # maxs = 324 está bien para las ligas individuales. Para el total usar 688
     maxradius = 500
-    # maxmark = maxradius * math.sqrt(count / maxs)
-    # # return count * maxmark / maxs
+    maxs = 650
+
     return count * maxradius / maxs
 
 
