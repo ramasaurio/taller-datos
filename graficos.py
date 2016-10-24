@@ -66,11 +66,12 @@ def run():
     seasons = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015]
 
     # se agrupan los datos
-    countryToData = groupData(dataByCombo, leagues, seasons, banHome=True)
+    countryToData = groupData(dataByCombo, ['bundes'], seasons, banHome=True)
     lats, lons, ages, counts = aggregateData(countryToData, countries)
 
     # Se grafican los datos
-    plt.figure(figsize=(25, 20))
+    # plt.figure(figsize=(25, 20))
+    plt.figure(figsize=(30, 24))
     eq_map = Basemap(projection='merc', resolution='l', area_thresh=1000.0,
                      lat_0=0, lon_0=0, llcrnrlon=-120, llcrnrlat=-56,
                      urcrnrlon=+150, urcrnrlat=70)
@@ -108,18 +109,18 @@ def run():
     cbar.set_label("Edades")
 
     # Título
-    title_string = "Jugadores extranjeros en las 4 ligas\n"
+    title_string = "Jugadores extranjeros en la Bundesliga\n"
     title_string += "Temporadas %d a %d" % (seasons[0], seasons[-1])
     plt.title(title_string, fontsize=25)
-    plt.savefig('todas_las_ligas.png', format='png', dpi=500)
-    plt.show()
+    plt.savefig('bundesliga3.pdf', orientation='landscape', format='pdf', dpi=1000, bbox_inches='tight')
+    # plt.show()
 
 
 def getMarkerSize(count):
     # maxradius = 500 está bien para el scatter
     # maxs = 324 está bien para las ligas individuales. Para el total usar 688
     maxradius = 500
-    maxs = 650
+    maxs = 324
 
     return count * maxradius / maxs
 
