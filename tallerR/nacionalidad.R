@@ -12,6 +12,7 @@ nac = nacimiento[order(nacimiento$birthday),]
 
 match <- tbl_df(dbGetQuery(con,"SELECT * FROM Match"))
 league = tbl_df(dbGetQuery(con,"SELECT * FROM League"))
+players = tbl_df(dbGetQuery(con, "SELECT * FROM player"))
 
 leaguematches = match[(match$league_id == 1729 | match$league_id == 7775 | match$league_id == 10223 | match$league_id == 21484),]
 
@@ -30,7 +31,8 @@ write.table(premierplayers, file="premierplayers2.csv", sep=",", row.names=FALSE
 write.table(bundesplayers, file="bundesplayers2.csv", sep=",", row.names=FALSE)
 write.table(serieaplayers, file="serieaplayers2.csv", sep=",", row.names=FALSE)
 write.table(spainplayers, file="spainplayers2.csv", sep=",", row.names=FALSE)
-
+write.table(leaguematches, file="league_matches.csv", sep=",", row.names=FALSE)
+write.table(players, file="players.csv", sep=",", row.names=FALSE)
 
 head(premierplayers)
 

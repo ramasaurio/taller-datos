@@ -41,4 +41,5 @@ player_stat_final <- tbl_df(dbGetQuery(con, "SELECT DISTINCT player_fifa_api_id 
 player_stat_final
 # Este c?digo lo saqu? del sitio Kaggle. Hay un ejemplo de como calcular el promedio de FIFA rating para cada equipo en cada partido
 write.table(player, file="players.csv", sep=",", row.names=FALSE)
+write.table(match, file="matches.csv", sep=",", row.names=FALSE)
 
