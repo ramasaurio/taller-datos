@@ -1,11 +1,13 @@
 class Match:
 
-    def __init__(self, values, matches, homeId, awayId):
+    def __init__(self, values, matches, homeId, awayId, homePos, awayPos):
 
         self.matches = matches
         self.values = values
         self.homeId = homeId
         self.awayId = awayId
+        self.homePos = homePos
+        self.awayPos = awayPos
 
         date = self[self.matches.date]
         if len(date) > 9:
@@ -32,7 +34,8 @@ class Match:
 
 class Matches:
 
-    def __init__(self, path, idM=None, league=None, date=None, home=None, away=None, columns=None):
+    def __init__(self, path, idM=None, league=None, date=None, home=None, away=None, columns=None,
+                 homePos=None, awayPos=None):
 
         self.idM = idM
         self.league = league
@@ -58,6 +61,12 @@ class Matches:
         self.positions = dict([(self.columns[i][0], i) for i in range(len(self.columns))])
         infile = open(path, 'r')
         headers = infile.readline().replace('\n', '').replace('\r', '').replace('"', '').split(',')
+
+        hpos = open(homePos, 'r')
+        apos = open(awayPos, 'r')
+        hposheader = hpos.readline().replace('\n', '').replace('\r', '').replace('"', '').split(',')
+        aposheader = apos.readline().replace('\n', '').replace('\r', '').replace('"', '').split(',')
+
         for line in infile:
             line = line.replace('\n', '').replace('\r', '').replace('"', '').split(',')
             values = []
@@ -67,14 +76,27 @@ class Matches:
 
             homePlayers = []
             for homep in self.homePlayers:
-                homePlayers.append(line[headers.index(homep)])
+                homePlayers.append(int(line[headers.index(homep)]))
 
             awayPlayers = []
             for awayp in self.awayPlayers:
-                awayPlayers.append(line[headers.index(awayp)])
+                awayPlayers.append(int(line[headers.index(awayp)]))
 
-            self.matches.append(Match(values, self, homePlayers, awayPlayers))
+            homePositions = []
+            hposline = hpos.readline().replace('\n', '').replace('\r', '').replace('"', '').split(',')
+            for homep in self.homePlayers:
+                homePositions.append(hposline[hposheader.index(homep)])
+
+            awayPositions = []
+            aposline = apos.readline().replace('\n', '').replace('\r', '').replace('"', '').split(',')
+            for awayp in self.awayPlayers:
+                awayPositions.append(aposline[aposheader.index(awayp)])
+
+            self.matches.append(Match(values, self, homePlayers, awayPlayers, homePositions, awayPositions))
         infile.close()
 
     def __len__(self):
         return len(self.matches)
+
+    def __iter__(self):
+        return iter(self.matches)
