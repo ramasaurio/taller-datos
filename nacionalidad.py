@@ -4,6 +4,32 @@ from country import Country
 import math
 import numpy
 
+regions = {'brazil': ['Brazil'],
+           'argentina': ['Argentina'],
+           'united kingdom': ['United Kingdom'],
+           'spain': ['Spain'],
+           'italy': ['Italy'],
+           'france': ['France'],
+           'germany': ['Germany'],
+           'netherland': ['Netherlands'],
+           'uruguay': ['Uruguay'],
+           'sudamerica': ['Chile', 'Colombia', 'Peru', 'Paraguay', 'Venezuela', 'Ecuador', 'Bolivia', 'Panama', 'Suriname'],
+           'norteamerica': ['Mexico', 'United States', 'Costa Rica', 'Canada', 'Honduras', 'El Salvador', 'Jamaica',
+                            'Trinidad and Tobago'],
+           'asia': ['Japan', 'South Korea', 'China', 'Turkey', 'Israel', 'Ukraine', 'Iran', 'Lebanon', 'Iraq',
+                    'Georgia', 'Kazakhstan', 'Uzbekistan', 'Syria', 'Tajikistan', 'Oman', 'Azerbaijan', 'Armenia'],
+           'oceania': ['Australia'],
+           'yugoslavia': ['Croatia', 'Bosnia and Herzegovina', 'Slovenia', 'Macedonia', 'Serbia and Montenegro', 'Kosovo'],
+           'checoslovaquia': ['Czech Republic', 'Slovakia', 'Hungary'],
+           'africa': ['Senegal', 'Nigeria', 'Ivory Coast', 'Cameroon', 'Congo [DRC]', 'Morocco', 'Mali',
+                      'South Africa', 'Tunisia', 'Egypt', 'Sierra Leone', 'Mozambique', 'Central African Republic',
+                      'Zimbabwe', 'Zambia', 'Angola', 'Togo', 'Kenya', 'Guinea', 'Algeria', 'Uganda', 'Gambia',
+                      'Guinea-Bissau', 'Ghana', 'Liberia', 'Burkina Faso', 'Burundi', 'Cape Verde', 'Gabon', 'Benin',
+                      'Namibia'],
+           'europa_Oc': ['Switzerland', 'Sweden', 'Belgium', 'Poland', 'Austria', 'Portugal', 'Denmark', 'Greece',
+                         'Ireland', 'Norway', 'Iceland', 'Finland', 'Monaco'],
+           'eurioa_Or': ['Romania', 'Belarus', 'Russia', 'Bulgaria', 'Estonia', 'Albania', 'Latvia', 'Lithuania']}
+
 
 def assignCountry():
 
